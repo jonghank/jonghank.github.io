@@ -31,7 +31,7 @@
 - Homeworks and class participation (30%)
 
 == Lecture notes
-/ The link directs to the associated .ipynb file on GitHub, which opens on Google Colaboratory when the "Open in Colab" button is clicked. /
+/ The link directs to the associated .ipynb file on GitHub, which opens on Google Colaboratory when the "Open in Colab" button is $\Sigma_i x_i$ clicked. /
 . [https://gist.github.com/jonghank/76c5d123970802ea0b721c0140d09784 A very short Python introduction]
 . Python modules, numpy, matplotlib, pandas...
 . Differential equations, dynamical systems
