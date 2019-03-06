@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{ee370.html}, notime
+= EE370: Software lab. 
+[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Spring 2019 
+
+~~~
+== Announcements
+- Welcome to EE370: Software lab.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+
+This course covers elementary computational techniques for solving mathematical problems in electrical and electronic engineering. Students will use high level programming languages to formulate, interpret and analyze practical real-world problems encountered at a wide variety of engineering disciplines. Covered topics include but not limited to differential equations, linear algebra, probability, Fourier transform, introductory machine learning and artificial intelligence.
+
+*Lectures* 
+- Wed 13:30-16:30 (Callab-B01)
+
+*Office hours*
+- Wed 16:30-18:00 (Rm.516), or by appointments if you cannot meet them.
+
+*Prerequisites* 
+- Previous exposure to programming languages (Python or others).
+
+*Reference textbooks* \n
+- There are no required textbooks.
+
+*Grading policy*
+- Final projects (40%)
+- Midterm exam (30%)
+- Homeworks and class participation (30%)
+
+== Lecture notes
+/ The link directs to the associated .ipynb file on GitHub, which opens on Google Colaboratory when the "Open in Colab" button is clicked. /
+. [https://gist.github.com/jonghank/76c5d123970802ea0b721c0140d09784 A very short Python introduction]
+. Python modules, numpy, matplotlib, pandas...
+. Differential equations, dynamical systems
+. Stochastic systems
+. Fourier transform, sound signal processing
+. Image processing
+. Optimization
+. Data science and machine learning
+. Deep learning
+
+== Assignments
+
+/Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture./
+
+. Coming up.
+

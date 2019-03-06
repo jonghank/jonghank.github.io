@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{topics.html}, notime
+=Jong-Han Kim - Research Topics
+
+=== Machine learning based intelligent guidance techniques 
+- Online $l_1$-regularized optimization for optical misalignment cancellation of strap-down seekers. 
+- Target shape identification using RF signals based on unsupervised learning.
+
+=== Integrated guidance and control for constrained precision homing 
+- Finite horizon integrated guidance and control for constrained terminal homing of high performance missile systems.
+
+=== Guidance and control designs for full-scale missile development programs 
+- Highly reliable guidance and control design/implementation for several state-of-the-art missile systems development 
+programs. 
+- The works include classical, optimal, or robust control for highly unstable airframes and high-fidelity 
+flight simulation techniques.
+
+=== Optimal decentralized control for large-scale networked systems 
+- Theoretical studies on optimal decentralized control using convex analysis and convex optimization. 
+- Characterizes convex problems and explicitly solvable problems in optimal control of networked systems 
+under information constraints.
+
+=== Decentralized control for jet engine systems 
+- Suboptimal decentralized $H_2/H_\infty$ control synthesis. 
+- Convex relaxation and convex approximation of nonconvex optimal control problems. 
+- Application to jet engine control systems.
+
+=== Multiscale\/stochastic consensus for decentralized estimation 
+- Multiscale concepts to applied to consensus problems, for scalable distributed estimation. 
+- Stochastic message passing for convergence acceleration. Application to decentralized estimation problems.
+
+=== Tactical missile systems integration 
+- Mission profile design, operational performance/effectiveness analysis. 
+- Flight performance analysis.
+- Engineering level 6-DOF flight dynamics simulation.
+
+=== Attitude control for small satellites 
+- Design and experiments for attitude control of flexible satellites. 
+- Ground test modules development.
+
+=== Co-evolutionary algorithms for constrained optimization 
+- Constrained optimization, minimax optimization using evolutionary computation. 
+- Applications to design problems or control problems. 
+- Convergence acceleration by using artificial neural networks.

@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{ee212.html}, notime
+= EE212: Adventure Design 
+[https://khu-hri.weebly.com/professor.html Prof. Donghan Kim] and [http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Spring 2019 
+
+~~~
+== Announcements
+- Welcome to EE212: Adventure design.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+- Elementary making class using Arduinos
+-- Interfacing with Arduino (sensors, actuators, and elementary circuits)
+-- Arduino programming (C-language)
+- Team projects (of 2-4 persons)
+-- Engineering systems design and prototyping
+
+*Instructors* 
+- [https://khu-hri.weebly.com/professor.html Prof. Donghan Kim] (Rm.609)
+- [http://jonghank.khu.ac.kr Prof. Jong-Han Kim] (Rm.516)
+
+*Lectures* 
+- Fri 13:00-14:00 (Lecture: Rm.205)
+- Fri 14:00-16:50 (Lab: Callab-B01\/B05\/B06\/B07)
+
+*Office hours*
+- To be announced.
+
+*Reference textbooks* \n
+- There are no required textbooks.
+- [http://arduino.cc The official Arduino project webpage]
+- [http://tinkercad.com Tinkercad: A beautiful Arduino simulator]
+- A bunch of reference webpages on the internet; just type "arduino" in Google or Youtube.
+- Korean reference textbooks are also available
+-- {{<span lang="ko" xml:lang="ko">}}아두이노, 상상을 현실로 만드는 프로젝트, 영진닷컴.{{</span>}}
+-- {{<span lang="ko" xml:lang="ko">}}100% 실습! 리얼 아두이노, 성안당.{{</span>}}
+-- {{<span lang="ko" xml:lang="ko">}}Make: 초보 메이커의 전기 공작, 블로터앤미디어.{{</span>}}
+
+*Grading policy*
+- Final projects (50%)
+- Project proposal (30%)
+- Homeworks and class participation (20%)
+
+== Course contents
+/ Some of the course contents are from several Coursera courses on Arduinos, mainly delivered by Professor Ian Harris at University of California at Irvine. /  
+
+. [./ee212/1_Arduino_environment.pptx Arduino environment]
+. [./ee212/2_C_programming.pptx C programming]
+. [./ee212/3_Arduino_programs.pptx Arduino programs]
+. [./ee212/4_Basic_circuits.pptx Basic circuits]
+. [./ee212/5_Sensors_and_actuators.pptx Sensors and actuators]
+. [./ee212/6_Debugging.pptx Debugging]
+. [./ee212/7_LED_table_lamp.pptx Making) LED table lamp]
+. [./ee212/8_Variable_color_LED_lamp.pptx Making) Variable color LED lamp]
+. [./ee212/9_Melody_timer.pptx Making) Melody timer]
+. [./ee212/10_Digital_thermometer.pptx Making) Digital thermometer] 
+. [./ee212/11_Ultrasonic_parking_sensor.pptx Making) Ultrasonic parking sensor] 
+. Making) Sunflower

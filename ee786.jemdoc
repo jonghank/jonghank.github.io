@@ -1,0 +1,64 @@
+# jemdoc: menu{MENU}{ee786.html}, notime
+= EE786: Optimization Applications 
+[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Spring 2019 
+
+~~~
+== Announcements
+- Welcome to EE786: Optimization applications.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+- The course covers a wide range of engineering application problems that can be solved via convex optimization. With minimal contents on optimization theories, this course will focus on problem formulation techniques that transforms the real-life engineering problems into mathematical optimization problems. The students will work on numerical experiments from a wide variety of engineering and other disciplines, including signal processing, control, finances, and machine learning.
+
+*Lectures* 
+- Tue\/Thr 13:30-14:45 (Rm.103 at Multimedia bldg.)
+
+*Office hours*
+- Wed 16:30-18:00 (Rm.512)
+
+*Prerequisites* 
+- Optimization theory, convex optimization, machine learning, or equivalents.
+- Prior exposure to numerical computation (Python or others) will be helpful.
+
+*Reference textbooks* \n
+- There are no required textbooks.
+- [http://stanford.edu/~boyd/cvxbook/ Convex optimization]
+by Boyd and Vandenberghe will be a useful reference.
+
+*Grading policy*
+- Homework assignments (50\%)
+- Final presentation (50\%)
+
+== Course contents
+/Poorly organized lecture notes will be posted here./
+
+. Linear algebra review
+. Convex optimization review
+. Least squares and least norm solutions
+. Inverse problems and classical signal processing
+. Dynamical systems and classical optimal control
+. Nonclassical convex functions
+. Constrained convex optimization
+. Anomaly detection and trend filtering
+. Machine learning
+. Image in-painting
+. Nonclassical optimal control
+. Optimal planning
+. Portfolio optimization
+. Recommendation systems
+
+== Assignments
+
+/Several sets of occasional homeworks will be assigned. 
+You are encouraged to work in groups, however everyone should turn in his\/her own work./
+
+#. [./ee787/ee787_hw1.pdf Homework 1] (due 10/4): [./ee787/files/nearest_neighbor_data.json #nearest_neighbor_data.json], [./ee787/files/fitting_outliers.json fitting_outliers.json], 
+
+== Files
+
+/These are some data and the Python codes in .ipynb notebook files that we are using for lectures or homework assignments./
+
+#. [./ee787/files/handwriting.html Handwriting image classification.] ([./ee787/files/mnist_train.csv #mnist_train.csv], [./ee787/files/mnist_test.csv mnist_test.csv], [./ee787/files/handwriting.ipynb #handwriting.ipynb])
+

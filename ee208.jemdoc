@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{ee208.html}, notime
+= EE208: Introduction to Engineering Design 
+[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Autumn 2018 
+
+~~~
+== Announcements
+- Welcome to EE208: Introduction to engineering design.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+- Elementary making class using Arduinos
+-- Interfacing with Arduino (sensors, actuators, and elementary circuits)
+-- Arduino programming (C-language)
+- Team projects (of 2-4 persons)
+-- Engineering systems design and prototyping
+
+*Lectures* 
+- Fri 09:00-14:00 (Callab-B05)
+
+*Office hours*
+- Tue\/Thr 15:00-16:00 (Rm.516), or by appointments if you cannot meet them.
+- Fri 13:00-14:00 (Rm.552), held by Yeon Kang (TA).
+
+*Reference textbooks* \n
+- There are no required textbooks.
+- [http://arduino.cc The official Arduino project webpage]
+- [http://tinkercad.com Tinkercad: A beautiful Arduino simulator]
+- A bunch of reference webpages on the internet; just type "arduino" in Google or Youtube.
+- Korean reference textbooks are also available
+-- {{<span lang="ko" xml:lang="ko">}}아두이노, 상상을 현실로 만드는 프로젝트, 영진닷컴.{{</span>}}
+-- {{<span lang="ko" xml:lang="ko">}}100% 실습! 리얼 아두이노, 성안당.{{</span>}}
+-- {{<span lang="ko" xml:lang="ko">}}Make: 초보 메이커의 전기 공작, 블로터앤미디어.{{</span>}}
+
+*Grading policy*
+- Final projects (40%)
+- Project proposal (30%)
+- Class participation (30%)
+
+== Course contents
+/ Some of the course contents are from several Coursera courses on Arduinos, mainly delivered by Professor Ian Harris at University of California at Irvine. /  
+
+. [./ee208/1_Arduino_environment.pptx Arduino environment]
+. [./ee208/2_C_programming.pptx C programming]
+. [./ee208/3_Arduino_programs.pptx Arduino programs]
+. [./ee208/4_Basic_circuits.pptx Basic circuits]
+. [./ee208/5_Sensors_and_actuators.pptx Sensors and actuators]
+. [./ee208/6_Debugging.pptx Debugging]
+. [./ee208/7_LED_table_lamp.pptx Making) LED table lamp]
+. [./ee208/8_Variable_color_LED_lamp.pptx Making) Variable color LED lamp]
+. [./ee208/9_Melody_timer.pptx Making) Melody timer]
+. [./ee208/10_Digital_thermometer.pptx Making) Digital thermometer] 
+. [./ee208/11_Ultrasonic_parking_sensor.pptx Making) Ultrasonic parking sensor] 
+. Making) Sunflower

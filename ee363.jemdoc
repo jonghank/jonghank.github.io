@@ -1,0 +1,60 @@
+# jemdoc: menu{MENU}{ee363.html}, notime
+= EE363: Automatic Control 
+[https://khu-hri.weebly.com/professor.html Prof. Donghan Kim] and [http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Spring 2019 
+
+~~~
+== Announcements
+- Welcome to EE363: Automatic control.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+- Undergraduate entry level control course covering dynamic system modeling, 
+Laplace transform and transfer functions, frequency domain analysis, 
+state space descriptions, classical control design techniques, stability margins, and so on.
+
+*Instructors* 
+- [https://khu-hri.weebly.com/professor.html Prof. Donghan Kim] (Rm.609)
+- [http://jonghank.khu.ac.kr Prof. Jong-Han Kim] (Rm.516)
+
+*Lectures* 
+- Tue\/Thr 15:00-16:15 (Rm.205)
+
+*Office hours*
+- Tue\/Thr 16:15-17:00 (Rm.609, [donghani@khu.ac.kr Donghan Kim])
+- Wed 16:30-18:00 (Rm.516, [jonghank@khu.ac.kr Jong-Han Kim])
+- Or by appointments via emails
+
+*Reference textbooks* \n
+/These are extremely famous elementary level control textbooks. You don't have to get them all, 
+but having at least one on your shelf will make your life as an engineer easier./
+- Automatic Control Systems, by Golnaraghi and Kuo, 10th ed.
+- {{<span lang="ko" xml:lang="ko">}}Kuo의 자동제어, by Golnaraghi and Kuo, 10판, 퍼스트북. (Automatic control systems 한글번역본){{</span>}}
+- Feedback Control of Dynamic Systems, by Franklin, Powell, and Emami-Naeini
+- Modern Control Engineering, by Ogata
+
+*Grading policy*
+- Final exam (40\%) 
+- Midterm exam (40\%) 
+- Homework assignments (10\%)
+- Class participation (10\%) 
+
+== Lecture slides
+. [./ee363/Kuo10e_01.pdf Introduction to control systems]
+. [./ee363/Kuo10e_02.pdf Modeling of dynamic systems]
+. [./ee363/Kuo10e_03v3.pdf Solution of differential equations of dynamic systems]
+. [./ee363/Kuo10e_04v03.pdf Block diagrams and signal-flow graphs]
+. [./ee363/Kuo10e_05v01.pdf Stability of linear control systems]
+. [./ee363/Kuo10e_06v02.pdf Important conponents of feedback control systems]
+. [./ee363/Kuo10e_07v1.pdf Time-domain performance of control systems]
+. [./ee363/Kuo10e_08v01.pdf State-space analysis and controller design]
+. [./ee363/Kuo10e_09v01.pdf Root-locus analysis]
+. [./ee363/Kuo10e_10v02.pdf Frequency-domain analysis]
+. [./ee363/Kuo10e_11v01.pdf Design of control systems]
+
+== Assignments
+/Homework problems will be taken from Automatic control systems by Golnaraghi and Kuo (10th ed.)./
+
+. HW\#1: To be announced.
+

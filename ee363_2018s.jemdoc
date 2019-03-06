@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{ee363.html}, notime
+= EE363: Automatic Control 
+[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Spring 2018 
+
+~~~
+== Announcements
+- Final exam (with solutions) was posted.
+- Homework\#8 (the last one) was posted.
+- Homework\#7 was posted.
+- Homework\#6 was posted.
+- Class will meet at Callab-B05 on 5\/15 and 5\/17.
+- Homework\#5 was posted.
+- Homework\#4 was posted.
+- Midterm exam (with solutions) was posted.
+- Homework\#3 was posted.
+- Midterm exam will be on Thursday April 26th (12:00-13:30) at Rm.445. Open-textbooks and open-calculators; you may bring everything you want except for laptops. The exam may cover whatever we discussed in classes and in homeworks by then.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+- Undergraduate entry level control course covering dynamic system modeling, 
+Laplace transform and transfer functions, frequency domain analysis, 
+state space descriptions, classical control design techniques, stability margins, and so on.
+
+*Lectures* 
+- Tue\/Thr 12:00-13:30 (Rm.445)
+
+*Office hours*
+- Tue\/Thr 13:30-15:00 (Rm.516), or by appointments if you cannot meet them
+
+*Reference textbooks* \n
+/These are extremely famous elementary level control textbooks. You don't have to get them all, 
+but having at least one on your shelf will make your life as an engineer easier./
+- Automatic Control Systems, by Golnaraghi and Kuo
+- Feedback Control of Dynamic Systems, by Franklin, Powell, and Emami-Naeini
+- Modern Control Engineering, by Ogata
+
+*Grading policy*
+- Final exam (40\%) 
+- Midterm exam (40\%) 
+- Homeworks and class participation (20\%) 
+
+== Assignments
+/Homeworks will be assigned mostly on Thursdays and are due the next Thursday. 
+You are encouraged to work in groups, however everyone should turn in his\/her own work./
+. [./ee363/ee363_hw2.pdf HW\#2] (due 4\/12)
+. [./ee363/ee363_hw3.pdf HW\#3] (due 4\/19)
+. [./ee363/ee363_hw4.pdf HW\#4] (due 5\/10)
+. [./ee363/ee363_hw5.pdf HW\#5] (due 5\/17; extended to 5\/24)
+. [./ee363/ee363_hw6.pdf HW\#6] (due 5\/24)
+. [./ee363/ee363_hw7.pdf HW\#7] (due 6\/7)
+. [./ee363/ee363_hw8.pdf HW\#8] (due 6\/19)
+
+== Exams
+. [./ee363/midterm.pdf Midterm] and [./ee363/midterm_sol.pdf solutions] 
+. [./ee363/final.pdf Final] and [./ee363/final_sol.pdf solutions] 
+
