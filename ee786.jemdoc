@@ -4,6 +4,7 @@
 
 ~~~
 == Announcements
+- Classroom changes to Rm.513 at Multimedia bldg.
 - Welcome to EE786: Optimization applications.
 ~~~
 
@@ -13,10 +14,10 @@
 - The course covers a wide range of engineering application problems that can be solved via convex optimization. With minimal contents on optimization theories, this course will focus on problem formulation techniques that transforms the real-life engineering problems into mathematical optimization problems. The students will work on numerical experiments from a wide variety of engineering and other disciplines, including signal processing, control, finances, and machine learning.
 
 *Lectures* 
-- Tue\/Thr 13:30-14:45 (Rm.103 at Multimedia bldg.)
+- Tue\/Thr 13:30-14:45 (Rm.513 at Multimedia bldg.)
 
 *Office hours*
-- Wed 16:30-18:00 (Rm.512)
+- Wed 16:30-18:00 (Rm.516)
 
 *Prerequisites* 
 - Optimization theory, convex optimization, machine learning, or equivalents.
@@ -32,9 +33,10 @@ by Boyd and Vandenberghe will be a useful reference.
 - Final presentation (50\%)
 
 == Course contents
-/Poorly organized lecture notes will be posted here./
+/The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 
-. Linear algebra review
+
+. [https://nbviewer.jupyter.org/gist/jonghank/b5079d0756659f43764942264b599f78 Linear algebra review]
 . Convex optimization review
 . Least squares and least norm solutions
 . Inverse problems and classical signal processing
