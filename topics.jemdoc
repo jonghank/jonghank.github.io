@@ -1,8 +1,38 @@
 # jemdoc: menu{MENU}{topics.html}, notime
 =Jong-Han Kim - Research Topics
 
+== Current
+=== Parallel convex optimization for large-scale machine learning acceleration
+
+/funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2019-2022)/
+- Developing efficient large-scale convex optimization solvers running on GPUs
+- A variety of large-scale convex programming applications, including integrated guidance systems, compressed sensing, inverse problems, and so on.
+
+=== Fault detection and reconfigurable flight control systems for passenger aerial vehicles
+
+/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2019-2021)/
+- Control allocation via online convex programming
+- Fault detection and identification via deep neural networks
+
+=== Advanced pilot assistance systems based on deep reinforcement learning
+
+/funded by [http://itech.keit.re.kr/ Korea Evaluation Institute of Industrial Technology] (2018-2022)/
+- Collision avoidance techniques based on end-to-end deep reinforcement learning
+- Validations on embedded GPUs and flight tests on fixed wing aircrafts.
+
+=== Synthetic aperture radar processing based on compressed sensing
+
+/funded by [http://add.re.kr Agency for Defense Development] (2018-2020)/
+- Radar imaging quality improvement via compressed sensing
+- Large-scale convex programming research
+
+=== Integrated guidance and control under state constraints
+- Constrained integrated guidance and control problems cast as online convex programming
+- Handles various constraints on guidance performance, seeker's tracking performance, flight quality, and so on
+
+== Past
 === Machine learning based intelligent guidance techniques 
-- Online $l_1$-regularized optimization for optical misalignment cancellation of strap-down seekers. 
+- Online $\ell_1$-regularized optimization for optical misalignment cancellation of strap-down seekers. 
 - Target shape identification using RF signals based on unsupervised learning.
 
 === Integrated guidance and control for constrained precision homing 
