@@ -2,7 +2,7 @@
 =Jong-Han Kim - Research Topics
 
 == Current
-=== Parallel convex optimization for large-scale machine learning acceleration
+=== Parallel convex optimization for large-scale machine learning acceleration  
 
 /funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2019-2022)/
 - Developing efficient large-scale convex optimization solvers running on GPUs
