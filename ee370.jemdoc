@@ -31,7 +31,7 @@
 - Homework assignments and class participation (30%)
 
 == Lecture notes
-he link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
+/The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 . [https://nbviewer.jupyter.org/gist/jonghank/76c5d123970802ea0b721c0140d09784 A very short Python introduction]
 . Python modules, numpy, matplotlib, pandas...
 . Differential equations, dynamical systems
@@ -44,7 +44,7 @@ he link directs to the associated Jupyter notebook, which opens on Google Colabo
 
 == Assignments
 
-/Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture./
+/Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture to [2013104022@khu.ac.kr 2013104022@khu.ac.kr]./
 
 . [https://nbviewer.jupyter.org/gist/jonghank/7fa36f6d00a94af61682e0eb627c13f7 Fibonacci numbers] (due 3\/20)
 . [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 3\/20)
