@@ -34,7 +34,7 @@
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 . [https://nbviewer.jupyter.org/gist/jonghank/76c5d123970802ea0b721c0140d09784 A very short Python introduction]
 . [https://nbviewer.jupyter.org/gist/jonghank/f23d73f12705b99612bd477c82e05da5 Numpy module]
-. Python modules, numpy, matplotlib, pandas...
+. Python modules, matplotlib, pandas...
 . Differential equations, dynamical systems
 . Stochastic systems
 . Fourier transform, sound signal processing
