@@ -37,8 +37,9 @@ by Boyd and Vandenberghe will be a useful reference.
 
 
 . [https://nbviewer.jupyter.org/gist/jonghank/b5079d0756659f43764942264b599f78 Linear algebra review]
-. Convex optimization review
 . Least squares and least norm solutions
+. [https://nbviewer.jupyter.org/gist/jonghank/1522a2b3a2d5f470ed234e75edac4f42 Trend filtering]
+. [https://nbviewer.jupyter.org/gist/jonghank/277a5348d63a73c2f296751f59812325 Convex optimization review]
 . Inverse problems and classical signal processing
 . Dynamical systems and classical optimal control
 . Nonclassical convex functions
