@@ -40,7 +40,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . Least squares and least norm problems
 . [https://nbviewer.jupyter.org/gist/jonghank/1522a2b3a2d5f470ed234e75edac4f42 Trend filtering]
 . [https://nbviewer.jupyter.org/gist/jonghank/74f84cfddd101dc2fb081d1331c086af Kalman filter]
-. [https://nbviewer.jupyter.org/gist/jonghank/44c0f728c14b6fa4538d20b3832af93c Minimum energy control]
+. [https://nbviewer.jupyter.org/gist/jonghank/3490299507cd8f3b3e2f18b61c80b300 Minimum energy control]
 . [https://nbviewer.jupyter.org/gist/jonghank/277a5348d63a73c2f296751f59812325 Convex optimization review]
 . Nonclassical convex functions
 . Constrained convex optimization
