@@ -36,7 +36,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/76c5d123970802ea0b721c0140d09784 A very short Python introduction]
 . [https://nbviewer.jupyter.org/gist/jonghank/f23d73f12705b99612bd477c82e05da5 Numpy module]
 . [https://nbviewer.jupyter.org/gist/jonghank/94c371fb4efddc176280fa9c6800b819 Matplotlib module]
-. Pandas module
+. [https://nbviewer.jupyter.org/gist/jonghank/b0762f5ce8148acd5d090274823fff13 Pandas module] (Files: [./ee370/files/kfxsim.csv kfxsim.csv], [./ee370/files/speeches.json speeches.json], [./ee370/files/khu_entrance.png khu_entrance.png])
 . Differential equations, dynamical systems
 . Stochastic systems
 . Fourier transform, sound signal processing
@@ -53,4 +53,6 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 3\/20)
 . [https://nbviewer.jupyter.org/gist/jonghank/08651408ef99ebf47e7446892346a18e Linear algebra exercises] (due 3\/27)
 . [https://nbviewer.jupyter.org/gist/jonghank/e25203c267957c7f3a59f3e84dea0363 Google PageRank] (due 4\/3)
+. [https://nbviewer.jupyter.org/gist/jonghank/453f922669b0e92ff55aba276728c279 Moving average trend on S&P 500] (due 4\/10)
+
 
