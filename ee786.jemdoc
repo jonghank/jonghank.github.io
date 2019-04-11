@@ -41,6 +41,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.jupyter.org/gist/jonghank/1522a2b3a2d5f470ed234e75edac4f42 Trend filtering]
 . [https://nbviewer.jupyter.org/gist/jonghank/74f84cfddd101dc2fb081d1331c086af Kalman filter]
 . [https://nbviewer.jupyter.org/gist/jonghank/3490299507cd8f3b3e2f18b61c80b300 Minimum energy control]
+. [https://nbviewer.jupyter.org/gist/jonghank/b195d4737bb157be990a40c08ad21a8d Waypoint guidance]
+. [https://nbviewer.jupyter.org/gist/jonghank/b5e0c5b48ed3176f68f3da885ac0a3b7 Schur complement]
 . [https://nbviewer.jupyter.org/gist/jonghank/277a5348d63a73c2f296751f59812325 Convex optimization review]
 . Nonclassical convex functions
 . Constrained convex optimization
@@ -57,7 +59,7 @@ by Boyd and Vandenberghe will be a useful reference.
 /Several sets of occasional homeworks will be assigned. 
 You are encouraged to work in groups, however everyone should turn in his\/her own work./
 
-#. [./ee787/ee787_hw1.pdf Homework 1] (due 10/4): [./ee787/files/nearest_neighbor_data.json #nearest_neighbor_data.json], [./ee787/files/fitting_outliers.json fitting_outliers.json], 
+. [https://nbviewer.jupyter.org/gist/jonghank/a46d329f0ead8d2683a5e1b34020eac3 Formation flight] (due 4/25)
 
 == Files
 
