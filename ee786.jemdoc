@@ -43,7 +43,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.jupyter.org/gist/jonghank/3490299507cd8f3b3e2f18b61c80b300 Minimum energy control]
 . [https://nbviewer.jupyter.org/gist/jonghank/b195d4737bb157be990a40c08ad21a8d Waypoint guidance]
 . [https://nbviewer.jupyter.org/gist/jonghank/b5e0c5b48ed3176f68f3da885ac0a3b7 Schur complement]
-. [https://nbviewer.jupyter.org/gist/jonghank/277a5348d63a73c2f296751f59812325 Convex optimization review]
+. [https://nbviewer.jupyter.org/gist/jonghank/46a2c392c2153a555234a895a7dde640 Convex functions]
+. [https://nbviewer.jupyter.org/gist/jonghank/277a5348d63a73c2f296751f59812325 Convex optimization]
 . Nonclassical convex functions
 . Constrained convex optimization
 . Anomaly detection and trend filtering
