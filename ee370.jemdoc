@@ -38,7 +38,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/94c371fb4efddc176280fa9c6800b819 Matplotlib module]
 . [https://nbviewer.jupyter.org/gist/jonghank/b0762f5ce8148acd5d090274823fff13 Pandas module] (Files: [./ee370/files/kfxsim.csv kfxsim.csv], [./ee370/files/speeches.json speeches.json], [./ee370/files/khu_entrance.png khu_entrance.png])
 . [https://nbviewer.jupyter.org/gist/jonghank/7783adcbad95bffbfe0d4ba560146f7a Differential equations and dynamical systems]
-. [https://nbviewer.jupyter.org/gist/jonghank/84942d7a960e4c7119302430eeabc8c6 Fourier transform and sound signals]
+. [https://nbviewer.jupyter.org/gist/jonghank/b09cb1eac352685542989e1fe12feaeb Fourier transform and sound signals]
 . Stochastic systems
 . Image processing
 . Optimization
@@ -55,5 +55,6 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/a7b2b73ece5f0e8568b79a027d124def Google PageRank] (due 4\/3, [https://nbviewer.jupyter.org/gist/jonghank/3a953224ecebc802d011da6078797464 solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/4f208f8d3dc98b7bbe6b524550abf354 Moving average trend on S&P 500] (due 4\/10, [https://nbviewer.jupyter.org/gist/jonghank/c03ea202d09612be2c7bf905b5db34e0 solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/0b9bdc42ae7c4cfe69666be20e46f5ad Firing table] (due 4/17)
+. [https://nbviewer.jupyter.org/gist/jonghank/aa391e58abd59c6ad03d3321bcc4345b Back in black] (Files: [./ee370/files/back_in_black.wav back\_in\_black.wav]) (due 4/24)
 
 
