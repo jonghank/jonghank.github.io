@@ -38,10 +38,10 @@ by Boyd and Vandenberghe will be a useful reference.
 
 . [https://nbviewer.jupyter.org/gist/jonghank/b5079d0756659f43764942264b599f78 Linear algebra review]
 . Least squares and least norm problems
-. [https://nbviewer.jupyter.org/gist/jonghank/1522a2b3a2d5f470ed234e75edac4f42 Trend filtering]
-. [https://nbviewer.jupyter.org/gist/jonghank/74f84cfddd101dc2fb081d1331c086af Kalman filter]
-. [https://nbviewer.jupyter.org/gist/jonghank/3490299507cd8f3b3e2f18b61c80b300 Minimum energy control]
-. [https://nbviewer.jupyter.org/gist/jonghank/b195d4737bb157be990a40c08ad21a8d Waypoint guidance]
+. [https://nbviewer.jupyter.org/gist/jonghank/a9039f02e86b08317be514437108ad40 Trend filtering]
+. [https://nbviewer.jupyter.org/gist/jonghank/0d01adeeb2d9e8cc02cee1c1914b6166 Kalman filter]
+. [https://nbviewer.jupyter.org/gist/jonghank/9979985100f876251dc7f4e65a7d1cf4 Minimum energy control]
+. [https://nbviewer.jupyter.org/gist/jonghank/b5898c088becf376dd1dfe29cebcf137 Waypoint guidance]
 . [https://nbviewer.jupyter.org/gist/jonghank/b5e0c5b48ed3176f68f3da885ac0a3b7 Schur complement]
 . [https://nbviewer.jupyter.org/gist/jonghank/46a2c392c2153a555234a895a7dde640 Convex functions]
 . [https://nbviewer.jupyter.org/gist/jonghank/277a5348d63a73c2f296751f59812325 Convex optimization]
