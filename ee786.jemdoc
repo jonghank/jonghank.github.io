@@ -45,6 +45,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.jupyter.org/gist/jonghank/b5e0c5b48ed3176f68f3da885ac0a3b7 Schur complement]
 . [https://nbviewer.jupyter.org/gist/jonghank/46a2c392c2153a555234a895a7dde640 Convex functions]
 . [https://nbviewer.jupyter.org/gist/jonghank/e6096e1705eadc6d25243aa263946633 Convex optimization]
+. [https://nbviewer.jupyter.org/gist/jonghank/15c3438f04cb429320ee373611d3aaa9 An extremely short +cvxpy+ tutorial]
+. [https://nbviewer.jupyter.org/gist/jonghank/f5db65692062b7cef9045e57402ea2e8 Aircraft wing design]
 . Nonclassical convex functions
 . Constrained convex optimization
 . Anomaly detection and trend filtering
