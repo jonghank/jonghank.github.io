@@ -40,7 +40,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/7783adcbad95bffbfe0d4ba560146f7a Differential equations and dynamical systems]
 . [https://nbviewer.jupyter.org/gist/jonghank/b09cb1eac352685542989e1fe12feaeb Fourier transform and sound signals]
 . [https://nbviewer.jupyter.org/gist/jonghank/b91d5bfe04ba795e94c827733eec140f Bayesian inference]
-. Stochastic systems
+. [https://nbviewer.jupyter.org/gist/jonghank/769da2c835cf93ee5fea3fbce6534152 Monte-Carlo methods]
 . Image processing
 . Optimization
 . Data science and machine learning
@@ -57,7 +57,10 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/4f208f8d3dc98b7bbe6b524550abf354 Moving average trend on S&P 500] (due 4\/10, [https://nbviewer.jupyter.org/gist/jonghank/c03ea202d09612be2c7bf905b5db34e0 solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/0b9bdc42ae7c4cfe69666be20e46f5ad Firing table] (due 4/17, [https://nbviewer.jupyter.org/gist/jonghank/768b6fadb2a76ac14153e4015c5725fa solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/aa391e58abd59c6ad03d3321bcc4345b Back in black] (Files: [./ee370/files/back_in_black.wav back\_in\_black.wav]) (due 4/24, [https://nbviewer.jupyter.org/gist/jonghank/921978e7c5856ac1d92c5596d25950a4 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/7b8b92438d5d334ecfd4a9995c90082a Mobile phone localization] (due 5\/15)
+. [https://nbviewer.jupyter.org/gist/jonghank/7b8b92438d5d334ecfd4a9995c90082a Mobile phone localization] (due 5\/15, [https://nbviewer.jupyter.org/gist/jonghank/d35938ee30991017711bcf138eb75b02 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets] (due 5\/22)
+
+
 == Exams
 
 . [https://nbviewer.jupyter.org/gist/jonghank/9490e395c975b41c1ef31e0c054ba5bd Midterm exam] ([https://nbviewer.jupyter.org/gist/jonghank/93813f0f625ebedff6de6cd569ad5e04 solution])
