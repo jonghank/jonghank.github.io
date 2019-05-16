@@ -47,6 +47,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.jupyter.org/gist/jonghank/e6096e1705eadc6d25243aa263946633 Convex optimization]
 . [https://nbviewer.jupyter.org/gist/jonghank/15c3438f04cb429320ee373611d3aaa9 An extremely short +cvxpy+ tutorial]
 . [https://nbviewer.jupyter.org/gist/jonghank/43d158f3f0a41204f790caf609dde1a0 More optimal controls]
+. [https://nbviewer.jupyter.org/gist/jonghank/213e7cbca1311c8f392972790f2dbf86 Quasiconvex optimization]
+. [https://nbviewer.jupyter.org/gist/jonghank/b4e2fb285663f6f554858e16774153a9 Minimum time control]
 . [https://nbviewer.jupyter.org/gist/jonghank/2a79fd046a19484a63d16d911d801cfe Image in-painting]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ecd6226de04db29fdc22a64a4ee879f Aircraft wing design]
 . Nonclassical convex functions
