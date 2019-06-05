@@ -43,7 +43,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/769da2c835cf93ee5fea3fbce6534152 Monte-Carlo methods]
 . [https://nbviewer.jupyter.org/gist/jonghank/772677135eca2eb9d954bfc1b1a91a0e Image processing]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ca42dcffc2eab625e1497fd99fb310a Supervised learning]
-. Unsupervised learning
+. [https://nbviewer.jupyter.org/gist/jonghank/551960e491924786284840a8eb480cfb Unsupervised learning]
 . Deep learning
 
 == Assignments
@@ -60,8 +60,10 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/7b8b92438d5d334ecfd4a9995c90082a Mobile phone localization] (due 5\/15, [https://nbviewer.jupyter.org/gist/jonghank/d35938ee30991017711bcf138eb75b02 solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets] (due 5\/22, [https://nbviewer.jupyter.org/gist/jonghank/b3f4f77f2c2b7327ced05255e145d390 solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/8d2d794d1cb7fc60a58d1e29396190d7 CCTV video processing] (Files: [./ee370/files/vtest.avi vtest.avi], due 5\/29 [https://nbviewer.jupyter.org/gist/jonghank/718dafb9493e9074c9dd87491f9a65a8 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction] (due 6\/5)
+. [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction] (due 6\/5, [https://nbviewer.jupyter.org/gist/jonghank/fdd74281cc621344e8d3f6b1ce9a62b0 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players] (due 6\/12)
 
 == Exams
 
 . [https://nbviewer.jupyter.org/gist/jonghank/9490e395c975b41c1ef31e0c054ba5bd Midterm exam] ([https://nbviewer.jupyter.org/gist/jonghank/93813f0f625ebedff6de6cd569ad5e04 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/8582327b2af4de2f1130fb7bc0b27fcc Final projects]
