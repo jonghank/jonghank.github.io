@@ -57,7 +57,8 @@ but having at least one on your shelf will make your life as an engineer easier.
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 
 . [https://nbviewer.jupyter.org/gist/jonghank/2dbd42d08350241e95f150092740f87f Python control systems library]
-. [https://nbviewer.jupyter.org/gist/jonghank/23ceee5bf739d94711959bbd1211d11f Exercises]
+. [https://nbviewer.jupyter.org/gist/jonghank/23ceee5bf739d94711959bbd1211d11f Exercises on step responses and dominant poles]
+. [https://nbviewer.jupyter.org/gist/jonghank/56cfe26bc6c4c766e300731f9b3f34ac Exercises on root locus techniques]
 
 == Assignments
 /Homework problems will be taken from Automatic control systems by Golnaraghi and Kuo (10th ed.)./
