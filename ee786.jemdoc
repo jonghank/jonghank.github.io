@@ -56,9 +56,9 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.jupyter.org/gist/jonghank/0a7d290563816207b3d3988ec5103615 Sparse solutions]
 . [https://nbviewer.jupyter.org/gist/jonghank/1187742d72286adaaab668350b989bbf $\ell_1$ trend filtering]
 . [https://nbviewer.jupyter.org/gist/jonghank/9ec3f1995a04ddb0729b731ea86f899f Robust Kalman filter with Huber penalty functions]
+. [https://nbviewer.jupyter.org/gist/jonghank/b63e3a5429dd705cbbc6f71a5b2a7699 Huber regression]
+. [https://nbviewer.jupyter.org/gist/jonghank/fb3f433146c401a47be2da40c013bcd1 Support vector machine]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ecd6226de04db29fdc22a64a4ee879f Aircraft wing design]
-. Machine learning
-. Portfolio optimization
 . Recommendation systems
 
 == Assignments
