@@ -44,7 +44,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/772677135eca2eb9d954bfc1b1a91a0e Image processing]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ca42dcffc2eab625e1497fd99fb310a Supervised learning]
 . [https://nbviewer.jupyter.org/gist/jonghank/1e6e2aaaa301f88609ae9485ac9d5e02 Unsupervised learning]
-. Other high level languages
+. Other high level languages (Polynomial fit [https://nbviewer.jupyter.org/gist/jonghank/8626d14bc5cdba949d7d7b2fdc019d87 in python], [./ee370/files/Ex_Polynomial_fit_julia.html in julia], [./ee370/files/Ex_Polynomial_fit_matlab.m in matlab], and [./ee370/files/fit_data.csv the data file])
 
 == Assignments
 
@@ -61,7 +61,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets] (due 5\/22, [https://nbviewer.jupyter.org/gist/jonghank/b3f4f77f2c2b7327ced05255e145d390 solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/8d2d794d1cb7fc60a58d1e29396190d7 CCTV video processing] (Files: [./ee370/files/vtest.avi vtest.avi], due 5\/29 [https://nbviewer.jupyter.org/gist/jonghank/718dafb9493e9074c9dd87491f9a65a8 solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction] (due 6\/5, [https://nbviewer.jupyter.org/gist/jonghank/fdd74281cc621344e8d3f6b1ce9a62b0 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players] (due 6\/12)
+. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players] (due 6\/12, [https://nbviewer.jupyter.org/gist/jonghank/fb487bf82a0a558e67c4fc47e084dd0b solution])
 
 == Exams
 
