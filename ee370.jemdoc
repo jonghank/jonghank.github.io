@@ -44,7 +44,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/772677135eca2eb9d954bfc1b1a91a0e Image processing]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ca42dcffc2eab625e1497fd99fb310a Supervised learning]
 . [https://nbviewer.jupyter.org/gist/jonghank/1e6e2aaaa301f88609ae9485ac9d5e02 Unsupervised learning]
-. Other high level languages (Polynomial fit [https://nbviewer.jupyter.org/gist/jonghank/8626d14bc5cdba949d7d7b2fdc019d87 in python], [./ee370/files/Ex_Polynomial_fit_julia.ipynb in julia], [./ee370/files/Ex_Polynomial_fit_matlab.m in matlab], and the data file [./ee370/files/fit_data.csv fit_data.csv])
+. Other high level languages (Polynomial fit [https://nbviewer.jupyter.org/gist/jonghank/8626d14bc5cdba949d7d7b2fdc019d87 in python], in julia([./ee370/files/Ex_Polynomial_fit_julia.html .html]/[./ee370/files/Ex_Polynomial_fit_julia.ipynb .ipynb]), [./ee370/files/Ex_Polynomial_fit_matlab.m in matlab], and the data file [./ee370/files/fit_data.csv fit_data.csv])
 
 == Assignments
 
