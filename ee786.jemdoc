@@ -59,7 +59,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.jupyter.org/gist/jonghank/b63e3a5429dd705cbbc6f71a5b2a7699 Huber regression]
 . [https://nbviewer.jupyter.org/gist/jonghank/fb3f433146c401a47be2da40c013bcd1 Support vector machine]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ecd6226de04db29fdc22a64a4ee879f Aircraft wing design]
-. Recommendation systems
+. Summary
 
 == Assignments
 
@@ -68,10 +68,12 @@ You are encouraged to work in groups, however everyone should turn in his\/her o
 
 . [https://nbviewer.jupyter.org/gist/jonghank/558f02d543dee067a103d840071a2e2b Formation flight] (due 4/25)
 . [https://nbviewer.jupyter.org/gist/jonghank/1200b82b7a01f1e11b28701971a6f594 Image colorization] (due 6/4)
+. [https://nbviewer.jupyter.org/gist/jonghank/c7707dc3b9011d6c2a2ccec861da8de2 Recommendation system] (due 6/20)
 
 == Files
 
 /These are some data and the Python codes in .ipynb notebook files that we are using for lectures or homework assignments./
 
 #. [./ee787/files/handwriting.html Handwriting image classification.] ([./ee787/files/mnist_train.csv #mnist_train.csv], [./ee787/files/mnist_test.csv mnist_test.csv], [./ee787/files/handwriting.ipynb #handwriting.ipynb])
+
 
