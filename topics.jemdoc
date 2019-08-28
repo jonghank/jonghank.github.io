@@ -2,6 +2,18 @@
 =Jong-Han Kim - Research Topics
 
 == Current
+
+=== Re-entry and landing for reusable launch vehicles
+
+/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2019-2021)/
+- Convex programming for optimal soft landing of reusable launch vehicles
+- Actuator allocation via convex programming
+
+=== 3D computer generated holography via convex programming
+
+/funded by [http://www.etri.re.kr Electronics and Telecommunications Research Institute] (2019-2020)/
+- Computer generated holography by using convex programming with sharpness-enhancing objective functions
+
 === Parallel convex optimization for large-scale machine learning acceleration  
 
 /funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2019-2022)/
