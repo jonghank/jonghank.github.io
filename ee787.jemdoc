@@ -1,20 +1,16 @@
 # jemdoc: menu{MENU}{ee787.html}, notime
-= EE787: Fundamentals of Machine Learning 
-[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Autumn 2018 
+= EE787: Machine Learning 
+[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Autumn 2019 
 
 ~~~
 == Announcements
-- The class will not meet on Thursday, Nov 8th. 
-- Homework \#3 was posted.
-- The class will not meet on Thursday, Oct 18th. You may submit your homeworks on the next Tuesday.
-- Homework \#2 was posted.
-- Welcome to EE787: Fundamentals of machine learning.
+- Welcome to EE787: Machine learning.
 ~~~
 
 == Course Info.
 
 *Course descriptions* 
-- Fundamental concepts and theories in machine learning, supervised and unsupervised learning, regression and classification, loss function selection and its effect on learning, regularization and robustness to outliers, numerical experiments on data from a wide variety of engineering and other discplines.
+- Fundamental concepts and theories in machine learning, supervised and unsupervised learning, regression and classification, loss function selection and its effect on learning, regularization and robustness to outliers, numerical experiments on data from a wide variety of engineering and other disciplines.
 
 *Lectures* 
 - Tue\/Thr 13:30-14:45 (Rm.211-1)
@@ -38,33 +34,33 @@ by Boyd and Vandenberghe will be a useful reference.
 == Lecture notes
 /The course material is reproduced from the [http://ee104.stanford.edu EE104: Introduction to machine learning] by [http://lall.stanford.edu Sanjay Lall] and [http://web.stanford.edu/~boyd/ Stephen Boyd] at Stanford university, under their kind permission./
 
-. [./ee787/ee787_01_overview.pdf Course overview]
-. [./ee787/ee787_02_supervised.pdf Supervised learning via empirical risk minimization]
-. [./ee787/ee787_03_regression.pdf Least squares linear regression]
-. [./ee787/ee787_04_validation.pdf Validation]
-. [./ee787/ee787_05_features.pdf Features]
-. [./ee787/ee787_06_regularization.pdf Regularization]
-. [./ee787/ee787_07_example.pdf House prices example]
-. [./ee787/ee787_08_losses.pdf Non-quadratic losses]
-. [./ee787/ee787_09_regularizers.pdf Non-quadratic regularizers]
-. [./ee787/ee787_10_optimization.pdf Optimization]
-. [./ee787/ee787_11_prox_gradient.pdf Prox-gradient method]
-. [./ee787/ee787_12_boolean_classification.pdf Boolean classification]
-. [./ee787/ee787_13_multiclass.pdf Multi-class classification]
-. [./ee787/ee787_14_neural.pdf Neural networks]
-. [./ee787/ee787_15_unsupervised.pdf Unsupervised learning]
-. [./ee787/ee787_16_pca.pdf Principal component analysis]
+. [./ee787/2019s/ee787_01_overview.pdf Course overview]
+. [./ee787/2019s/ee787_02_supervised.pdf Supervised learning via empirical risk minimization]
+. Least squares linear regression
+. Validation
+. Features
+. Regularization
+. House prices example
+. Non-quadratic losses
+. Non-quadratic regularizers
+. Optimization
+. Prox-gradient method
+. Boolean classification
+. Multi-class classification
+. Neural networks
+. Unsupervised learning
+. Principal component analysis
 
 == Assignments
 
 /Several sets of occasional homeworks will be assigned. 
 You are encouraged to work in groups, however everyone should turn in his\/her own work./
 
-. [./ee787/ee787_hw1.pdf Homework 1] (due 10/4): [./ee787/files/nearest_neighbor_data.json nearest_neighbor_data.json], [./ee787/files/fitting_outliers.json fitting_outliers.json], [./ee787/files/all_pairs_data.json all_pairs_data.json]
-. [./ee787/ee787_hw2.pdf Homework 2] (due 10/18): [./ee787/files/inductor_data.json inductor_data.json], [./ee787/files/rational_fit_data.json rational_fit_data.json], [./ee787/files/prostate_cancer_data.json prostate_cancer_data.json], [./ee787/files/to_one_hot.jl to_one_hot.jl]
-. [./ee787/ee787_hw3.pdf Homework 3] (due 11/15): [./ee787/files/power_demand_data.json power_demand_data.json]
-. [./ee787/ee787_hw4.pdf Homework 4] (due 11/27): [./ee787/files/tomodata_fullysampled.json tomodata_fullysampled.json], [./ee787/files/tomodata_undersampled.json tomodata_undersampled.json], [./ee787/files/line_pixel_length.jl line_pixel_length.jl], [./ee787/files/TV_inpainting.ipynb TV_inpainting.ipynb]
-. [./ee787/ee787_hw5.pdf Homework 5] (optional): [./ee787/files/homework_scores.csv homework_scores.csv]
+#. [./ee787/ee787_hw1.pdf Homework 1] (due 10/4): [./ee787/files/nearest_neighbor_data.json nearest_neighbor_data.json], [./ee787/files/fitting_outliers.json fitting_outliers.json], [./ee787/files/all_pairs_data.json all_pairs_data.json]
+#. [./ee787/ee787_hw2.pdf Homework 2] (due 10/18): [./ee787/files/inductor_data.json inductor_data.json], [./ee787/files/rational_fit_data.json rational_fit_data.json], [./ee787/files/prostate_cancer_data.json prostate_cancer_data.json], [./ee787/files/to_one_hot.jl to_one_hot.jl]
+#. [./ee787/ee787_hw3.pdf Homework 3] (due 11/15): [./ee787/files/power_demand_data.json power_demand_data.json]
+#. [./ee787/ee787_hw4.pdf Homework 4] (due 11/27): [./ee787/files/tomodata_fullysampled.json tomodata_fullysampled.json], [./ee787/files/tomodata_undersampled.json tomodata_undersampled.json], [./ee787/files/line_pixel_length.jl line_pixel_length.jl], [./ee787/files/TV_inpainting.ipynb TV_inpainting.ipynb]
+#. [./ee787/ee787_hw5.pdf Homework 5] (optional): [./ee787/files/homework_scores.csv homework_scores.csv]
 
 == Julia
 
@@ -76,8 +72,7 @@ You are encouraged to work in groups, however everyone should turn in his\/her o
 - [http://julialang.org The official Julia webpage]
 - [http://juliabox.com JuliaBox: an easy-to-use online platform of Julia]
 - [http://juliacomputing.com A variety of Julia product packages including JuliaPro]
-- [http://web.stanford.edu/class/ee103/julia.html A short Julia tutorial] from [http://ee103.stanford.edu EE103: Introduction to Matrix Methods] at Stanford university.
-- [http://web.stanford.edu/~boyd/vmls/vmls-julia-companion.pdf Julia language companion] by Boyd and Vandenberghe.
+- [http://vmls-book.stanford.edu Julia language companion]
 
 == Files
 
@@ -85,17 +80,17 @@ You are encouraged to work in groups, however everyone should turn in his\/her o
 To run .ipynb files, first download the code by right-clicking “code” and clicking “Save link as…”. 
 Then, upload the file to JuliaBox with the “upload” button under the “Jupyter” tab./
 
-. Julia example: [./ee787/files/khu_logo_compression.html KHU logo was a guitar pick.] ([./ee787/files/khulogo.jpg khulogo.jpg], [./ee787/files/khu_logo_compression.ipynb khu_logo_compression.ipynb])
-. Julia example: [./ee787/files/huber-based_dynamical_system_estimation.html Huber-based dynamical system estimation.] ([./ee787/files/huber-based_dynamical_system_estimation.ipynb huber-based_dynamical_system_estimation.ipynb])
-. [./ee787/files/diabetes.html JHK is safe from diabetes.] ([./ee787/files/diabetes.data diabetes.data], [./ee787/files/diabetes.ipynb diabetes.ipynb])
-. [./ee787/files/polynomial_fit.html Polynomial fit.] ([./ee787/files/polynomial_fit.ipynb polynomial_fit.ipynb])
-. [./ee787/files/monomial-exponential_fit.html Monomial-exponential fit.] ([./ee787/files/monomial-exponential_fit.ipynb monomial-exponential_fit.ipynb])
-. [./ee787/files/readclassjson_example.html .json file read example.] ([./ee787/files/readclassjson.jl readclassjson.jl])
-. [./ee787/files/Different_norms.html Different norms.] ([./ee787/files/Different_norms.ipynb Different_norms.ipynb])
-. [./ee787/files/Sound_signal_recovery.html Sound signal recovery.] ([./ee787/files/Sound_signal_recovery.ipynb Sound_signal_recovery.ipynb])
-. [./ee787/files/TV_inpainting.html TV_inpainting.] ([./ee787/files/neo_bw.png neo_bw.png], [./ee787/files/neo_bw_corrupted.png neo_bw_corrupted.png], [./ee787/files/corrupted_image.json corrupted_image.json], [./ee787/files/TV_inpainting.ipynb TV_inpainting.ipynb])
-. [./ee787/files/Network_topology.html Network topology identification.] ([./ee787/files/Network_topology.ipynb Network_topology.ipynb])
-. [./ee787/files/ls_lr_svm.html Least squares classifier, logistic regression, and support vector machine.] ([./ee787/files/ls_lr_svm.ipynb ls_lr_svm.ipynb])
-. [./ee787/files/iris.html Iris classification.] ([./ee787/files/iris.csv iris.csv], [./ee787/files/iris.ipynb iris.ipynb])
-. [./ee787/files/handwriting.html Handwriting image classification.] ([./ee787/files/mnist_train.csv mnist_train.csv], [./ee787/files/mnist_test.csv mnist_test.csv], [./ee787/files/handwriting.ipynb handwriting.ipynb])
+#. Julia example: [./ee787/files/khu_logo_compression.html KHU logo was a guitar pick.] ([./ee787/files/khulogo.jpg khulogo.jpg], [./ee787/files/khu_logo_compression.ipynb khu_logo_compression.ipynb])
+#. Julia example: [./ee787/files/huber-based_dynamical_system_estimation.html Huber-based dynamical system estimation.] ([./ee787/files/huber-based_dynamical_system_estimation.ipynb huber-based_dynamical_system_estimation.ipynb])
+#. [./ee787/files/diabetes.html JHK is safe from diabetes.] ([./ee787/files/diabetes.data diabetes.data], [./ee787/files/diabetes.ipynb diabetes.ipynb])
+#. [./ee787/files/polynomial_fit.html Polynomial fit.] ([./ee787/files/polynomial_fit.ipynb polynomial_fit.ipynb])
+#. [./ee787/files/monomial-exponential_fit.html Monomial-exponential fit.] ([./ee787/files/monomial-exponential_fit.ipynb monomial-exponential_fit.ipynb])
+#. [./ee787/files/readclassjson_example.html .json file read example.] ([./ee787/files/readclassjson.jl readclassjson.jl])
+#. [./ee787/files/Different_norms.html Different norms.] ([./ee787/files/Different_norms.ipynb Different_norms.ipynb])
+#. [./ee787/files/Sound_signal_recovery.html Sound signal recovery.] ([./ee787/files/Sound_signal_recovery.ipynb Sound_signal_recovery.ipynb])
+#. [./ee787/files/TV_inpainting.html TV_inpainting.] ([./ee787/files/neo_bw.png neo_bw.png], [./ee787/files/neo_bw_corrupted.png neo_bw_corrupted.png], [./ee787/files/corrupted_image.json corrupted_image.json], [./ee787/files/TV_inpainting.ipynb TV_inpainting.ipynb])
+#. [./ee787/files/Network_topology.html Network topology identification.] ([./ee787/files/Network_topology.ipynb Network_topology.ipynb])
+#. [./ee787/files/ls_lr_svm.html Least squares classifier, logistic regression, and support vector machine.] ([./ee787/files/ls_lr_svm.ipynb ls_lr_svm.ipynb])
+#. [./ee787/files/iris.html Iris classification.] ([./ee787/files/iris.csv iris.csv], [./ee787/files/iris.ipynb iris.ipynb])
+#. [./ee787/files/handwriting.html Handwriting image classification.] ([./ee787/files/mnist_train.csv mnist_train.csv], [./ee787/files/mnist_test.csv mnist_test.csv], [./ee787/files/handwriting.ipynb handwriting.ipynb])
 

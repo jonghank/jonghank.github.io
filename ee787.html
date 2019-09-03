@@ -5,7 +5,16 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>EE787: Fundamentals of Machine Learning </title>
+<title>EE787: Machine Learning </title>
+<!-- MathJax -->
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -26,29 +35,21 @@
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>EE787: Fundamentals of Machine Learning </h1>
-<div id="subtitle"><a href="http://jonghank.khu.ac.kr">Prof. Jong-Han Kim</a>, <a href="http://www.khu.ac.kr">Kyung Hee University</a>, Autumn 2018 </div>
+<h1>EE787: Machine Learning </h1>
+<div id="subtitle"><a href="http://jonghank.khu.ac.kr" target=&ldquo;blank&rdquo;>Prof. Jong-Han Kim</a>, <a href="http://www.khu.ac.kr" target=&ldquo;blank&rdquo;>Kyung Hee University</a>, Autumn 2019 </div>
 </div>
 <div class="infoblock">
 <div class="blockcontent">
 <h2>Announcements</h2>
 <ul>
-<li><p>The class will not meet on Thursday, Nov 8th. </p>
-</li>
-<li><p>Homework #3 was posted.</p>
-</li>
-<li><p>The class will not meet on Thursday, Oct 18th. You may submit your homeworks on the next Tuesday.</p>
-</li>
-<li><p>Homework #2 was posted.</p>
-</li>
-<li><p>Welcome to EE787: Fundamentals of machine learning.</p>
+<li><p>Welcome to EE787: Machine learning.</p>
 </li>
 </ul>
 </div></div>
 <h2>Course Info.</h2>
 <p><b>Course descriptions</b> </p>
 <ul>
-<li><p>Fundamental concepts and theories in machine learning, supervised and unsupervised learning, regression and classification, loss function selection and its effect on learning, regularization and robustness to outliers, numerical experiments on data from a wide variety of engineering and other discplines.</p>
+<li><p>Fundamental concepts and theories in machine learning, supervised and unsupervised learning, regression and classification, loss function selection and its effect on learning, regularization and robustness to outliers, numerical experiments on data from a wide variety of engineering and other disciplines.</p>
 </li>
 </ul>
 <p><b>Lectures</b> </p>
@@ -72,7 +73,7 @@
 <ul>
 <li><p>There are no required textbooks.</p>
 </li>
-<li><p><a href="http://vmls-book.org">Introduction to applied linear algebra - vectors, matrices, and least squares</a>
+<li><p><a href="http://vmls-book.org" target=&ldquo;blank&rdquo;>Introduction to applied linear algebra - vectors, matrices, and least squares</a>
 by Boyd and Vandenberghe will be a useful reference.</p>
 </li>
 </ul>
@@ -84,56 +85,44 @@ by Boyd and Vandenberghe will be a useful reference.</p>
 </li>
 </ul>
 <h2>Lecture notes</h2>
-<p><i>The course material is reproduced from the <a href="http://ee104.stanford.edu">EE104: Introduction to machine learning</a> by <a href="http://lall.stanford.edu">Sanjay Lall</a> and <a href="http://web.stanford.edu/~boyd/">Stephen Boyd</a> at Stanford university, under their kind permission.</i></p>
+<p><i>The course material is reproduced from the <a href="http://ee104.stanford.edu" target=&ldquo;blank&rdquo;>EE104: Introduction to machine learning</a> by <a href="http://lall.stanford.edu" target=&ldquo;blank&rdquo;>Sanjay Lall</a> and <a href="http://web.stanford.edu/~boyd/" target=&ldquo;blank&rdquo;>Stephen Boyd</a> at Stanford university, under their kind permission.</i></p>
 <ol>
-<li><p><a href="./ee787/ee787_01_overview.pdf">Course overview</a></p>
+<li><p><a href="./ee787/2019s/ee787_01_overview.pdf" target=&ldquo;blank&rdquo;>Course overview</a></p>
 </li>
-<li><p><a href="./ee787/ee787_02_supervised.pdf">Supervised learning via empirical risk minimization</a></p>
+<li><p><a href="./ee787/2019s/ee787_02_supervised.pdf" target=&ldquo;blank&rdquo;>Supervised learning via empirical risk minimization</a></p>
 </li>
-<li><p><a href="./ee787/ee787_03_regression.pdf">Least squares linear regression</a></p>
+<li><p>Least squares linear regression</p>
 </li>
-<li><p><a href="./ee787/ee787_04_validation.pdf">Validation</a></p>
+<li><p>Validation</p>
 </li>
-<li><p><a href="./ee787/ee787_05_features.pdf">Features</a></p>
+<li><p>Features</p>
 </li>
-<li><p><a href="./ee787/ee787_06_regularization.pdf">Regularization</a></p>
+<li><p>Regularization</p>
 </li>
-<li><p><a href="./ee787/ee787_07_example.pdf">House prices example</a></p>
+<li><p>House prices example</p>
 </li>
-<li><p><a href="./ee787/ee787_08_losses.pdf">Non-quadratic losses</a></p>
+<li><p>Non-quadratic losses</p>
 </li>
-<li><p><a href="./ee787/ee787_09_regularizers.pdf">Non-quadratic regularizers</a></p>
+<li><p>Non-quadratic regularizers</p>
 </li>
-<li><p><a href="./ee787/ee787_10_optimization.pdf">Optimization</a></p>
+<li><p>Optimization</p>
 </li>
-<li><p><a href="./ee787/ee787_11_prox_gradient.pdf">Prox-gradient method</a></p>
+<li><p>Prox-gradient method</p>
 </li>
-<li><p><a href="./ee787/ee787_12_boolean_classification.pdf">Boolean classification</a></p>
+<li><p>Boolean classification</p>
 </li>
-<li><p><a href="./ee787/ee787_13_multiclass.pdf">Multi-class classification</a></p>
+<li><p>Multi-class classification</p>
 </li>
-<li><p><a href="./ee787/ee787_14_neural.pdf">Neural networks</a></p>
+<li><p>Neural networks</p>
 </li>
-<li><p><a href="./ee787/ee787_15_unsupervised.pdf">Unsupervised learning</a></p>
+<li><p>Unsupervised learning</p>
 </li>
-<li><p><a href="./ee787/ee787_16_pca.pdf">Principal component analysis</a></p>
+<li><p>Principal component analysis</p>
 </li>
 </ol>
 <h2>Assignments</h2>
 <p><i>Several sets of occasional homeworks will be assigned. 
 You are encouraged to work in groups, however everyone should turn in his/her own work.</i></p>
-<ol>
-<li><p><a href="./ee787/ee787_hw1.pdf">Homework 1</a> (due 10/4): <a href="./ee787/files/nearest_neighbor_data.json">nearest_neighbor_data.json</a>, <a href="./ee787/files/fitting_outliers.json">fitting_outliers.json</a>, <a href="./ee787/files/all_pairs_data.json">all_pairs_data.json</a></p>
-</li>
-<li><p><a href="./ee787/ee787_hw2.pdf">Homework 2</a> (due 10/18): <a href="./ee787/files/inductor_data.json">inductor_data.json</a>, <a href="./ee787/files/rational_fit_data.json">rational_fit_data.json</a>, <a href="./ee787/files/prostate_cancer_data.json">prostate_cancer_data.json</a>, <a href="./ee787/files/to_one_hot.jl">to_one_hot.jl</a></p>
-</li>
-<li><p><a href="./ee787/ee787_hw3.pdf">Homework 3</a> (due 11/15): <a href="./ee787/files/power_demand_data.json">power_demand_data.json</a></p>
-</li>
-<li><p><a href="./ee787/ee787_hw4.pdf">Homework 4</a> (due 11/27): <a href="./ee787/files/tomodata_fullysampled.json">tomodata_fullysampled.json</a>, <a href="./ee787/files/tomodata_undersampled.json">tomodata_undersampled.json</a>, <a href="./ee787/files/line_pixel_length.jl">line_pixel_length.jl</a>, <a href="./ee787/files/TV_inpainting.ipynb">TV_inpainting.ipynb</a></p>
-</li>
-<li><p><a href="./ee787/ee787_hw5.pdf">Homework 5</a> (optional): <a href="./ee787/files/homework_scores.csv">homework_scores.csv</a></p>
-</li>
-</ol>
 <h2>Julia</h2>
 <p><b>Julia language</b></p>
 <ul>
@@ -144,52 +133,22 @@ You are encouraged to work in groups, however everyone should turn in his/her ow
 </ul>
 <p><b>Reference webpages</b></p>
 <ul>
-<li><p><a href="http://julialang.org">The official Julia webpage</a></p>
+<li><p><a href="http://julialang.org" target=&ldquo;blank&rdquo;>The official Julia webpage</a></p>
 </li>
-<li><p><a href="http://juliabox.com">JuliaBox: an easy-to-use online platform of Julia</a></p>
+<li><p><a href="http://juliabox.com" target=&ldquo;blank&rdquo;>JuliaBox: an easy-to-use online platform of Julia</a></p>
 </li>
-<li><p><a href="http://juliacomputing.com">A variety of Julia product packages including JuliaPro</a></p>
+<li><p><a href="http://juliacomputing.com" target=&ldquo;blank&rdquo;>A variety of Julia product packages including JuliaPro</a></p>
 </li>
-<li><p><a href="http://web.stanford.edu/class/ee103/julia.html">A short Julia tutorial</a> from <a href="http://ee103.stanford.edu">EE103: Introduction to Matrix Methods</a> at Stanford university.</p>
-</li>
-<li><p><a href="http://web.stanford.edu/~boyd/vmls/vmls-julia-companion.pdf">Julia language companion</a> by Boyd and Vandenberghe.</p>
+<li><p><a href="http://vmls-book.stanford.edu" target=&ldquo;blank&rdquo;>Julia language companion</a></p>
 </li>
 </ul>
 <h2>Files</h2>
 <p><i>These are some data and the Julia codes in .ipynb notebook files that we are using for lectures or homework assignments.
 To run .ipynb files, first download the code by right-clicking “code” and clicking “Save link as…”. 
 Then, upload the file to JuliaBox with the “upload” button under the “Jupyter” tab.</i></p>
-<ol>
-<li><p>Julia example: <a href="./ee787/files/khu_logo_compression.html">KHU logo was a guitar pick.</a> (<a href="./ee787/files/khulogo.jpg">khulogo.jpg</a>, <a href="./ee787/files/khu_logo_compression.ipynb">khu_logo_compression.ipynb</a>)</p>
-</li>
-<li><p>Julia example: <a href="./ee787/files/huber-based_dynamical_system_estimation.html">Huber-based dynamical system estimation.</a> (<a href="./ee787/files/huber-based_dynamical_system_estimation.ipynb">huber-based_dynamical_system_estimation.ipynb</a>)</p>
-</li>
-<li><p><a href="./ee787/files/diabetes.html">JHK is safe from diabetes.</a> (<a href="./ee787/files/diabetes.data">diabetes.data</a>, <a href="./ee787/files/diabetes.ipynb">diabetes.ipynb</a>)</p>
-</li>
-<li><p><a href="./ee787/files/polynomial_fit.html">Polynomial fit.</a> (<a href="./ee787/files/polynomial_fit.ipynb">polynomial_fit.ipynb</a>)</p>
-</li>
-<li><p><a href="./ee787/files/monomial-exponential_fit.html">Monomial-exponential fit.</a> (<a href="./ee787/files/monomial-exponential_fit.ipynb">monomial-exponential_fit.ipynb</a>)</p>
-</li>
-<li><p><a href="./ee787/files/readclassjson_example.html">.json file read example.</a> (<a href="./ee787/files/readclassjson.jl">readclassjson.jl</a>)</p>
-</li>
-<li><p><a href="./ee787/files/Different_norms.html">Different norms.</a> (<a href="./ee787/files/Different_norms.ipynb">Different_norms.ipynb</a>)</p>
-</li>
-<li><p><a href="./ee787/files/Sound_signal_recovery.html">Sound signal recovery.</a> (<a href="./ee787/files/Sound_signal_recovery.ipynb">Sound_signal_recovery.ipynb</a>)</p>
-</li>
-<li><p><a href="./ee787/files/TV_inpainting.html">TV_inpainting.</a> (<a href="./ee787/files/neo_bw.png">neo_bw.png</a>, <a href="./ee787/files/neo_bw_corrupted.png">neo_bw_corrupted.png</a>, <a href="./ee787/files/corrupted_image.json">corrupted_image.json</a>, <a href="./ee787/files/TV_inpainting.ipynb">TV_inpainting.ipynb</a>)</p>
-</li>
-<li><p><a href="./ee787/files/Network_topology.html">Network topology identification.</a> (<a href="./ee787/files/Network_topology.ipynb">Network_topology.ipynb</a>)</p>
-</li>
-<li><p><a href="./ee787/files/ls_lr_svm.html">Least squares classifier, logistic regression, and support vector machine.</a> (<a href="./ee787/files/ls_lr_svm.ipynb">ls_lr_svm.ipynb</a>)</p>
-</li>
-<li><p><a href="./ee787/files/iris.html">Iris classification.</a> (<a href="./ee787/files/iris.csv">iris.csv</a>, <a href="./ee787/files/iris.ipynb">iris.ipynb</a>)</p>
-</li>
-<li><p><a href="./ee787/files/handwriting.html">Handwriting image classification.</a> (<a href="./ee787/files/mnist_train.csv">mnist_train.csv</a>, <a href="./ee787/files/mnist_test.csv">mnist_test.csv</a>, <a href="./ee787/files/handwriting.ipynb">handwriting.ipynb</a>)</p>
-</li>
-</ol>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-03-05, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2019-09-03, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
