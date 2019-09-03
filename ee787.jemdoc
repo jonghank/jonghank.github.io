@@ -34,8 +34,8 @@ by Boyd and Vandenberghe will be a useful reference.
 == Lecture notes
 /The course material is reproduced from the [http://ee104.stanford.edu EE104: Introduction to machine learning] by [http://lall.stanford.edu Sanjay Lall] and [http://web.stanford.edu/~boyd/ Stephen Boyd] at Stanford university, under their kind permission./
 
-. [./ee787/2019a/ee787_01_overview.pdf Course overview]
-. [./ee787/2019a/ee787_02_supervised.pdf Supervised learning via empirical risk minimization]
+. [./ee787/2019a/overview.pdf Course overview]
+. [./ee787/2019a/supervised.pdf Supervised learning via empirical risk minimization]
 . Least squares linear regression
 . Validation
 . Features
