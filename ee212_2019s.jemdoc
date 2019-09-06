@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{ee212.html}, notime
 = EE212: Adventure Design 
-[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Autumn 2019 
+[https://khu-hri.weebly.com/professor.html Prof. Donghan Kim] and [http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Spring 2019 
 
 ~~~
 == Announcements
@@ -17,13 +17,15 @@
 -- Engineering systems design and prototyping
 
 *Instructors* 
-- [http://jonghank.github.io Prof. Jong-Han Kim] (Rm.516)
+- [https://khu-hri.weebly.com/professor.html Prof. Donghan Kim] (Rm.609)
+- [http://jonghank.khu.ac.kr Prof. Jong-Han Kim] (Rm.516)
 
 *Lectures* 
-- Fri 13:30-16:15 (Callab-B01)
+- Fri 13:00-14:00 (Lecture: Rm.205)
+- Fri 14:00-16:50 (Lab: Callab-B01\/B05\/B06\/B07)
 
 *Office hours*
-- Tue\/Thr 15:00-16:00 (Rm.516), or by appointments if you cannot meet them.
+- Wed 16:30-18:00 (Rm.516), or by appointments.
 
 *Reference textbooks* \n
 - There are no required textbooks.
@@ -38,10 +40,10 @@
 *Grading policy*
 - Final projects (50%)
 - Project proposal (30%)
-- Assignments and class participation (20%)
+- Homeworks and class participation (20%)
 
 == Course contents
-/ Some of the course contents are from several Coursera courses on Arduinos. /  
+/ Some of the course contents are from several Coursera courses on Arduinos, mainly delivered by Professor Ian Harris at University of California at Irvine. /  
 
 . [./ee212/1_Arduino_environment.pptx Arduino environment]
 . [./ee212/2_C_programming.pptx C programming]
