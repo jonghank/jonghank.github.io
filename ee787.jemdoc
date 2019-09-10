@@ -76,9 +76,9 @@ You are encouraged to work in groups, however everyone should turn in his\/her o
 
 == Files
 
-/These are some data and the Julia codes in .ipynb notebook files that we are using for lectures or homework assignments.
-To run .ipynb files, first download the code by right-clicking “code” and clicking “Save link as…”. 
-Then, upload the file to JuliaBox with the “upload” button under the “Jupyter” tab./
+/These are some data and the Julia codes in .ipynb notebook files that we are using for lectures or homework assignments./
+#To run .ipynb files, first download the code by right-clicking “code” and clicking “Save #link as…”. 
+#Then, upload the file to JuliaBox with the “upload” button under the “Jupyter” tab./
 
 #. Julia example: [./ee787/files/khu_logo_compression.html KHU logo was a guitar pick.] ([./ee787/files/khulogo.jpg khulogo.jpg], [./ee787/files/khu_logo_compression.ipynb khu_logo_compression.ipynb])
 #. Julia example: [./ee787/files/huber-based_dynamical_system_estimation.html Huber-based dynamical system estimation.] ([./ee787/files/huber-based_dynamical_system_estimation.ipynb huber-based_dynamical_system_estimation.ipynb])
