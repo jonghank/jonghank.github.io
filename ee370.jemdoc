@@ -34,7 +34,7 @@
 == Lecture notes
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 . [https://nbviewer.jupyter.org/gist/jonghank/76c5d123970802ea0b721c0140d09784 A very short Python introduction]
-. [https://nbviewer.jupyter.org/gist/jonghank/f23d73f12705b99612bd477c82e05da5 Numpy module]
+. [https://nbviewer.jupyter.org/gist/jonghank/f13536f7ec151ba4f247e526e904804a Numpy module]
 . [https://nbviewer.jupyter.org/gist/jonghank/94c371fb4efddc176280fa9c6800b819 Matplotlib module]
 . [https://nbviewer.jupyter.org/gist/jonghank/b0762f5ce8148acd5d090274823fff13 Pandas module] (Files: [./ee370/files/kfxsim.csv kfxsim.csv], [./ee370/files/speeches.json speeches.json], [./ee370/files/khu_entrance.png khu_entrance.png])
 . [https://nbviewer.jupyter.org/gist/jonghank/7783adcbad95bffbfe0d4ba560146f7a Differential equations and dynamical systems]
@@ -49,6 +49,9 @@
 == Assignments
 
 /Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture to [050973@khu.ac.kr 050973@khu.ac.kr]./
+
+. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 9\/18)
+. [https://nbviewer.jupyter.org/gist/jonghank/08651408ef99ebf47e7446892346a18e Linear algebra exercises] (due 9\/18)
 
 #. [https://nbviewer.jupyter.org/gist/jonghank/7fa36f6d00a94af61682e0eb627c13f7 Fibonacci numbers] (due 3\/20, [https://nbviewer.jupyter.org/gist/jonghank/69f65602306c0c531ee2de0140146015 solution])
 #. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 3\/20, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
