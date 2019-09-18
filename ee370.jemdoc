@@ -35,8 +35,8 @@
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 . [https://nbviewer.jupyter.org/gist/jonghank/76c5d123970802ea0b721c0140d09784 A very short Python introduction]
 . [https://nbviewer.jupyter.org/gist/jonghank/f13536f7ec151ba4f247e526e904804a Numpy module]
-. [https://nbviewer.jupyter.org/gist/jonghank/94c371fb4efddc176280fa9c6800b819 Matplotlib module]
-. [https://nbviewer.jupyter.org/gist/jonghank/b0762f5ce8148acd5d090274823fff13 Pandas module] (Files: [./ee370/files/kfxsim.csv kfxsim.csv], [./ee370/files/speeches.json speeches.json], [./ee370/files/khu_entrance.png khu_entrance.png])
+. [https://nbviewer.jupyter.org/gist/jonghank/cf3b3262671e576f33f78020fd18d98d Matplotlib module]
+. [https://nbviewer.jupyter.org/gist/jonghank/80d8f76d2dded924f356fa850f7f7e53 Pandas module] (Files: [./ee370/files/kfxsim.csv kfxsim.csv], [./ee370/files/speeches.json speeches.json], [./ee370/files/khu_entrance.png khu_entrance.png])
 . [https://nbviewer.jupyter.org/gist/jonghank/7783adcbad95bffbfe0d4ba560146f7a Differential equations and dynamical systems]
 . [https://nbviewer.jupyter.org/gist/jonghank/b09cb1eac352685542989e1fe12feaeb Fourier transform and sound signals]
 . [https://nbviewer.jupyter.org/gist/jonghank/b91d5bfe04ba795e94c827733eec140f Bayesian inference]
