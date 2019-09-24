@@ -37,7 +37,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./ee787/2019a/overview.pdf Course overview]
 . [./ee787/2019a/supervised.pdf Supervised learning via empirical risk minimization]
 . [./ee787/2019a/regression.pdf Least squares linear regression]
-. Validation
+. [./ee787/2019a/validation.pdf Validation]
 . Features
 . Regularization
 . House prices example
