@@ -83,6 +83,8 @@ You are encouraged to work in groups, however everyone should turn in his\/her o
 . [./ee787/2019a/files/straight_line_fit_in_python.html Straight line fit in python] 
  ([./ee787/2019a/files/straight_line_fit_in_python.ipynb .ipynb])
 . [./ee787/2019a/files/diabetes.html Diabetes example] ([./ee787/2019a/files/diabetes.ipynb .ipynb])
+. [./ee787/2019a/files/diabetes_split.html Splitting dataset] ([./ee787/2019a/files/diabetes_split.ipynb .ipynb])
+. [./ee787/2019a/files/polynomial_fit.html Polynomial fit] ([./ee787/2019a/files/polynomial_fit.ipynb .ipynb])
 
 
 #To run .ipynb files, first download the code by right-clicking “code” and clicking “Save #link as…”. 
