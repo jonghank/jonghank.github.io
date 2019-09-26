@@ -79,10 +79,10 @@ You are encouraged to work in groups, however everyone should turn in his\/her o
 /These are some data and the Julia codes in .ipynb notebook files that we are using for lectures or homework assignments./
 
 . [./ee787/2019a/files/straight_line_fit_in_julia.html Straight line fit in julia] 
- ([./ee787/2019a/files/straight_line_fit_in_julia.ipynb ipynb])
+ ([./ee787/2019a/files/straight_line_fit_in_julia.ipynb .ipynb])
 . [./ee787/2019a/files/straight_line_fit_in_python.html Straight line fit in python] 
- ([./ee787/2019a/files/straight_line_fit_in_python.ipynb ipynb])
-. [./ee787/2019a/files/diabetes.html Diabetes example] ([./ee787/2019a/files/diabetes.ipynb ipynb])
+ ([./ee787/2019a/files/straight_line_fit_in_python.ipynb .ipynb])
+. [./ee787/2019a/files/diabetes.html Diabetes example] ([./ee787/2019a/files/diabetes.ipynb .ipynb])
 
 
 #To run .ipynb files, first download the code by right-clicking “code” and clicking “Save #link as…”. 
