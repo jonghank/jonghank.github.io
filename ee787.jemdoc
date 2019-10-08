@@ -55,7 +55,8 @@ by Boyd and Vandenberghe will be a useful reference.
 == Assignments
 
 /Several sets of occasional homeworks will be assigned. 
-You are encouraged to work in groups, however everyone should turn in his\/her own work./
+You are encouraged to work in groups, however everyone should turn in his\/her own work.
+Some of these assignments are from [http://vmls-book.org Introduction to applied linear algebra - vectors, matrices, and least squares]./
 
 . [./ee787/2019a/homeworks/hw1.pdf Homework \#1] (due 10/22): [./ee787/2019a/files/sequential_outlier_detection.html Reading +json+ files from webpages] ([./ee787/2019a/files/sequential_outlier_detection.ipynb .ipynb])
 
