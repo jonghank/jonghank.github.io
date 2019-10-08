@@ -40,10 +40,10 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./ee787/2019a/regression.pdf Least squares linear regression]
 . [./ee787/2019a/validation.pdf Validation]
 . [./ee787/2019a/features.pdf Features]
-. Regularization
-. House prices example
-. Non-quadratic losses
-. Non-quadratic regularizers
+. [./ee787/2019a/regularization.pdf Regularization]
+. [./ee787/2019a/example.pdf House prices example]
+. [./ee787/2019a/losses.pdf Non-quadratic losses]
+. [./ee787/2019a/regularizers.pdf Non-quadratic regularizers]
 . Optimization
 . Prox-gradient method
 . Boolean classification
