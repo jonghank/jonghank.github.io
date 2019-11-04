@@ -1,0 +1,5 @@
+>> python jemdoc -c mysite.conf eexxx.jemdoc
+
+>> git add --all
+>> git commit -m "xxx"
+>> git push
