@@ -114,4 +114,4 @@ Some of these assignments are from [http://vmls-book.org Introduction to applied
 #. [./ee787/files/ls_lr_svm.html Least squares classifier, logistic regression, and support vector machine.] ([./ee787/files/ls_lr_svm.ipynb ls_lr_svm.ipynb])
 #. [./ee787/files/iris.html Iris classification.] ([./ee787/files/iris.csv iris.csv], [./ee787/files/iris.ipynb iris.ipynb])
 #. [./ee787/files/handwriting.html Handwriting image classification.] ([./ee787/files/mnist_train.csv mnist_train.csv], [./ee787/files/mnist_test.csv mnist_test.csv], [./ee787/files/handwriting.ipynb handwriting.ipynb])
-
+#. [./ee787/files/piecewise_linear_fit.html Piecewise-linear fit.html] ([./ee787/files/piecewise_linear_fit.ipynb .ipynb])
