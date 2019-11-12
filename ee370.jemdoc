@@ -40,7 +40,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/9feb9533499b41bb7feeb9a1d202d0a0 Differential equations and dynamical systems]
 . [https://nbviewer.jupyter.org/gist/jonghank/b5208fece48ba7f85e062ea185ba86d2 Fourier transform and sound signals]
 . [https://nbviewer.jupyter.org/gist/jonghank/b91d5bfe04ba795e94c827733eec140f Bayesian inference]
-. [https://nbviewer.jupyter.org/gist/jonghank/769da2c835cf93ee5fea3fbce6534152 Monte-Carlo methods]
+. [https://nbviewer.jupyter.org/gist/jonghank/b4d02faa465de83d55a938c21ac91bb7 Monte-Carlo methods]
 . [https://nbviewer.jupyter.org/gist/jonghank/772677135eca2eb9d954bfc1b1a91a0e Image processing]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ca42dcffc2eab625e1497fd99fb310a Supervised learning]
 . [https://nbviewer.jupyter.org/gist/jonghank/1e6e2aaaa301f88609ae9485ac9d5e02 Unsupervised learning]
@@ -59,8 +59,8 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/d00102cf2f095c8722eea21be6b85f73 Firing table] (due 10\/9, [https://nbviewer.jupyter.org/gist/jonghank/af2315b06c243ca9e7a1fcfa403ea5ba solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/dda0b0ef7ecd2d65b9c757cf593d473f Back in black] (Files: [./ee370/files/back_in_black.wav back\_in\_black.wav]) (due 10/23, [https://nbviewer.jupyter.org/gist/jonghank/13ff9ed24ffe8b4c20c2e47a7e85bfdb solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/7b8b92438d5d334ecfd4a9995c90082a Mobile phone localization] (due 10\/30, [https://nbviewer.jupyter.org/gist/jonghank/12dfd5462b7b3e9ceb14420d05fcd7c9 solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/9c987cf914e160d82e1c4228264404dc Kalman filter] (due 10\/30)
-
+. [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets] (due 11\/13)
+#. [https://nbviewer.jupyter.org/gist/jonghank/9c987cf914e160d82e1c4228264404dc Kalman filter] (due 11\/20)
 
 #. [https://nbviewer.jupyter.org/gist/jonghank/7fa36f6d00a94af61682e0eb627c13f7 Fibonacci numbers] (due 3\/20, [https://nbviewer.jupyter.org/gist/jonghank/69f65602306c0c531ee2de0140146015 solution])
 #. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 3\/20, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
