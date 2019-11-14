@@ -47,7 +47,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./ee787/2019a/losses.pdf Non-quadratic losses]
 . [./ee787/2019a/regularizers.pdf Non-quadratic regularizers]
 . [./ee787/2019a/optimization.pdf Optimization]
-. [./ee787/2019a/prox-gradient.pdf Prox-gradient method]
+. [./ee787/2019a/prox_gradient.pdf Prox-gradient method]
 . Boolean classification
 . Multi-class classification
 . Neural networks
