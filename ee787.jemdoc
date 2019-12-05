@@ -98,7 +98,7 @@ Some of these assignments are from [http://vmls-book.org Introduction to applied
 . [./ee787/2019a/files/tomography.html Tomography] ([./ee787/2019a/files/tomography.ipynb .ipynb], [./ee787/2019a/files/line_pixel_length.jl line\_pixel\_length.jl], [./ee787/2019a/files/tomodata_fullysampled.json tomodata\_fullysampled.json], [./ee787/2019a/files/tomodata_undersampled.json tomodata\_undersampled.json])
 . [./ee787/files/piecewise_linear_fit.html Piecewise-linear fit] ([./ee787/files/piecewise_linear_fit.ipynb .ipynb])
 . [./ee787/files/Binary_classification.html Binary classification] ([./ee787/files/Binary_classification.ipynb .ipynb])
-. [./ee787/files/Convex_jl_tutorial.html `Convex.jl` tutorial.html] ([./ee787/files/Convex_jl_tutorial.ipynb .ipynb])
+. [./ee787/files/Convex_jl_tutorial.html +Convex.jl+ tutorial.html] ([./ee787/files/Convex_jl_tutorial.ipynb .ipynb])
 
 
 #To run .ipynb files, first download the code by right-clicking “code” and clicking “Save #link as…”. 
