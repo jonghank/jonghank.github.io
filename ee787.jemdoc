@@ -49,8 +49,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./ee787/2019a/regularizers.pdf Non-quadratic regularizers]
 . [./ee787/2019a/optimization.pdf Optimization]
 . [./ee787/2019a/prox_gradient.pdf Prox-gradient method]
-. Boolean classification
-. Multi-class classification
+. [./ee787/2019a/boolean_classification.pdf Boolean classification]
+. [./ee787/2019a/multiclass.pdf Multi-class classification]
 . Neural networks
 . Unsupervised learning
 . Principal component analysis
