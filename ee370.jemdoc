@@ -4,6 +4,7 @@
 
 ~~~
 == Announcements
+- The final exam will be 24 hour take-home exam. It will be posted at 2pm on 12\/20, and the students should submit completed works by 2pm on 12\/21.
 - Welcome to EE370: Software lab.
 ~~~
 
@@ -63,7 +64,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/c45ef5c05bb4a03d23cfa03bc10e5a31 Kalman filter] (due 11\/29, [https://nbviewer.jupyter.org/gist/jonghank/875edddd3e8fea759122b97921319fff solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/8d2d794d1cb7fc60a58d1e29396190d7 CCTV video processing] (Files: [./ee370/files/vtest.avi vtest.avi]) (due 12\/4, [https://nbviewer.jupyter.org/gist/jonghank/718dafb9493e9074c9dd87491f9a65a8 solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction] (due 12\/11, [https://nbviewer.jupyter.org/gist/jonghank/fdd74281cc621344e8d3f6b1ce9a62b0 solution]) 
-. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players] (due 12\/24)
+. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players] (no need to submit)
 
 #. [https://nbviewer.jupyter.org/gist/jonghank/7fa36f6d00a94af61682e0eb627c13f7 Fibonacci numbers] (due 3\/20, [https://nbviewer.jupyter.org/gist/jonghank/69f65602306c0c531ee2de0140146015 solution])
 #. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 3\/20, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
