@@ -13169,7 +13169,8 @@ $$
 <span class="k">end</span>
 
 <span class="n">datatypes</span> <span class="o">=</span> <span class="kt">Dict</span><span class="p">(</span><span class="mi">1</span><span class="o">=&gt;</span><span class="kt">Float64</span><span class="p">,</span> <span class="mi">2</span><span class="o">=&gt;</span><span class="kt">Float64</span><span class="p">,</span> <span class="mi">3</span><span class="o">=&gt;</span><span class="kt">Float64</span><span class="p">,</span> <span class="mi">4</span><span class="o">=&gt;</span><span class="kt">Float64</span><span class="p">,</span> <span class="mi">5</span><span class="o">=&gt;</span><span class="kt">Int8</span><span class="p">)</span>
-<span class="n">irisdata</span> <span class="o">=</span> <span class="n">CSV</span><span class="o">.</span><span class="n">read</span><span class="p">(</span><span class="s">&quot;iris.csv&quot;</span><span class="p">,</span> <span class="n">delim</span><span class="o">=</span><span class="sc">&#39;,&#39;</span><span class="p">,</span> <span class="n">types</span><span class="o">=</span><span class="n">datatypes</span><span class="p">)</span>
+<span class="c">#irisdata = CSV.read(&quot;iris.csv&quot;, delim=&#39;,&#39;, types=datatypes)</span>
+<span class="n">irisdata</span> <span class="o">=</span> <span class="n">CSV</span><span class="o">.</span><span class="n">read</span><span class="p">(</span><span class="n">download</span><span class="p">(</span><span class="s">&quot;https://jonghank.github.io/ee787/files/iris.csv&quot;</span><span class="p">),</span> <span class="n">delim</span><span class="o">=</span><span class="sc">&#39;,&#39;</span><span class="p">,</span> <span class="n">types</span><span class="o">=</span><span class="n">datatypes</span><span class="p">)</span>
 
 <span class="n">U</span> <span class="o">=</span> <span class="n">irisdata</span><span class="p">[</span><span class="o">:</span><span class="p">,</span> <span class="mi">1</span><span class="o">:</span><span class="k">end</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
 <span class="n">v</span> <span class="o">=</span> <span class="n">irisdata</span><span class="p">[</span><span class="o">:</span><span class="p">,</span> <span class="k">end</span><span class="p">]</span> <span class="o">.+</span> <span class="mi">1</span>
@@ -13197,6 +13198,19 @@ $$
     <div class="prompt"></div>
 
 
+<div class="output_subarea output_stream output_stderr output_text">
+<pre>--2019-12-20 12:52:43--  https://jonghank.github.io/ee787/files/iris.csv
+Resolving jonghank.github.io (jonghank.github.io)... 185.199.109.153, 185.199.111.153, 185.199.108.153, ...
+Connecting to jonghank.github.io (jonghank.github.io)|185.199.109.153|:443... connected.
+HTTP request sent, awaiting response... </pre>
+</div>
+</div>
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
 
 
 <div class="output_png output_subarea ">
@@ -13204,6 +13218,24 @@ $$
 >
 </div>
 
+</div>
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stderr output_text">
+<pre>200 OK
+Length: 2614 (2.6K) [text/csv]
+Saving to: ‘/tmp/juliazE6WOK’
+
+     0K ..                                                    100% 25.2M=0s
+
+2019-12-20 12:52:43 (25.2 MB/s) - ‘/tmp/juliazE6WOK’ saved [2614/2614]
+
+</pre>
+</div>
 </div>
 
 </div>
@@ -13319,7 +13351,7 @@ It     pcost       dcost      gap   pres   dres    k/t    mu     step   sigma   
 30  +5.600e+00  +5.600e+00  +3e-09  5e-13  2e-11  6e-12  3e-12  0.9890  1e-04   1  0  0 |  0  0
 
 OPTIMAL (within feastol=1.9e-11, reltol=4.6e-10, abstol=2.6e-09).
-Runtime: 0.008925 seconds.
+Runtime: 0.008624 seconds.
 
 </pre>
 </div>

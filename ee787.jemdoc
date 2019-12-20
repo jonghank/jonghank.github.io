@@ -99,7 +99,7 @@ Some of these assignments are from [http://vmls-book.org Introduction to applied
 . [./ee787/2019a/files/piecewise_linear_fit.html Piecewise-linear fit] ([./ee787/files/piecewise_linear_fit.ipynb .ipynb])
 . [./ee787/2019a/files/Convex_jl_tutorial.html +Convex.jl+ tutorial] ([./ee787/files/Convex_jl_tutorial.ipynb .ipynb])
 . [./ee787/2019a/files/binary_classifiers.html Binary classifiers] ([./ee787/files/Binary_classifiers.ipynb .ipynb])
-. [./ee787/2019a/files/iris.html Iris classification] ([./ee787/files/iris.ipynb .ipynb])
+. [./ee787/2019a/files/iris.html Iris classification] ([./ee787/2019a/files/iris.csv iris.csv], [./ee787/files/iris.ipynb .ipynb])
 
 
 #To run .ipynb files, first download the code by right-clicking “code” and clicking “Save #link as…”. 
