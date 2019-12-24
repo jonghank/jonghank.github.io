@@ -52,8 +52,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./ee787/2019a/boolean_classification.pdf Boolean classification]
 . [./ee787/2019a/multiclass.pdf Multi-class classification]
 . [./ee787/2019a/neural.pdf Neural networks]
-. Unsupervised learning
-. Principal component analysis
+. [./ee787/2019a/unsupervised.pdf Unsupervised learning]
+#. Principal component analysis
 
 == Assignments
 
