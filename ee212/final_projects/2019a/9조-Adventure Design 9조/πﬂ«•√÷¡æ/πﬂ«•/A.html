@@ -1,0 +1,135 @@
+﻿<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY BACKGROUND="배경.jpg">
+<CENTER><FONT SIZE=10 FACE=""><B>아두이노로 인형뽑기 구현<P></B></FONT></CENTER>
+<P ALIGN=RIGHT>
+<FONT SIZE=5>
+2017100615 조민경 <BR>
+2018103264 조성호 <BR><P>
+</FONT><HR>
+
+<FONT SIZE=6>&shy; &nbsp;&nbsp;<B>목표</B><BR></FONT><BR>
+<FONT SIZE=5>&nbsp; &nbsp;&nbsp;&nbsp;아두이노를 활용하여 실생활에서 볼 수 있는 인형뽑기 기계를 직접 제작한다. <P>
+</FONT><BR><BR><BR>
+<FONT SIZE=6>&shy; &nbsp;&nbsp;<B>준비물</B></FONT>
+<FONT SIZE=5>&nbsp; &nbsp;&nbsp;&nbsp;
+<PRE>
+     타이밍 벨트 GT2 오픈형 1m : 2개
+     GT 2 벨트 고정 클립 : 3개
+     연마봉 270mm 내경 5파이 : 1개
+     아크릴 봉 내경 8파이 200mm : 6개
+     모터커플링 기본 스프링형 5mm x 5mm : 1개
+     풀리 20잇수, 내경 5mm : 7개
+     리미트 스위치 기본형 A형 : 4개
+     아두이노 메가 2560 : 1개
+     L298N : 2개
+     9V 건전지 : 1개
+     9V 건전지 홀더 : 1개
+     브레드보드 빵판 대형 : 1개
+     브레드보드 빵판 소형 : 1개
+     F-M 점퍼 케이블 : 40개
+     M-M 점퍼 케이블 : 80개
+     아두이노용 조이스틱 : 1개
+     DC 모터 5V : 3개
+     볼트 너트 : 많이
+     서보모터 : 1개 
+</PRE>
+<BR><BR>
+</FONT><P><P><P>
+<FONT SIZE=6>&shy; &nbsp;&nbsp;<B>인형뽑기 내부구조</B><BR><P></FONT>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="1.gif">
+<FONT SIZE=5>&nbsp; &nbsp;&nbsp;&nbsp;<PRE>   
+    # xy 플로터 레일
+
+    조이스틱의 조작에 따라 x축 y축 원하는 위치로 집게가 이동할 수 있게 한다
+</PRE></FONT><BR><BR>
+<FONT SIZE=6>&shy; &nbsp;&nbsp;<B>실제구현</B><BR><P></FONT>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="2.gif"><P><BR>
+<FONT SIZE=6>&shy; &nbsp;&nbsp;<B>사용 재료</B></FONT>
+<FONT SIZE=5>&nbsp; &nbsp;&nbsp;&nbsp;
+<PRE>
+     우드락 1t 60x90 
+     타이밍 벨트 GT2 오픈형 1m : 2개
+     GT 2 벨트 고정 클립 : 3개
+     연마봉 270mm 내경 5파이 : 1개
+     아크릴 봉 내경 8파이 200mm : 6개
+     모터커플링 기본 스프링형 5mm x 5mm : 1개
+     풀리 20잇수, 내경 5mm : 7개
+     리미트 스위치 기본형 A형 : 4개
+     볼트 너트 : 많이
+</PRE></FONT><BR><BR>
+<FONT SIZE=6>&shy; &nbsp;&nbsp; <B>설계도</B><BR></FONT><P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="설1.jpg">
+<BR><BR><BR>
+<FONT SIZE=6>&shy; &nbsp;&nbsp;<B>조립과정</B></FONT><P><BR>
+<FONT SIZE=5>&nbsp;&nbsp;&nbsp;&nbsp;
+1층 모터부(1개)
+</FONT><BR><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="a.gif"><BR><BR>
+<FONT SIZE=5>&nbsp;&nbsp;&nbsp;&nbsp;
+2층 모터부(1개)
+</FONT><BR><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="b.gif"><BR><BR>
+<FONT SIZE=5>&nbsp;&nbsp;&nbsp;&nbsp;
+모터가 없는 곳 4개
+</FONT><BR><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="c.gif"><BR><BR>
+<P><FONT SIZE=6>&shy; &nbsp;&nbsp; <B>집게</B></FONT>
+<FONT SIZE=5>&nbsp; &nbsp;&nbsp;&nbsp;
+<PRE> 
+     집게 3D 프린터 링크와 조립 설명
+</PRE>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A HREF="https://www.youtube.com/watch?v=Z48ZGyMY-4s">조립과정 영상</A><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A HREF="https://www.thingiverse.com/thing:1322867">3D 프린터 파일</A><BR><BR>
+</FONT>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="3.gif"><BR><BR>
+<FONT SIZE=6>&shy; &nbsp;&nbsp; <B>외부 구조</B><BR></FONT><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="4.gif"><BR><BR><BR>
+<FONT SIZE=6>&shy; &nbsp;&nbsp; <B>설계도</B><BR></FONT><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="설2.jpg"><BR><BR><BR><BR>
+<FONT SIZE=6>&shy; &nbsp;&nbsp; <B>중간 조립 과정</B><BR></FONT><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="5.gif">
+<FONT SIZE=5>&nbsp; &nbsp;&nbsp;&nbsp;
+<PRE>
+     DC모터와 L298N 연결
+     연결
+     모터 x축 2 3
+     모터 y축 4 5
+     모터 z축 6 7
+     리미트 센서 x- 8
+     리미트센서 x+ 9
+     리미트센서 y- 10 
+     리미트센서 y+ 11
+     조이스틱 x A0
+     조이스틱 y A1
+     서모모터 38
+     스타트 버튼 12
+     집게 조작 버튼 13
+</PRE>
+</FONT>
+<P><BR><BR>
+<FONT SIZE=6>&shy; &nbsp;&nbsp; <B>완성</B><BR></FONT><BR>
+<FONT SIZE=5>&nbsp; &nbsp;&nbsp;&nbsp;
+앞면
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="d.gif"><BR><BR>
+&nbsp; &nbsp;&nbsp;&nbsp;
+윗면
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="e.gif"><BR><BR>
+</FONT>
+<P>
+<FONT SIZE=5>
+<PRE>
+     실패원인
+     -운반을 용이하게 하기 위하여 크기를 줄이면서 xy플로터를 받치는 힘이 약해져 가벼운 모터를 사용함
+     -제작비의 절감을 위하여 프로파일 대신 우드락, 폼보드를 사용하고 무거운 모터대신 가벼운 모터를 사용한 것
+     -시리얼 모니터의 화면에는 입력이 정상적으로 됨
+</PRE>
+</FONT><BR><BR>
+</BODY>
+</HTML>
