@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{ee370.html}, notime
 = EE370: Software lab. 
-[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Spring 2020 
+[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Autumn 2019 
 
 ~~~
 == Announcements
-- Live online lectures for the first two weeks (3\/18 and 3\/25) will be aired at [https://meet.google.com/thz-vbeb-vhe https://meet.google.com/thz-vbeb-vhe].
+- The final exam will be 24 hour take-home exam. It will be posted at 2pm on 12\/20, and the students should submit completed works by 2pm on 12\/21.
 - Welcome to EE370: Software lab.
 ~~~
 
@@ -15,10 +15,10 @@
 - This course covers elementary computational techniques for solving mathematical problems in electrical and electronic engineering. Students will use high level programming languages to formulate, interpret and analyze practical real-world problems encountered at a wide variety of engineering disciplines. Covered topics include but not limited to differential equations, linear algebra, probability, Fourier transform, introductory machine learning and artificial intelligence.
 
 *Lectures* 
-- Wed 13:30-17:20 (Callab-B05)
+- Wed 13:30-17:20 (Callab-B07)
 
 *Office hours*
-- Wed\/Fri 15:00-16:00 (Rm.516), or by appointments.
+- Tue\/Thr 15:00-16:00 (Rm.516), or by appointments if you cannot meet them.
 - TA: By appointments (Rm.508)
 
 *Prerequisites* 
@@ -51,20 +51,20 @@
 
 /Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture to [050973@khu.ac.kr 050973@khu.ac.kr]./
 
-#. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 9\/18, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/331d233bf9ae7ea15d27c6e600e8e999 Linear algebra exercises] (due 9\/18, [https://nbviewer.jupyter.org/gist/jonghank/95f1862f8ee38ff044b7d2215ccdcb42 solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/2661a0d8272b0a0e41a6d2bab801f8ab Eigenvalues and eigenvectors of symmetric matrices] (due 9\/25, [https://nbviewer.jupyter.org/gist/jonghank/b84a0a43d482ee959eefa1a8905aaf4a solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/96a634ed6b16dc98d35ae54d44be416f Solving linear systems via LDL decomposition] (due 9\/25, [https://nbviewer.jupyter.org/gist/jonghank/31ede7e118c33c1c26e39d3e862e1342 solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/038a97a96fe2096c085ba4055e1e626e Moving average trend on S&P 500] (due 10\/2, [https://nbviewer.jupyter.org/gist/jonghank/c9644a6adf1143080f55129adf0a0502 solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/d960096cbf52928873c553ca76af8457 Baseball statistics] (due 10\/2, [https://nbviewer.jupyter.org/gist/jonghank/7c3485993499619cd9c843a9c235c695 solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/d00102cf2f095c8722eea21be6b85f73 Firing table] (due 10\/9, [https://nbviewer.jupyter.org/gist/jonghank/af2315b06c243ca9e7a1fcfa403ea5ba solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/dda0b0ef7ecd2d65b9c757cf593d473f Back in black] (Files: [./ee370/files/back_in_black.wav back\_in\_black.wav]) (due 10/23, [https://nbviewer.jupyter.org/gist/jonghank/13ff9ed24ffe8b4c20c2e47a7e85bfdb solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/7b8b92438d5d334ecfd4a9995c90082a Mobile phone localization] (due 10\/30, [https://nbviewer.jupyter.org/gist/jonghank/12dfd5462b7b3e9ceb14420d05fcd7c9 solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets] (due 11\/20, [https://nbviewer.jupyter.org/gist/jonghank/dcedf28396652df4efc99cdb07b857df solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/c45ef5c05bb4a03d23cfa03bc10e5a31 Kalman filter] (due 11\/29, [https://nbviewer.jupyter.org/gist/jonghank/875edddd3e8fea759122b97921319fff solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/8d2d794d1cb7fc60a58d1e29396190d7 CCTV video processing] (Files: [./ee370/files/vtest.avi vtest.avi]) (due 12\/4, [https://nbviewer.jupyter.org/gist/jonghank/718dafb9493e9074c9dd87491f9a65a8 solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction] (due 12\/11, [https://nbviewer.jupyter.org/gist/jonghank/fdd74281cc621344e8d3f6b1ce9a62b0 solution]) 
-#. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players] (no need to submit)
+. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 9\/18, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/331d233bf9ae7ea15d27c6e600e8e999 Linear algebra exercises] (due 9\/18, [https://nbviewer.jupyter.org/gist/jonghank/95f1862f8ee38ff044b7d2215ccdcb42 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/2661a0d8272b0a0e41a6d2bab801f8ab Eigenvalues and eigenvectors of symmetric matrices] (due 9\/25, [https://nbviewer.jupyter.org/gist/jonghank/b84a0a43d482ee959eefa1a8905aaf4a solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/96a634ed6b16dc98d35ae54d44be416f Solving linear systems via LDL decomposition] (due 9\/25, [https://nbviewer.jupyter.org/gist/jonghank/31ede7e118c33c1c26e39d3e862e1342 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/038a97a96fe2096c085ba4055e1e626e Moving average trend on S&P 500] (due 10\/2, [https://nbviewer.jupyter.org/gist/jonghank/c9644a6adf1143080f55129adf0a0502 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/d960096cbf52928873c553ca76af8457 Baseball statistics] (due 10\/2, [https://nbviewer.jupyter.org/gist/jonghank/7c3485993499619cd9c843a9c235c695 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/d00102cf2f095c8722eea21be6b85f73 Firing table] (due 10\/9, [https://nbviewer.jupyter.org/gist/jonghank/af2315b06c243ca9e7a1fcfa403ea5ba solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/dda0b0ef7ecd2d65b9c757cf593d473f Back in black] (Files: [./ee370/files/back_in_black.wav back\_in\_black.wav]) (due 10/23, [https://nbviewer.jupyter.org/gist/jonghank/13ff9ed24ffe8b4c20c2e47a7e85bfdb solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/7b8b92438d5d334ecfd4a9995c90082a Mobile phone localization] (due 10\/30, [https://nbviewer.jupyter.org/gist/jonghank/12dfd5462b7b3e9ceb14420d05fcd7c9 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets] (due 11\/20, [https://nbviewer.jupyter.org/gist/jonghank/dcedf28396652df4efc99cdb07b857df solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/c45ef5c05bb4a03d23cfa03bc10e5a31 Kalman filter] (due 11\/29, [https://nbviewer.jupyter.org/gist/jonghank/875edddd3e8fea759122b97921319fff solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/8d2d794d1cb7fc60a58d1e29396190d7 CCTV video processing] (Files: [./ee370/files/vtest.avi vtest.avi]) (due 12\/4, [https://nbviewer.jupyter.org/gist/jonghank/718dafb9493e9074c9dd87491f9a65a8 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction] (due 12\/11, [https://nbviewer.jupyter.org/gist/jonghank/fdd74281cc621344e8d3f6b1ce9a62b0 solution]) 
+. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players] (no need to submit)
 
 #. [https://nbviewer.jupyter.org/gist/jonghank/7fa36f6d00a94af61682e0eb627c13f7 Fibonacci numbers] (due 3\/20, [https://nbviewer.jupyter.org/gist/jonghank/69f65602306c0c531ee2de0140146015 solution])
 #. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 3\/20, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
@@ -81,9 +81,11 @@
 
 == Exams
 
+. [https://nbviewer.jupyter.org/gist/jonghank/d8aad7dca5fa1c3f61266ba8f9e3dfd9 Midterm exam (2019 autumn)] ([https://nbviewer.jupyter.org/gist/jonghank/e9315a329aa6e901f1fbcc17ce14c206 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/297bb53cd7487784acccf32668f7e311 Final exam (2019 autumn)]
+
 == Sample exams
 
+#. [https://nbviewer.jupyter.org/gist/jonghank/9490e395c975b41c1ef31e0c054ba5bd Test]
 . [https://nbviewer.jupyter.org/gist/jonghank/9490e395c975b41c1ef31e0c054ba5bd Sample midterm exam (2019 spring)] ([https://nbviewer.jupyter.org/gist/jonghank/93813f0f625ebedff6de6cd569ad5e04 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/d8aad7dca5fa1c3f61266ba8f9e3dfd9 Midterm exam (2019 autumn)] ([https://nbviewer.jupyter.org/gist/jonghank/e9315a329aa6e901f1fbcc17ce14c206 solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/98fea6d5fc632e5d256b276e1bb824ef Sample #final projects (2019 spring)]
-#. [https://nbviewer.jupyter.org/gist/jonghank/297bb53cd7487784acccf32668f7e311 Final exam #(2019 autumn)]
+. [https://nbviewer.jupyter.org/gist/jonghank/98fea6d5fc632e5d256b276e1bb824ef Sample final projects (2019 spring)]
