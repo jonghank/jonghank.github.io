@@ -1,10 +1,9 @@
 # jemdoc: menu{MENU}{ee363.html}, notime
 = EE363: Automatic Control 
-[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Spring 2020 
+[https://khu-hri.weebly.com/professor.html Prof. Donghan Kim] and [http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Spring 2019 
 
 ~~~
 == Announcements
-- Lectures for the first two weeks (3\/18, 3\/20, 3\/25, and 3\/27) will be aired live online at [https://meet.google.com/vzo-xhdc-cbn https://meet.google.com/vzo-xhdc-cbn].
 - Welcome to EE363: Automatic control.
 ~~~
 
@@ -16,16 +15,16 @@ Laplace transform and transfer functions, frequency domain analysis,
 state space descriptions, classical control design techniques, stability margins, and so on.
 
 *Instructors* 
+- [https://khu-hri.weebly.com/professor.html Prof. Donghan Kim] (Rm.609)
 - [http://jonghank.khu.ac.kr Prof. Jong-Han Kim] (Rm.516)
-- [junhyoncho@khu.ac.kr TA. Jun-Hyon Cho] (Rm.508)
-- [jhkang@khu.ac.kr TA. Jun Hee Kang] (Rm.508)
 
 *Lectures* 
-- Wed\/Fri 12:00-13:15 (Rm.205)
+- Tue\/Thr 15:00-16:15 (Rm.205)
 
 *Office hours*
-- Wed\/Fri 15:00-16:00 (Rm.516), or by appointments via emails.
-- TAs: By appointments (Rm.508)
+- Tue\/Thr 16:15-17:00 (Rm.609, [donghani@khu.ac.kr Donghan Kim])
+- Wed 16:30-18:00 (Rm.516, [jonghank@khu.ac.kr Jong-Han Kim])
+- Or by appointments via emails
 
 *Reference textbooks* \n
 /These are extremely famous elementary level control textbooks. You don't have to get them all, 
@@ -37,8 +36,9 @@ but having at least one on your shelf will make your life as an engineer easier.
 
 *Grading policy*
 - Final exam (40\%) 
-- Midterm exam (30\%) 
-- Homework assignments (30\%)
+- Midterm exam (40\%) 
+- Homework assignments (10\%)
+- Class participation (10\%) 
 
 == Lecture slides
 . [./ee363/Kuo10e_01.pdf Introduction to control systems]
@@ -56,21 +56,21 @@ but having at least one on your shelf will make your life as an engineer easier.
 == Additional notes
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 
-#. [https://nbviewer.jupyter.org/gist/jonghank/2dbd42d08350241e95f150092740f87f Python control systems library]
-#. [https://nbviewer.jupyter.org/gist/jonghank/23ceee5bf739d94711959bbd1211d11f Exercises on step responses and dominant poles]
-#. [https://nbviewer.jupyter.org/gist/jonghank/56cfe26bc6c4c766e300731f9b3f34ac Exercises on root locus techniques]
-#. [https://nbviewer.jupyter.org/gist/jonghank/fcfc3935661b46c1a179c6d2bfc55aa1 Exercises on Bode plots, Nyquist plots, and stability margins]
+. [https://nbviewer.jupyter.org/gist/jonghank/2dbd42d08350241e95f150092740f87f Python control systems library]
+. [https://nbviewer.jupyter.org/gist/jonghank/23ceee5bf739d94711959bbd1211d11f Exercises on step responses and dominant poles]
+. [https://nbviewer.jupyter.org/gist/jonghank/56cfe26bc6c4c766e300731f9b3f34ac Exercises on root locus techniques]
+. [https://nbviewer.jupyter.org/gist/jonghank/fcfc3935661b46c1a179c6d2bfc55aa1 Exercises on Bode plots, Nyquist plots, and stability margins]
 
 == Assignments
 /Homework problems will be taken from Automatic control systems by Golnaraghi and Kuo (10th ed.)./
 
-#. HW\#1: Problems 2.1, 2.2, 2.3, 2.6, 2.10, 2.15, 2.29
-#. HW\#2: Problems 3.8, 3.11, 3.23, 3.26, 3.27
-#. HW\#3: Problems 4.1, 4.2, 4.3, 4.5, 4.10, 4.19, 4.32(b-c) (due 5/9)
-#. HW\#4: Problems 5.10, 5.12, 5.17 (due 5/23)
-#. HW\#5: Problems 7.28, 7.30, 7.31, 7.41 (due 5/30)
-#. HW\#6: Problems 9.14, 9.15, 9.24, 9.25, 9.31 (due 6/11)
-#. HW\#7: Problems 10.16, 10.37, 10.41, 10.45, 10.47 (due 6/20)
+. HW\#1: Problems 2.1, 2.2, 2.3, 2.6, 2.10, 2.15, 2.29
+. HW\#2: Problems 3.8, 3.11, 3.23, 3.26, 3.27
+. HW\#3: Problems 4.1, 4.2, 4.3, 4.5, 4.10, 4.19, 4.32(b-c) (due 5/9)
+. HW\#4: Problems 5.10, 5.12, 5.17 (due 5/23)
+. HW\#5: Problems 7.28, 7.30, 7.31, 7.41 (due 5/30)
+. HW\#6: Problems 9.14, 9.15, 9.24, 9.25, 9.31 (due 6/11)
+. HW\#7: Problems 10.16, 10.37, 10.41, 10.45, 10.47 (due 6/20)
 
 == Sample exams
 . [./ee363_2018s/midterm.pdf 2018 Midterm] and [./ee363_2018s/midterm_sol.pdf solutions] 

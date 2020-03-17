@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <title>EE363: Automatic Control </title>
 <!-- MathJax -->
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
@@ -36,14 +36,12 @@ MathJax.Hub.Config({
 <td id="layout-content">
 <div id="toptitle">
 <h1>EE363: Automatic Control </h1>
-<div id="subtitle"><a href="http://jonghank.khu.ac.kr" target=&ldquo;blank&rdquo;>Prof. Jong-Han Kim</a>, <a href="http://www.khu.ac.kr" target=&ldquo;blank&rdquo;>Kyung Hee University</a>, Spring 2020 </div>
+<div id="subtitle"><a href="https://khu-hri.weebly.com/professor.html" target=&ldquo;blank&rdquo;>Prof. Donghan Kim</a> and <a href="http://jonghank.khu.ac.kr" target=&ldquo;blank&rdquo;>Prof. Jong-Han Kim</a>, <a href="http://www.khu.ac.kr" target=&ldquo;blank&rdquo;>Kyung Hee University</a>, Spring 2019 </div>
 </div>
 <div class="infoblock">
 <div class="blockcontent">
 <h2>Announcements</h2>
 <ul>
-<li><p>Lectures for the first two weeks (3/18, 3/20, 3/25, and 3/27) will be aired live online at <a href="https://meet.google.com/vzo-xhdc-cbn" target=&ldquo;blank&rdquo;>https:<i></i>meet.google.com/vzo-xhdc-cbn</a>.</p>
-</li>
 <li><p>Welcome to EE363: Automatic control.</p>
 </li>
 </ul>
@@ -58,23 +56,23 @@ state space descriptions, classical control design techniques, stability margins
 </ul>
 <p><b>Instructors</b> </p>
 <ul>
+<li><p><a href="https://khu-hri.weebly.com/professor.html" target=&ldquo;blank&rdquo;>Prof. Donghan Kim</a> (Rm.609)</p>
+</li>
 <li><p><a href="http://jonghank.khu.ac.kr" target=&ldquo;blank&rdquo;>Prof. Jong-Han Kim</a> (Rm.516)</p>
-</li>
-<li><p><a href="mailto:junhyoncho@khu.ac.kr" target=&ldquo;blank&rdquo;>TA. Jun-Hyon Cho</a> (Rm.508)</p>
-</li>
-<li><p><a href="mailto:jhkang@khu.ac.kr" target=&ldquo;blank&rdquo;>TA. Jun Hee Kang</a> (Rm.508)</p>
 </li>
 </ul>
 <p><b>Lectures</b> </p>
 <ul>
-<li><p>Wed/Fri 12:00-13:15 (Rm.205)</p>
+<li><p>Tue/Thr 15:00-16:15 (Rm.205)</p>
 </li>
 </ul>
 <p><b>Office hours</b></p>
 <ul>
-<li><p>Wed/Fri 15:00-16:00 (Rm.516), or by appointments via emails.</p>
+<li><p>Tue/Thr 16:15-17:00 (Rm.609, <a href="mailto:donghani@khu.ac.kr" target=&ldquo;blank&rdquo;>Donghan Kim</a>)</p>
 </li>
-<li><p>TAs: By appointments (Rm.508)</p>
+<li><p>Wed 16:30-18:00 (Rm.516, <a href="mailto:jonghank@khu.ac.kr" target=&ldquo;blank&rdquo;>Jong-Han Kim</a>)</p>
+</li>
+<li><p>Or by appointments via emails</p>
 </li>
 </ul>
 <p><b>Reference textbooks</b> <br />
@@ -94,9 +92,11 @@ but having at least one on your shelf will make your life as an engineer easier.
 <ul>
 <li><p>Final exam (40%) </p>
 </li>
-<li><p>Midterm exam (30%) </p>
+<li><p>Midterm exam (40%) </p>
 </li>
-<li><p>Homework assignments (30%)</p>
+<li><p>Homework assignments (10%)</p>
+</li>
+<li><p>Class participation (10%) </p>
 </li>
 </ul>
 <h2>Lecture slides</h2>
@@ -126,8 +126,34 @@ but having at least one on your shelf will make your life as an engineer easier.
 </ol>
 <h2>Additional notes</h2>
 <p><i>The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked.</i></p>
+<ol>
+<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/2dbd42d08350241e95f150092740f87f" target=&ldquo;blank&rdquo;>Python control systems library</a></p>
+</li>
+<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/23ceee5bf739d94711959bbd1211d11f" target=&ldquo;blank&rdquo;>Exercises on step responses and dominant poles</a></p>
+</li>
+<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/56cfe26bc6c4c766e300731f9b3f34ac" target=&ldquo;blank&rdquo;>Exercises on root locus techniques</a></p>
+</li>
+<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/fcfc3935661b46c1a179c6d2bfc55aa1" target=&ldquo;blank&rdquo;>Exercises on Bode plots, Nyquist plots, and stability margins</a></p>
+</li>
+</ol>
 <h2>Assignments</h2>
 <p><i>Homework problems will be taken from Automatic control systems by Golnaraghi and Kuo (10th ed.).</i></p>
+<ol>
+<li><p>HW#1: Problems 2.1, 2.2, 2.3, 2.6, 2.10, 2.15, 2.29</p>
+</li>
+<li><p>HW#2: Problems 3.8, 3.11, 3.23, 3.26, 3.27</p>
+</li>
+<li><p>HW#3: Problems 4.1, 4.2, 4.3, 4.5, 4.10, 4.19, 4.32(b-c) (due 5/9)</p>
+</li>
+<li><p>HW#4: Problems 5.10, 5.12, 5.17 (due 5/23)</p>
+</li>
+<li><p>HW#5: Problems 7.28, 7.30, 7.31, 7.41 (due 5/30)</p>
+</li>
+<li><p>HW#6: Problems 9.14, 9.15, 9.24, 9.25, 9.31 (due 6/11)</p>
+</li>
+<li><p>HW#7: Problems 10.16, 10.37, 10.41, 10.45, 10.47 (due 6/20)</p>
+</li>
+</ol>
 <h2>Sample exams</h2>
 <ol>
 <li><p><a href="./ee363_2018s/midterm.pdf" target=&ldquo;blank&rdquo;>2018 Midterm</a> and <a href="./ee363_2018s/midterm_sol.pdf" target=&ldquo;blank&rdquo;>solutions</a> </p>
@@ -137,7 +163,7 @@ but having at least one on your shelf will make your life as an engineer easier.
 </ol>
 <div id="footer">
 <div id="footer-text">
-Page generated 2020-03-17, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2019-09-06, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>

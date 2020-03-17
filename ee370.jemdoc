@@ -4,7 +4,7 @@
 
 ~~~
 == Announcements
-- Live online lectures for the first two weeks (3\/18 and 3\/25) will be aired at [https://meet.google.com/thz-vbeb-vhe https://meet.google.com/thz-vbeb-vhe].
+- Lectures for the first two weeks (3\/18 and 3\/25) will be aired live online at [https://meet.google.com/thz-vbeb-vhe https://meet.google.com/thz-vbeb-vhe].
 - Welcome to EE370: Software lab.
 ~~~
 
@@ -13,6 +13,10 @@
 *Course descriptions* 
 
 - This course covers elementary computational techniques for solving mathematical problems in electrical and electronic engineering. Students will use high level programming languages to formulate, interpret and analyze practical real-world problems encountered at a wide variety of engineering disciplines. Covered topics include but not limited to differential equations, linear algebra, probability, Fourier transform, introductory machine learning and artificial intelligence.
+
+*Instructors* 
+- [http://jonghank.khu.ac.kr Prof. Jong-Han Kim] (Rm.516)
+- [junhyoncho@khu.ac.kr TA. Jun-hyon Cho] (Rm.508)
 
 *Lectures* 
 - Wed 13:30-17:20 (Callab-B05)
@@ -49,7 +53,7 @@
 
 == Assignments
 
-/Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture to [050973@khu.ac.kr 050973@khu.ac.kr]./
+/Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture to [junhyoncho@khu.ac.kr junhyoncho@khu.ac.kr]./
 
 #. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 9\/18, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
 #. [https://nbviewer.jupyter.org/gist/jonghank/331d233bf9ae7ea15d27c6e600e8e999 Linear algebra exercises] (due 9\/18, [https://nbviewer.jupyter.org/gist/jonghank/95f1862f8ee38ff044b7d2215ccdcb42 solution])
@@ -84,6 +88,6 @@
 == Sample exams
 
 . [https://nbviewer.jupyter.org/gist/jonghank/9490e395c975b41c1ef31e0c054ba5bd Sample midterm exam (2019 spring)] ([https://nbviewer.jupyter.org/gist/jonghank/93813f0f625ebedff6de6cd569ad5e04 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/d8aad7dca5fa1c3f61266ba8f9e3dfd9 Midterm exam (2019 autumn)] ([https://nbviewer.jupyter.org/gist/jonghank/e9315a329aa6e901f1fbcc17ce14c206 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/d8aad7dca5fa1c3f61266ba8f9e3dfd9 Sample midterm exam (2019 autumn)] ([https://nbviewer.jupyter.org/gist/jonghank/e9315a329aa6e901f1fbcc17ce14c206 solution])
 #. [https://nbviewer.jupyter.org/gist/jonghank/98fea6d5fc632e5d256b276e1bb824ef Sample #final projects (2019 spring)]
 #. [https://nbviewer.jupyter.org/gist/jonghank/297bb53cd7487784acccf32668f7e311 Final exam #(2019 autumn)]
