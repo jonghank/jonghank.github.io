@@ -4,6 +4,7 @@
 
 ~~~
 == Announcements
+- Homework \#1 posted.
 - Recorded lecture videos are posted [https://www.youtube.com/playlist?list=PL4hfN6QwNZ8UrcKFIDbqdGBT1Ixmkvs3h here.]
 - We will continue to meet online for two more weeks, until 4\/10. 
 - Lectures for the first two weeks (3\/18, 3\/20, 3\/25, and 3\/27) will be aired live online at [https://meet.google.com/vzo-xhdc-cbn https://meet.google.com/vzo-xhdc-cbn].
@@ -65,9 +66,8 @@ but having at least one on your shelf will make your life as an engineer easier.
 #. [https://nbviewer.jupyter.org/gist/jonghank/fcfc3935661b46c1a179c6d2bfc55aa1 Exercises on Bode plots, Nyquist plots, and stability margins]
 
 == Assignments
-/Homework problems will be taken from Automatic control systems by Golnaraghi and Kuo (10th ed.)./
 
-#. HW\#1: Problems 2.1, 2.2, 2.3, 2.6, 2.10, 2.15, 2.29
+. [./ee363/2020s/hw1.pdf HW \#1] (due 4\/15)
 #. HW\#2: Problems 3.8, 3.11, 3.23, 3.26, 3.27
 #. HW\#3: Problems 4.1, 4.2, 4.3, 4.5, 4.10, 4.19, 4.32(b-c) (due 5/9)
 #. HW\#4: Problems 5.10, 5.12, 5.17 (due 5/23)
