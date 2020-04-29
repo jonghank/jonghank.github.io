@@ -4,6 +4,7 @@
 
 ~~~
 == Announcements
+- Midterm exam will be on 5\/13 at 13:00-16:00. Online and open-everything, but no discussion allowed during the exam.
 - Recorded lecture videos are posted [https://www.youtube.com/playlist?list=PL4hfN6QwNZ8VUhkKQ5awIC3rHAqYQU_58 here.]
 - We will continue to meet online for two more weeks, until 4\/10. 
 - Lectures for the first two weeks (3\/18 and 3\/25) will be aired live online at [https://meet.google.com/thz-vbeb-vhe https://meet.google.com/thz-vbeb-vhe].
@@ -61,9 +62,9 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 4\/1, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/2661a0d8272b0a0e41a6d2bab801f8ab Eigenvalues and eigenvectors of symmetric matrices] (due 4\/8, [https://nbviewer.jupyter.org/gist/jonghank/b84a0a43d482ee959eefa1a8905aaf4a solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/c382220bd55f93f325964003a4f19849 Google PageRank] (due 4\/8, [https://nbviewer.jupyter.org/gist/jonghank/06cbc33f2b3132e8019873028466a3b2 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/56b2c57c84e3165c1dbd1b4137a70482 Approximations of $\pi$ function] (due 4\/15)
-. [https://nbviewer.jupyter.org/gist/jonghank/d960096cbf52928873c553ca76af8457 Baseball statistics] (due 4\/22)
-. [https://nbviewer.jupyter.org/gist/jonghank/e31fec0a99f3fef59b01d723eb46b793 Firing table] (due 4\/29)
+. [https://nbviewer.jupyter.org/gist/jonghank/56b2c57c84e3165c1dbd1b4137a70482 Approximations of $\pi$ function] (due 4\/15, [https://nbviewer.jupyter.org/gist/jonghank/206526fb71ef33e5055b10c8102ac6e7 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/d960096cbf52928873c553ca76af8457 Baseball statistics] (due 4\/22, [https://nbviewer.jupyter.org/gist/jonghank/7c3485993499619cd9c843a9c235c695 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/e31fec0a99f3fef59b01d723eb46b793 Firing table] (due 4\/29[https://nbviewer.jupyter.org/gist/jonghank/9eb765c5b6710d42990715ac39f22ab1 solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/e06ab4bc6a43b79deffa56f51b94bb7e Back in black] (Files: [./ee370/files/back_in_black.wav back\_in\_black.wav]) (due 5\/6)
 . [https://nbviewer.jupyter.org/gist/jonghank/7d2fa664ac46e135fa4874479c965cb5 Image noise rejection] (due 5\/6)
 
