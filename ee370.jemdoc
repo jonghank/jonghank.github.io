@@ -4,7 +4,7 @@
 
 ~~~
 == Announcements
-- Midterm exam will be on 5\/13 at 13:00-16:00. Online and open-everything, but no discussion allowed during the exam.
+#- Midterm exam will be on 5\/13 at 13:00-16:00. Online and open-everything, but no #discussion allowed during the exam.
 - Recorded lecture videos are posted [https://www.youtube.com/playlist?list=PL4hfN6QwNZ8VUhkKQ5awIC3rHAqYQU_58 here.]
 - We will continue to meet online for two more weeks, until 4\/10. 
 - Lectures for the first two weeks (3\/18 and 3\/25) will be aired live online at [https://meet.google.com/thz-vbeb-vhe https://meet.google.com/thz-vbeb-vhe].
@@ -68,7 +68,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/e06ab4bc6a43b79deffa56f51b94bb7e Back in black] (Files: [./ee370/files/back_in_black.wav back\_in\_black.wav]) (due 5\/6)
 . [https://nbviewer.jupyter.org/gist/jonghank/7d2fa664ac46e135fa4874479c965cb5 Image noise rejection] (due 5\/6)
 . [https://nbviewer.jupyter.org/gist/jonghank/7b8b92438d5d334ecfd4a9995c90082a Mobile phone localization] (due 5\/13)
-. [https://nbviewer.jupyter.org/gist/jonghank/c45ef5c05bb4a03d23cfa03bc10e5a31 Kalman filter] (due 5\/13)
+#. [https://nbviewer.jupyter.org/gist/jonghank/c45ef5c05bb4a03d23cfa03bc10e5a31 Kalman #filter] (due 5\/13)
 
 
 #== Exams
