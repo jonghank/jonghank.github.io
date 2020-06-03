@@ -65,8 +65,8 @@ but having at least one on your shelf will make your life as an engineer easier.
 /The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 
 . [https://nbviewer.jupyter.org/gist/jonghank/d5cda8b9497ae553d4f8c5c69808a956 Python control systems library]
-#. [https://nbviewer.jupyter.org/gist/jonghank/23ceee5bf739d94711959bbd1211d11f Exercises on step responses and dominant poles]
-#. [https://nbviewer.jupyter.org/gist/jonghank/56cfe26bc6c4c766e300731f9b3f34ac Exercises on root locus techniques]
+. [https://nbviewer.jupyter.org/gist/jonghank/23ceee5bf739d94711959bbd1211d11f Exercises on step responses and dominant poles]
+. [https://nbviewer.jupyter.org/gist/jonghank/56cfe26bc6c4c766e300731f9b3f34ac Exercises on root locus techniques]
 #. [https://nbviewer.jupyter.org/gist/jonghank/fcfc3935661b46c1a179c6d2bfc55aa1 Exercises on Bode plots, Nyquist plots, and stability margins]
 
 == Assignments
