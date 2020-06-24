@@ -76,8 +76,8 @@
 . [https://www.tensorflow.org/tutorials/keras/classification Neural networks with Tensorflow] (due 6\/17)
 . [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players] (due 6\/24)
  
-#== Exams
-
+== Exams
+. [https://nbviewer.jupyter.org/gist/jonghank/d85397a290cde4bab1ee7c38637693dd Final exam (2020 spring)] and [./ee370/files/how_to_submit.pdf how to submit]
 == Sample exams
 
 . [https://nbviewer.jupyter.org/gist/jonghank/9490e395c975b41c1ef31e0c054ba5bd Sample midterm exam (2019 spring)] ([https://nbviewer.jupyter.org/gist/jonghank/93813f0f625ebedff6de6cd569ad5e04 solution])
