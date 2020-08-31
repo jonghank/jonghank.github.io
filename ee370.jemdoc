@@ -1,13 +1,9 @@
 # jemdoc: menu{MENU}{ee370.html}, notime
 = EE370: Software lab. 
-[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Spring 2020 
+[http://jonghank.khu.ac.kr Prof. Jong-Han Kim], [http://www.khu.ac.kr Kyung Hee University], Autumn 2020 
 
 ~~~
 == Announcements
-#- Midterm exam will be on 5\/13 at 13:00-16:00. Online and open-everything, but no #discussion allowed during the exam.
-- Recorded lecture videos are posted [https://www.youtube.com/playlist?list=PL4hfN6QwNZ8VUhkKQ5awIC3rHAqYQU_58 here.]
-- We will continue to meet online for two more weeks, until 4\/10. 
-- Lectures for the first two weeks (3\/18 and 3\/25) will be aired live online at [https://meet.google.com/thz-vbeb-vhe https://meet.google.com/thz-vbeb-vhe].
 - Welcome to EE370: Software lab.
 ~~~
 
@@ -19,15 +15,16 @@
 
 *Instructors* 
 - Instructor: [jonghank@khu.ac.kr Prof. Jong-Han Kim] (Rm.516)
-- Head TA: [junhyoncho@khu.ac.kr Jun-hyon Cho] (Rm.508)
-- TA: [kunwoopark@khu.ac.kr Kunwoo Park] (Rm.516)
+- TA: [jhkang@khu.ac.kr Jun-Hee Kang (Wed class)] (Rm.568)
+- TA: [kunwoopark@khu.ac.kr Kunwoo Park (Thr class)] (Rm.337-1)
 
 *Lectures* 
-- Wed 13:30-17:20 (Callab-B05)
+- Wed 13:30-17:20 (Rm.211-1)
+- Thr 10:30-14:20 (Rm.211-1)
 
 *Office hours*
-- JHK: Wed\/Fri 15:00-16:00 (Rm.516), or by appointments.
-- TAs: By appointments (Rm.508)
+- JHK: Thr 14:30-16:00 (Rm.516), or by appointments.
+- TAs: By appointments.
 
 *Prerequisites* 
 - Previous exposure to programming languages (Python or others).
@@ -58,29 +55,31 @@
 
 == Assignments
 
-/Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture to [050973@khu.ac.kr 050973@khu.ac.kr]./
+/Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture to the course TAs./
 
-. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 4\/1, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/2661a0d8272b0a0e41a6d2bab801f8ab Eigenvalues and eigenvectors of symmetric matrices] (due 4\/8, [https://nbviewer.jupyter.org/gist/jonghank/b84a0a43d482ee959eefa1a8905aaf4a solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/c382220bd55f93f325964003a4f19849 Google PageRank] (due 4\/8, [https://nbviewer.jupyter.org/gist/jonghank/06cbc33f2b3132e8019873028466a3b2 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/56b2c57c84e3165c1dbd1b4137a70482 Approximations of $\pi$ function] (due 4\/15, [https://nbviewer.jupyter.org/gist/jonghank/206526fb71ef33e5055b10c8102ac6e7 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/d960096cbf52928873c553ca76af8457 Baseball statistics] (due 4\/22, [https://nbviewer.jupyter.org/gist/jonghank/7c3485993499619cd9c843a9c235c695 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/e31fec0a99f3fef59b01d723eb46b793 Firing table] (due 4\/29, [https://nbviewer.jupyter.org/gist/jonghank/9eb765c5b6710d42990715ac39f22ab1 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/e06ab4bc6a43b79deffa56f51b94bb7e Back in black] (Files: [./ee370/files/back_in_black.wav back\_in\_black.wav]) (due 5\/6, [https://nbviewer.jupyter.org/gist/jonghank/ac7a814db45dd9494d780e15dc689c7c solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/7d2fa664ac46e135fa4874479c965cb5 Image noise rejection] (due 5\/6, [https://nbviewer.jupyter.org/gist/jonghank/5d8401f5540eafa64e910b93052a76e4 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/7b8b92438d5d334ecfd4a9995c90082a Mobile phone localization] (due 5\/13, [https://nbviewer.jupyter.org/gist/jonghank/d35938ee30991017711bcf138eb75b02 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets] (due 5\/20, [https://nbviewer.jupyter.org/gist/jonghank/b3f4f77f2c2b7327ced05255e145d390 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/46597214ce4d62067e752402114527c3 Estimation and filtering] (due 5\/27, [https://nbviewer.jupyter.org/gist/jonghank/2550d608130f05e23080e8d576e4bf3e solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/8d2d794d1cb7fc60a58d1e29396190d7 CCTV video processing] (Files: [./ee370/files/vtest.avi vtest.avi]) (due 6\/3, [https://nbviewer.jupyter.org/gist/jonghank/718dafb9493e9074c9dd87491f9a65a8 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction] (due 6\/10, [https://nbviewer.jupyter.org/gist/jonghank/fdd74281cc621344e8d3f6b1ce9a62b0 solution])
-. [https://www.tensorflow.org/tutorials/keras/classification Neural networks with Tensorflow] (due 6\/17)
-. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players] (due 6\/24, [https://nbviewer.jupyter.org/gist/jonghank/fb487bf82a0a558e67c4fc47e084dd0b solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 4\/1, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/2661a0d8272b0a0e41a6d2bab801f8ab Eigenvalues and eigenvectors of symmetric matrices] (due 4\/8, [https://nbviewer.jupyter.org/gist/jonghank/b84a0a43d482ee959eefa1a8905aaf4a solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/c382220bd55f93f325964003a4f19849 Google PageRank] (due 4\/8, [https://nbviewer.jupyter.org/gist/jonghank/06cbc33f2b3132e8019873028466a3b2 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/56b2c57c84e3165c1dbd1b4137a70482 Approximations of $\pi$ function] (due 4\/15, [https://nbviewer.jupyter.org/gist/jonghank/206526fb71ef33e5055b10c8102ac6e7 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/d960096cbf52928873c553ca76af8457 Baseball statistics] (due 4\/22, [https://nbviewer.jupyter.org/gist/jonghank/7c3485993499619cd9c843a9c235c695 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/e31fec0a99f3fef59b01d723eb46b793 Firing table] (due 4\/29, [https://nbviewer.jupyter.org/gist/jonghank/9eb765c5b6710d42990715ac39f22ab1 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/e06ab4bc6a43b79deffa56f51b94bb7e Back in black] (Files: [./ee370/files/back_in_black.wav back\_in\_black.wav]) (due 5\/6, [https://nbviewer.jupyter.org/gist/jonghank/ac7a814db45dd9494d780e15dc689c7c solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/7d2fa664ac46e135fa4874479c965cb5 Image noise rejection] (due 5\/6, [https://nbviewer.jupyter.org/gist/jonghank/5d8401f5540eafa64e910b93052a76e4 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/7b8b92438d5d334ecfd4a9995c90082a Mobile phone localization] (due 5\/13, [https://nbviewer.jupyter.org/gist/jonghank/d35938ee30991017711bcf138eb75b02 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets] (due 5\/20, [https://nbviewer.jupyter.org/gist/jonghank/b3f4f77f2c2b7327ced05255e145d390 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/46597214ce4d62067e752402114527c3 Estimation and filtering] (due 5\/27, [https://nbviewer.jupyter.org/gist/jonghank/2550d608130f05e23080e8d576e4bf3e solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/8d2d794d1cb7fc60a58d1e29396190d7 CCTV video processing] (Files: [./ee370/files/vtest.avi vtest.avi]) (due 6\/3, [https://nbviewer.jupyter.org/gist/jonghank/718dafb9493e9074c9dd87491f9a65a8 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction] (due 6\/10, [https://nbviewer.jupyter.org/gist/jonghank/fdd74281cc621344e8d3f6b1ce9a62b0 solution])
+#. [https://www.tensorflow.org/tutorials/keras/classification Neural networks with Tensorflow] (due 6\/17)
+#. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players] (due 6\/24, [https://nbviewer.jupyter.org/gist/jonghank/fb487bf82a0a558e67c4fc47e084dd0b solution])
  
-== Exams
-. [https://nbviewer.jupyter.org/gist/jonghank/d85397a290cde4bab1ee7c38637693dd Final exam (2020 spring)] and [./ee370/files/how_to_submit.pdf how to submit]
+#== Exams
+#. [https://nbviewer.jupyter.org/gist/jonghank/d85397a290cde4bab1ee7c38637693dd Final exam (2020 spring)] and [./ee370/files/how_to_submit.pdf how to submit]
+
 == Sample exams
 
-. [https://nbviewer.jupyter.org/gist/jonghank/9490e395c975b41c1ef31e0c054ba5bd Sample midterm exam (2019 spring)] ([https://nbviewer.jupyter.org/gist/jonghank/93813f0f625ebedff6de6cd569ad5e04 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/9490e395c975b41c1ef31e0c054ba5bd Sample midterm exam (2019 spring)] ([https://nbviewer.jupyter.org/gist/jonghank/93813f0f625ebedff6de6cd569ad5e04 solution])
 . [https://nbviewer.jupyter.org/gist/jonghank/d8aad7dca5fa1c3f61266ba8f9e3dfd9 Sample midterm exam (2019 autumn)] ([https://nbviewer.jupyter.org/gist/jonghank/e9315a329aa6e901f1fbcc17ce14c206 solution])
+. [https://nbviewer.jupyter.org/gist/jonghank/d85397a290cde4bab1ee7c38637693dd Sample final exam (2020 spring)]
 #. [https://nbviewer.jupyter.org/gist/jonghank/98fea6d5fc632e5d256b276e1bb824ef Sample #final projects (2019 spring)]
 #. [https://nbviewer.jupyter.org/gist/jonghank/297bb53cd7487784acccf32668f7e311 Final exam #(2019 autumn)]
