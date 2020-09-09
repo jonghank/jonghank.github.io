@@ -4,6 +4,7 @@
 
 ~~~
 == Announcements
+- Videos from the last semester are [https://www.youtube.com/playlist?list=PL4hfN6QwNZ8VUhkKQ5awIC3rHAqYQU_58 here].
 - Zoom meeting ID's: [https://khu-ac.zoom.us/j/94153472528 Wed: 941 5347 2528], [https://khu-ac.zoom.us/j/94290169355 Thr: 942 9016 9355]
 - Welcome to EE370: Software lab.
 ~~~
@@ -20,8 +21,8 @@
 - TA: [kunwoopark@khu.ac.kr Kunwoo Park (Thr class)] (Rm.337-1)
 
 *Lectures* 
-- Wed 13:30-17:20 (Rm.211-1)
-- Thr 10:30-14:20 (Rm.211-1)
+- [https://khu-ac.zoom.us/j/94153472528 Wed 13:30-17:20] (Rm.211-1)
+- [https://khu-ac.zoom.us/j/94290169355 Thr 10:30-14:20] (Rm.211-1)
 
 *Office hours*
 - JHK: Thr 14:30-16:00 (Rm.516), or by appointments.
@@ -59,7 +60,7 @@
 /Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture to the course TAs./
 
 . [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function] (due 9\/16)
-. [https://nbviewer.jupyter.org/gist/jonghank/38ac9cee523bdf25487dda1f6370b75e Gauss-Legendre algorithm] (due 9\/16)
+. [https://nbviewer.jupyter.org/gist/jonghank/728a79dbfbafa97ca9d9d1e8b9885be5 Gauss-Legendre algorithm] (due 9\/16)
 #. [https://nbviewer.jupyter.org/gist/jonghank/2661a0d8272b0a0e41a6d2bab801f8ab Eigenvalues and eigenvectors of symmetric matrices] (due 4\/8, [https://nbviewer.jupyter.org/gist/jonghank/b84a0a43d482ee959eefa1a8905aaf4a solution])
 #. [https://nbviewer.jupyter.org/gist/jonghank/c382220bd55f93f325964003a4f19849 Google PageRank] (due 4\/8, [https://nbviewer.jupyter.org/gist/jonghank/06cbc33f2b3132e8019873028466a3b2 solution])
 #. [https://nbviewer.jupyter.org/gist/jonghank/56b2c57c84e3165c1dbd1b4137a70482 Approximations of $\pi$ function] (due 4\/15, [https://nbviewer.jupyter.org/gist/jonghank/206526fb71ef33e5055b10c8102ac6e7 solution])
