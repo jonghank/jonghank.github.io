@@ -43,7 +43,7 @@
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 . [https://nbviewer.jupyter.org/gist/jonghank/76c5d123970802ea0b721c0140d09784 A very short Python introduction]
 . [https://nbviewer.jupyter.org/gist/jonghank/f13536f7ec151ba4f247e526e904804a Numpy module]
-. [https://nbviewer.jupyter.org/gist/jonghank/cf3b3262671e576f33f78020fd18d98d Matplotlib module]
+. [https://nbviewer.jupyter.org/gist/jonghank/a82eefd9d1b0ee247b4517d79aeedb0b Matplotlib module]
 . [https://nbviewer.jupyter.org/gist/jonghank/80d8f76d2dded924f356fa850f7f7e53 Pandas module] (Files: [./ee370/files/kfxsim.csv kfxsim.csv])
 . [https://nbviewer.jupyter.org/gist/jonghank/4f62dc389f80d0a862c1566716d5cdd2 Differential equations and dynamical systems]
 . [https://nbviewer.jupyter.org/gist/jonghank/4530c2867d58412e62f5ebf3b6338d14 Fourier transform and sound signals]
