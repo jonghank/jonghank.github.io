@@ -51,18 +51,18 @@ but having at least one on your shelf will make your life as an engineer easier.
 - Midterm exam (30\%) 
 - Homework assignments (30\%)
 
-== Course contents
-. Introduction to control systems
-. Modeling of dynamic systems
-. Solution of differential equations of dynamic systems
-. Block diagrams and signal-flow graphs
-. Stability of linear control systems
-. Important components of feedback control systems
-. Time-domain performance of control systems
-. State-space analysis and controller design
-. Root-locus analysis
-. Frequency-domain analysis
-. Design of control systems
+== Lecture slides
+. [./ee363/Kuo10e_01.pdf Introduction to control systems]
+. [./ee363/Kuo10e_02.pdf Modeling of dynamic systems]
+. [./ee363/Kuo10e_03v3.pdf Solution of differential equations of dynamic systems]
+. [./ee363/Kuo10e_04v03.pdf Block diagrams and signal-flow graphs]
+. [./ee363/Kuo10e_05v01.pdf Stability of linear control systems]
+. [./ee363/Kuo10e_06v02.pdf Important components of feedback control systems]
+. [./ee363/Kuo10e_07v1.pdf Time-domain performance of control systems]
+. [./ee363/Kuo10e_08v01.pdf State-space analysis and controller design]
+. [./ee363/Kuo10e_09v01.pdf Root-locus analysis]
+. [./ee363/Kuo10e_10v02.pdf Frequency-domain analysis]
+. [./ee363/Kuo10e_11v01.pdf Design of control systems]
 
 == Computational exercises
 /The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
