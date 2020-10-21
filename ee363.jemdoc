@@ -52,17 +52,24 @@ but having at least one on your shelf will make your life as an engineer easier.
 - Homework assignments (30\%)
 
 == Course contents
-. Introduction to control systems
-. Modeling of dynamic systems
-. Solution of differential equations of dynamic systems
-. Block diagrams and signal-flow graphs
-. Stability of linear control systems
-. Important components of feedback control systems
-. Time-domain performance of control systems
-. State-space analysis and controller design
-. Root-locus analysis
-. Frequency-domain analysis
-. Design of control systems
+. Feedback and closed-loop systems
+. Dynamic modeling of mechanical systems
+. Dynamic modeling and linearization
+. Describing linear dynamical systems
+. Linear dynamical systems and Laplace transform
+. Impulse response and frequency response
+. Time domain responses and stability
+. Block diagrams and feedback interconnection
+. Block diagram algebra
+. Poles and eigenvalues
+. Steady state error and system types
+. Steady state error rejection
+. Effects of pole locations on time domain responses
+. Root locus and design examples
+. Frequency domain analysis
+. Bode plots
+. Stability margin
+
 
 == Computational exercises
 /The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
