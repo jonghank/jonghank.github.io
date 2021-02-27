@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{ase7005.html}, notime
+= ASE7005: Vehicle guidance theory 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Spring 2021 
+
+~~~
+== Announcements
+- Zoom meeting ID: [https://khu-ac.zoom.us/j/94153472528 941 5347 2528]
+- Welcome to ASE7005: Vehicle guidance theory.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+
+- This course covers fundamental theoretical aspects on optimal guidance technologies. The class begins with analytic and computational techniques for finite/infinite horizon quadratic optimal control on discrete/continuous time domains, and will use the techniques to derive a variety of optimal guidance solutions, including the proportional navigation guidance and the optimal impact angle guidance, etc. The students will also work on building simple numerical models for analyzing the characteristics and the performance of the optimal guidance solutions.
+
+*Instructors* 
+- Instructor: [kchoi@inha.ac.kr Prof. Keeyoung Choi] (Rm.505 @Aerospace campus)
+- Instructor: [jonghank@inha.ac.kr Prof. Jong-Han Kim] (Rm.507 @Aerospace campus)
+
+*Lectures* 
+- [https://khu-ac.zoom.us/j/94153472528 Thr/Fri 13:30-15:00] (Rm.TBD)
+
+*Office hours*
+- JHK: Mon/Wed 13:30-15:00 (Rm.507), or by appointments.
+
+*Prerequisites* 
+- Previous exposure to linear algebra, optimization, and programming languages (Python or MATLAB).
+
+*Reference textbooks* \n
+- There are no required textbooks.
+
+*Grading policy*
+- Final exam (40%)
+- Midterm exam (30%)
+- Homework assignments and class participation (30%)
+
+== Course contents
+. Linear quadratic regulators (LQR)
+. Discrete-time finite horizon LQR
+. Computational techniques: least squares
+. Computational techniques: dynamic programming
+. Computational techniques: constrained optimization via Lagrange multipliers
+. Infinite horizon and receding horizon LQR
+. Continuous time LQR
+. Proportional navigation
+. Optimal impact angle guidance
+. Waypoint guidance
+. Numerical simulation lab.
+
+== Assignments
+. To be assigned.
+
+ 
+== Exams
+. To be assigned.

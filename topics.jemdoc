@@ -3,6 +3,18 @@
 
 == Current
 
+=== Cooperative guidance for theatre missile defense systems
+
+/funded by [http://add.re.kr Agency for Defense Development] (2020-2026)/
+- Optimal cooperative guidance for team of interceptors
+- Cooperative battle damage assessment and mission planning for team of interceptors
+
+=== Artificial intelligence for guidance and control of missile systems
+
+/funded by [http://add.re.kr Agency for Defense Development] (2020-2025)/
+- Data-driven techniques for control systems analysis and synthesis
+- Data-driven techniques for flight performance analysis and prediction
+
 === Parallel convex optimization for large-scale machine learning acceleration  
 
 /funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2019-2022)/
@@ -21,16 +33,18 @@
 - Control allocation via online convex programming
 - Fault detection and identification via deep neural networks
 
-=== 3D computer generated holography via convex programming
-
-/funded by [http://www.etri.re.kr Electronics and Telecommunications Research Institute] (2019-2020)/
-- Computer generated holography by using convex programming with sharpness-enhancing objective functions
-
 === Advanced pilot assistance systems based on deep reinforcement learning
 
 /funded by [http://itech.keit.re.kr/ Korea Evaluation Institute of Industrial Technology] (2018-2022)/
 - Collision avoidance techniques based on end-to-end deep reinforcement learning
 - Validations on embedded GPUs and flight tests on fixed wing aircrafts.
+
+== Past
+
+=== 3D computer generated holography via convex programming
+
+/funded by [http://www.etri.re.kr Electronics and Telecommunications Research Institute] (2019-2020)/
+- Computer generated holography by using convex programming with sharpness-enhancing objective functions
 
 === Synthetic aperture radar processing based on compressed sensing
 
@@ -42,7 +56,6 @@
 - Constrained integrated guidance and control problems cast as online convex programming
 - Handles various constraints on guidance performance, seeker's tracking performance, flight quality, and so on
 
-== Past
 === Machine learning based intelligent guidance techniques 
 - Online $\ell_1$-regularized optimization for optical misalignment cancellation of strap-down seekers. 
 - Target shape identification using RF signals based on unsupervised learning.

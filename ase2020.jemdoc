@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{ase7005.html}, notime
+= ASE2020: Dynamics
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Spring 2021 
+
+~~~
+== Announcements
+- Zoom meeting ID: [https://khu-ac.zoom.us/j/94153472528 941 5347 2528]
+- Welcome to ASE2020: Dynamics.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+
+- This course covers the classical techniques for understanding and describing the dynamical systems, especially the mechanical dynamic systems. The covered topics include kinematics and kinetics of particles and rigid bodies, Newton's second law, energy method and momentum methods.. 
+
+*Instructors* 
+- Instructor: [kchoi@inha.ac.kr Prof. Keeyoung Choi] (Rm.505 @aerospace campus)
+- Instructor: [jonghank@inha.ac.kr Prof. Jong-Han Kim] (Rm.507 @aerospace campus)
+
+*Lectures* 
+- [https://khu-ac.zoom.us/j/94153472528 Wed/Thr 10:30-12:00] (Rm.217 @aerospace campus)
+
+*Office hours*
+- JHK: Mon/Wed 13:30-15:00 (Rm.507), or by appointments.
+
+*Prerequisites* 
+- Statics and vector calculus.
+
+*Reference textbooks* \n
+- [http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9789813157866&orderClick=LEa&Kc= Vector mechanics for engineers: Dynamics], by Beer, Johnston, Cornwell, Self, and Sanghi.
+
+*Grading policy*
+- Final exam (40%)
+- Midterm exam (30%)
+- Homework assignments and class participation (30%)
+
+== Lecture notes
+/The following course material is provided by the McGraw Hill Inc./
+
+. [./ase2020/BeerVM12e_PPT_Ch11.pptx Kinematics of particles]
+. [./ase2020/BeerVM12e_PPT_Ch12.pptx Kinetics of particles: Newton’s Second Law]
+. [./ase2020/BeerVM12e_PPT_Ch13.pptx Kinetics of particles: Energy and momentum methods]
+. [./ase2020/BeerVM12e_PPT_Ch14.pptx Systems of particles]
+. [./ase2020/BeerVM12e_PPT_Ch15.pptx Kinematics of rigid bodies]
+. [./ase2020/BeerVM12e_PPT_Ch16.pptx Plane motion of rigid bodies: Force and accelerations]
+. [./ase2020/BeerVM12e_PPT_Ch17.pptx Plane motion of rigid bodies: Energy and momentum methods]
+
+
+== Assignments
+. To be assigned.
+
+ 
+== Exams
+. To be assigned.

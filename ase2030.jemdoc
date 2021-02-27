@@ -1,0 +1,73 @@
+# jemdoc: menu{MENU}{ase7005.html}, notime
+= ASE2030: Linear algebra and statistics
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Spring 2021 
+
+~~~
+== Announcements
+- Zoom meeting ID: [https://khu-ac.zoom.us/j/94153472528 941 5347 2528]
+- Welcome to ASE2030: Linear algebra and statistics.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+
+- This course is about two central mathematical techniques for all engineering disciplines: linear algebra and statistics. The course covers basics of vectors and matrices, solving linear equations, least-squares methods, probability, statistics, and many applications. We talk about the mathematics, but the focus will be on conceptual understanding and using those in applications such as dynamics, control, estimation, and machine learning. Students are strongly encouraged to attend the optional computation sessions where they use Python to do computations with vectors, matrices, and random variables for solving the engineering problems.
+
+*Instructors* 
+- Instructor: [kchoi@inha.ac.kr Prof. Keeyoung Choi] (Rm.505 @aerospace campus)
+- Instructor: [jonghank@inha.ac.kr Prof. Jong-Han Kim] (Rm.507 @aerospace campus)
+
+*Lectures* 
+- [https://khu-ac.zoom.us/j/94153472528 Mon/Tue 10:30-12:00] (Rm.216 @aerospace campus)
+
+*Office hours*
+- JHK: Mon/Wed 13:30-15:00 (Rm.507), or by appointments.
+
+*Prerequisites* 
+- Basically no prerequisite required. Previous exposure to programming languages (Python or others) will be helpful for understanding the conceptual ideas.
+- You do not need to have any background knowledges on a variety of engineering application, however interest in them will definitely be a plus.
+
+*Reference textbooks* \n
+- [http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=BNT&mallGb=ENG&barcode=9781316518960&orderClick=LAG&Kc= Introduction to applied linear algebra - vectors, matrices, and least squares], by Boyd and Vandenberghe. [http://vmls-book.stanford.edu Available online].
+- [http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9780692196380&orderClick=LAG&Kc= Linear algebra and learning from data], by Strang.
+- [http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9789814720847&orderClick=LEA&Kc= Probability, random variables and random signal principles], by Peebles and Shi.
+
+*Grading policy*
+- Final exam (40%)
+- Midterm exam (30%)
+- Homework assignments and class participation (30%)
+
+== Lecture notes
+/Some of the course material is reproduced from the [https://stanford.edu/class/engr108/index.html Engr108: Introduction to matrix methods] by [http://web.stanford.edu/~boyd/ Stephen Boyd] at Stanford university, under his kind permission./
+
+. [./ase2030/vmls-slides-1-vectors.pdf Vectors]
+. [./ase2030/vmls-slides-2-linear-functions.pdf Linear functions]
+. [./ase2030/vmls-slides-3-norm-and-distance.pdf Norm and distance]
+. [./ase2030/vmls-slides-4-clustering.pdf Clustering]
+. [./ase2030/vmls-slides-5-linear-independence.pdf Linear independence]
+. [./ase2030/vmls-slides-6-matrices.pdf Matrices]
+. [./ase2030/vmls-slides-7-matrix-examples.pdf Matrix examples]
+. [./ase2030/vmls-slides-8-linear-equations.pdf Linear equations]
+. [./ase2030/vmls-slides-9-linear-dynamical-systems.pdf Linear dynamical systems]
+. [./ase2030/vmls-slides-10-matrix-multiplication.pdf Matrix multiplication]
+. [./ase2030/vmls-slides-11-matrix-inverses.pdf Matrix inverses]
+. [./ase2030/vmls-slides-12-least-squares.pdf Least squares]
+. [./ase2030/vmls-slides-13-least-squares-data-fitting.pdf Least squares data fitting]
+. [./ase2030/vmls-slides-14-least-squares-classification.pdf Least squares classification]
+. [./ase2030/vmls-slides-15-multi-objective-least-squares.pdf Multi-objective least squares]
+. Eigenvalues and eigenvectors
+. Probability and joint probability
+. Conditional probability and Bayes' theorem
+. Random variables and probability distribution function
+. Gaussian distribution and other distribution examples
+. Expectation, moments, and inequalities of statistics
+. Multiple random variables and covariance matrices
+. Multivariate Gaussian and weighted least squares
+
+== Assignments
+. To be assigned.
+
+ 
+== Exams
+. To be assigned.
