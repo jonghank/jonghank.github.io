@@ -12,11 +12,11 @@
 
 *Course descriptions* 
 
-- This course covers fundamental theoretical aspects on optimal guidance technologies. The class begins with analytic and computational techniques for finite/infinite horizon quadratic optimal control on discrete/continuous time domains, and will use the techniques to derive a variety of optimal guidance solutions, including the proportional navigation guidance and the optimal impact angle guidance, etc. The students will also work on building simple numerical models for analyzing the characteristics and the performance of the optimal guidance solutions.
+- This course covers fundamental theoretical aspects on optimal guidance technologies. The class begins with analytic\/computational techniques for solving quadratic optimal control problems, and will use the techniques to derive a variety of optimal guidance solutions, including the proportional navigation guidance and the optimal impact angle guidance, etc. The students will also work on building simple numerical models for analyzing the characteristics and the performance of the optimal guidance solutions.
 
 *Instructors* 
-- Instructor: [kchoi@inha.ac.kr Prof. Keeyoung Choi] (Rm.505 @Aerospace campus)
-- Instructor: [jonghank@inha.ac.kr Prof. Jong-Han Kim] (Rm.507 @Aerospace campus)
+- [kchoi@inha.ac.kr Prof. Keeyoung Choi] (Rm.505 @Aerospace campus)
+- [jonghank@inha.ac.kr Prof. Jong-Han Kim] (Rm.507 @Aerospace campus)
 
 *Lectures* 
 - [https://khu-ac.zoom.us/j/94153472528 Thr/Fri 13:30-15:00] (Rm.TBD)
