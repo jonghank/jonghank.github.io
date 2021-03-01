@@ -57,12 +57,9 @@
 . [./ase2030/vmls-slides-14-least-squares-classification.pdf Least squares classification]
 . [./ase2030/vmls-slides-15-multi-objective-least-squares.pdf Multi-objective least squares]
 . Eigenvalues and eigenvectors
-. Probability and joint probability
-. Conditional probability and Bayes' theorem
-. Random variables and probability distribution function
-. Gaussian distribution and other distribution examples
-. Expectation, moments, and inequalities of statistics
-. Multiple random variables and covariance matrices
+. Probability
+. Random variables and probability density function
+. Multiple random variables
 . Multivariate Gaussian and weighted least squares
 
 == Assignments
