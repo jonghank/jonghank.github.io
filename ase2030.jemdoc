@@ -4,6 +4,7 @@
 
 ~~~
 == Announcements
+- Stage illumination example was posted in the /Computational examples/ section.
 - Midterm is posted below. 
 - HW\#3 was posted.
 - Midterm exam will be online at 10:30-12:00, 20th (Tuesday). The exam will be posted here then.
@@ -71,6 +72,10 @@
 . HW\#1: /VMLS Exercises/ 1.4, 1.9, 1.11, 1.13, 1.16, 1.18, 2.2, 2.4, 2.9, 2.12, 3.3, 3.4, 3.8, 3.9, 3.13, 3.14, 3.16, 3.23, 3.24, 3.28 (due 3\/30)
 . HW\#2: /VMLS Exercises/ 5.1, 5.2, 5.6, 5.8, 6.3, 6.13, 6.14, 6.17, 7.1, 7.2, 7.4 (due 4\/6)
 . HW\#3: /VMLS Exercises/ 8.3, 8.4, 8.7, 8.11, 8.16, 9.1, 9.3, 9.4, 9.6, 10.7, 10.12, 10.19, 10.23, 10.26, 10.36, 10.39, 10.41 (due 4\/20)
+
+== Computational examples
+/The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
+. [https://nbviewer.jupyter.org/gist/jonghank/44fa57d89965d4a54ff375fcdd4dcd71 Stage illumination example]
 
  
 == Exams
