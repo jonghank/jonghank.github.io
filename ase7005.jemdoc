@@ -48,8 +48,10 @@
 . Waypoint guidance
 . Numerical simulation lab.
 
-== Assignments
-. To be assigned.
+== Computational exercises
+/The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
+. [https://nbviewer.jupyter.org/gist/jonghank/a7be3e4e6c62da96752d4df7296749e4 Numerical integration]
+. [https://nbviewer.jupyter.org/gist/jonghank/a6bc7099715126bdfbb9192ecd5a7bbe Optimal guidance]
 
  
 == Exams
