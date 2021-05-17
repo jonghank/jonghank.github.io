@@ -80,6 +80,7 @@
 /The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 . [https://nbviewer.jupyter.org/gist/jonghank/44fa57d89965d4a54ff375fcdd4dcd71 Stage illumination]
 . [https://nbviewer.jupyter.org/gist/jonghank/731dd258aeb7272f46524fe6796cefc7 Model fitting]
+. [https://nbviewer.jupyter.org/gist/jonghank/e6a7672500afe860b78400fde428deb2 Handwritten image classifier]
  
 == Exams
 . [./ase2030/midterm_spring_2021.pdf Midterm exam (2021)] and  
