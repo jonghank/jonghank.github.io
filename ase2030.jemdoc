@@ -64,11 +64,9 @@
 . [./ase2030/vmls-slides-13-least-squares-data-fitting.pdf Least squares data fitting]
 . [./ase2030/vmls-slides-14-least-squares-classification.pdf Least squares classification]
 . [./ase2030/vmls-slides-15-multi-objective-least-squares.pdf Multi-objective least squares]
-. Eigenvalues and eigenvectors
-. Probability
-. Random variables and probability density function
-. Multiple random variables
-. Multivariate Gaussian and weighted least squares
+. [./ase2030/11-Probability.pdf Probability]
+. [./ase2030/12-Random_variables.pdf Random variables]
+. Expectation and estimation
 
 == Assignments
 . HW\#1: /VMLS Exercises/ 1.4, 1.9, 1.11, 1.13, 1.16, 1.18, 2.2, 2.4, 2.9, 2.12, 3.3, 3.4, 3.8, 3.9, 3.13, 3.14, 3.16, 3.23, 3.24, 3.28 (due 3\/30)
