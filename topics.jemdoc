@@ -3,6 +3,18 @@
 
 == Current
 
+=== Optimal collision-free path planning for multiple vehicles
+
+/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2021-2024)/
+- Optimal cooperative path planning with collision avoidance
+- Meta learning-based path planning via disciplined parametrized programming
+
+=== Optimal mission assignment for multiple UAVs
+
+/funded by [http://add.re.kr Agency for Defense Development] (2021-2022)/
+- Optimal UAV path planning via convex programming techniques
+- Optimal multiple UAVs mission assignment via mixed integer programming
+
 === Cooperative guidance for theatre missile defense systems
 
 /funded by [http://add.re.kr Agency for Defense Development] (2020-2026)/
