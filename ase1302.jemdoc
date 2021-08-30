@@ -1,0 +1,67 @@
+# jemdoc: menu{MENU}{ase1302.html}, notime
+= ASE1302: Computer Programming 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2021 
+
+~~~
+== Announcements
+- Zoom meeting ID's: [https://inha-ac-kr.zoom.us/j/91530047478?pwd=OFluVEFvc29zeS9zdmF5UkZqZm5OZz09 Thr: 915 3004 7478], [https://inha-ac-kr.zoom.us/j/95975410273?pwd=ZmJ4YURoNFNUUzh6V0hFdXZONzFPdz09 Fri: 959 7541 0273] 
+- Welcome to ASE1302: Computer programming.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+- This course covers the fundamental computer programming techniques for solving engineering problems. Students will learn how to code using Python, which is one of the most widely used computer programming languages in a variety of fields, and its commonly used modules
+
+*Instructors* 
+- Instructor: [jonghank@inha.ac.kr Prof. Jong-Han Kim] (Rm.507 @aerospace campus)
+- TA: [hy13776@inha.edu Hoyoung Jeon (Thr class)] (Rm.502B @aerospace campus)
+- TA: [gyubin@inha.edu Gyubin Park (Fri class)] (Rm.502B @aerospace campus)
+
+*Lectures* 
+- [https://inha-ac-kr.zoom.us/j/91530047478?pwd=OFluVEFvc29zeS9zdmF5UkZqZm5OZz09 Thr 12:30-16:30] (Rm.5S-238)
+- [https://inha-ac-kr.zoom.us/j/95975410273?pwd=ZmJ4YURoNFNUUzh6V0hFdXZONzFPdz09 Fri 13:30-17:30] (Rm.5S-240)
+
+*Office hours*
+- Thr/Fri 15:00-16:00 (Rm.507 @aerospace campus)
+
+*Prerequisites* 
+- No prior exposure to computer programming required
+
+*Reference textbooks* \n
+- (따라하며 배우는) 파이썬과 데이터 과학, 생능출판, 2020.
+
+*Grading policy*
+- Final exam (40%)
+- Midterm exam (30%)
+- Homework assignments and class participation (30%)
+
+== Course contents
+
+. Overview
+. Variables and data types
+. Operators
+. Branching
+. Loops
+. Functions
+. Lists, tuples, and classes
+. Dictionaries
+. +numpy+ module
+. +matplotlib+ module
+. +pandas+ module
+. Engineering examples: baseball statistics
+. Engineering examples: rocket trajectories
+. Engineering examples: image processing
+. Engineering examples: machine learning
+. Engineering examples: deep learning with TensorFlow
+
+== Assignments
+
+/Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture to the course TAs./
+
+. [https://nbviewer.jupyter.org/gist/jonghank/13b367957077bcd0b73e37410569e85c HW\#1]
+
+
+
+
+
