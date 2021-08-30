@@ -36,7 +36,7 @@ by Boyd and Vandenberghe will be a useful reference.
 
 . Course overview
 . Linear algebra review
-. Least squares and least norm, and constrained least squares problems
+. Least squares, least norm, and constrained least squares problems
 . Convex functions
 . Convex optimization
 . Applications on signal processing, control, and decision making
