@@ -36,10 +36,10 @@ by Boyd and Vandenberghe will be a useful reference.
 
 . Course overview
 . Linear algebra review
-. Least squares, least norm, and constrained least squares problems
+. Least squares and least norm, and constrained least squares problems
 . Convex functions
 . Convex optimization
-. Disciplined convex programming via +cvxpy+
+. Applications on signal processing, control, and decision making
 . Quasiconvex optimization
 . First order methods for optimization
 . Nonconvex problems
@@ -47,7 +47,7 @@ by Boyd and Vandenberghe will be a useful reference.
 
 == Computational exercises
 
-/The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked. These contents are not final: some will be revised/removed and new contents will be added. /
+/The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked. These contents are not final: some will be revised\/removed and new contents will be added. /
 
 . [https://nbviewer.jupyter.org/gist/jonghank/a9039f02e86b08317be514437108ad40 Trend filtering]
 . [https://nbviewer.jupyter.org/gist/jonghank/0d01adeeb2d9e8cc02cee1c1914b6166 Kalman filter]
