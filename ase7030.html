@@ -5,7 +5,7 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>EE786: Optimization Applications </title>
+<title>ASE7030: Convex Optimization </title>
 <!-- MathJax -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
 </script>
@@ -27,27 +27,27 @@ MathJax.Hub.Config({
 <div class="menu-item"><a href="topics.html">Topics</a></div>
 <div class="menu-item"><a href="publications.html">Publications</a></div>
 <div class="menu-category">Teaching</div>
-<div class="menu-item"><a href="ase7030.html">ASE7030&nbsp;Convex&nbsp;optimization</a></div>
+<div class="menu-item"><a href="ase7030.html" class="current">ASE7030&nbsp;Convex&nbsp;optimization</a></div>
 <div class="menu-item"><a href="ase7005.html">ASE7005&nbsp;Optimal&nbsp;guidance</a></div>
 <div class="menu-item"><a href="ase2030.html">ASE2030&nbsp;Linear&nbsp;algebra</a></div>
 <div class="menu-item"><a href="ase2020.html">ASE2020&nbsp;Dynamics</a></div>
 <div class="menu-item"><a href="ee787.html">EE787&nbsp;Machine&nbsp;learning</a></div>
-<div class="menu-item"><a href="ee786.html" class="current">EE786&nbsp;Applied&nbsp;optimization</a></div>
+<div class="menu-item"><a href="ee786.html">EE786&nbsp;Applied&nbsp;optimization</a></div>
 <div class="menu-item"><a href="ee370.html">EE370&nbsp;Software&nbsp;lab</a></div>
 <div class="menu-item"><a href="ee363.html">EE363&nbsp;Automatic&nbsp;control</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>EE786: Optimization Applications </h1>
-<div id="subtitle"><a href="http://jonghank.khu.ac.kr" target=&ldquo;blank&rdquo;>Prof. Jong-Han Kim</a>, <a href="http://www.khu.ac.kr" target=&ldquo;blank&rdquo;>Kyung Hee University</a>, Spring 2019 </div>
+<h1>ASE7030: Convex Optimization </h1>
+<div id="subtitle"><a href="http://jonghank.github.io" target=&ldquo;blank&rdquo;>Prof. Jong-Han Kim</a>, <a href="http://www.inha.ac.kr" target=&ldquo;blank&rdquo;>Inha University</a>, Autumn 2021 </div>
 </div>
 <div class="infoblock">
 <div class="blockcontent">
 <h2>Announcements</h2>
 <ul>
-<li><p>Classroom changes to Rm.513 at Multimedia bldg.</p>
+<li><p>Zoom meeting ID: <a href="https://inha-ac-kr.zoom.us/j/96706656431?pwd=b1NGZld6WnhmbEN1amhEbUZFaTBLdz09" target=&ldquo;blank&rdquo;>967 0665 6431</a> </p>
 </li>
-<li><p>Welcome to EE786: Optimization applications.</p>
+<li><p>Welcome to ASE7030: Convex optimization.</p>
 </li>
 </ul>
 </div></div>
@@ -59,19 +59,19 @@ MathJax.Hub.Config({
 </ul>
 <p><b>Lectures</b> </p>
 <ul>
-<li><p>Tue/Thr 13:30-14:45 (Rm.513 at Multimedia bldg.)</p>
+<li><p>Mon/Wed 15:00-16:15 (Rm.206 @aerospace campus)</p>
 </li>
 </ul>
 <p><b>Office hours</b></p>
 <ul>
-<li><p>Wed 16:30-18:00 (Rm.516)</p>
+<li><p>Thr/Fri 15:00-16:00 (Rm.507 @aerospace campus)</p>
 </li>
 </ul>
 <p><b>Prerequisites</b> </p>
 <ul>
-<li><p>Optimization theory, convex optimization, machine learning, or equivalents.</p>
+<li><p>Linear algebra and statistics.</p>
 </li>
-<li><p>Prior exposure to numerical computation (Python or others) will be helpful.</p>
+<li><p>Prior exposure to numerical computation (Python or others).</p>
 </li>
 </ul>
 <p><b>Reference textbooks</b> <br /></p>
@@ -90,12 +90,37 @@ by Boyd and Vandenberghe will be a useful reference.</p>
 </li>
 </ul>
 <h2>Course contents</h2>
+<ol>
+<li><p>Course overview</p>
+</li>
+<li><p>Linear algebra review</p>
+</li>
+<li><p>Least squares, least norm, and constrained least squares problems</p>
+</li>
+<li><p>Convex functions</p>
+</li>
+<li><p>Convex optimization</p>
+</li>
+<li><p>Disciplined convex programming via <tt>cvxpy</tt></p>
+</li>
+<li><p>Quasiconvex optimization</p>
+</li>
+<li><p>Filtering and signal processing problems</p>
+</li>
+<li><p>Sparsity</p>
+</li>
+<li><p>Machine learning problems</p>
+</li>
+<li><p>First order methods for optimization</p>
+</li>
+<li><p>Nonconvex problems</p>
+</li>
+<li><p>Summary</p>
+</li>
+</ol>
+<h2>Computational exercises</h2>
 <p><i>The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked.</i></p>
 <ol>
-<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/b5079d0756659f43764942264b599f78" target=&ldquo;blank&rdquo;>Linear algebra review</a></p>
-</li>
-<li><p>Least squares and least norm problems</p>
-</li>
 <li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/a9039f02e86b08317be514437108ad40" target=&ldquo;blank&rdquo;>Trend filtering</a></p>
 </li>
 <li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/0d01adeeb2d9e8cc02cee1c1914b6166" target=&ldquo;blank&rdquo;>Kalman filter</a></p>
@@ -138,20 +163,10 @@ by Boyd and Vandenberghe will be a useful reference.</p>
 </li>
 <li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/0ecd6226de04db29fdc22a64a4ee879f" target=&ldquo;blank&rdquo;>Aircraft wing design</a></p>
 </li>
-<li><p>Summary</p>
-</li>
 </ol>
 <h2>Assignments</h2>
 <p><i>Several sets of occasional homeworks will be assigned. 
 You are encouraged to work in groups, however everyone should turn in his/her own work.</i></p>
-<ol>
-<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/558f02d543dee067a103d840071a2e2b" target=&ldquo;blank&rdquo;>Formation flight</a> (due 4/25)</p>
-</li>
-<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/1200b82b7a01f1e11b28701971a6f594" target=&ldquo;blank&rdquo;>Image colorization</a> (due 6/4)</p>
-</li>
-<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/d2bdbf9d68d32d8a77d50b33c91f4046" target=&ldquo;blank&rdquo;>Recommendation system</a> (due 6/20)</p>
-</li>
-</ol>
 <h2>Files</h2>
 <p><i>These are some data and the Python codes in .ipynb notebook files that we are using for lectures or homework assignments.</i></p>
 <div id="footer">
