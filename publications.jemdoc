@@ -3,6 +3,8 @@
 
 == Articles 
 
+- J. Lee, H. Kim, K.-W. Park, J.-H. Kim, and S. Kim, "[https://ieeexplore.ieee.org/document/9525032 Expressions for resonant frequency of wirelessly accessible planar mirrored-coil sensor in biomedicine], " IEEE Transactions on Microwave Theory and Techniques (to appear).
+
 - D. Lee, H.-L. Choi, and J.-H. Kim, "[https://doi.org/10.3390/s20174790 Optimal cooperative guidance laws for two UAVs under sensor information deficiency constraints]," Sensors 2020, 20(17), 4790.
 
 - T.-H. Kim, J. Park, and J.-H. Kim, "[https://doi.org/10.1007/s42405-020-00299-y Computational issues in sparse and dense formulations of integrated guidance and control with constraints]," 
@@ -118,18 +120,26 @@ KR Patent KR101602311B1, issued March 10, 2016.
 
 == Articles in Korean
 
-- J.-H. Cho, K.-M. Kang, J.-H. Kim, and B. Yoon, "Decentralized method for compressed sensing on radar imaging,"
-in Proc. 2020 KSAS Spring Conference, July 2020.
+- K.-W. Park and J.-H. Kim, "[https://doi.org/10.5302/J.ICROS.2021.21.0034 Aircraft collision avoidance modeling and optimization using deep reinforcement learning]," Journal of Institute of Control, Robotics and Systems, vol.27, no.9, pp.652-659, Sep. 2021.
 
-- H.Y. Jeon, J.-H. Cho, and J.-H. Kim, "Impact of different objective functions on pinpoint landing trajectories,"
-in Proc. 2020 KSAS Spring Conference, July 2020.
+- G. Park, S.-Y. Lee, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547658 ADMM-based control allocation for kill vehicle guidance]," in Proc. Symposium of the Korean Institute of Communications and Information Sciences, pp.571-572, Feb. 2021.
 
-- Y.-J. Hwang, S.-Y. Lee, J.-H. Kim, and Y.-D. Jung, "Convex optimization based control allocation for multi-rotor UAVs", 
-in Proc. 2020 KSAS Spring Conference, July 2020.
+- K.-M. Kang, Y.-J Hwang, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547659 Dynamic model inference through real-time flight data]," in Proc. Symposium of the Korean Institute of Communications and Information Sciences, pp.573-574, Feb. 2021.
 
-- J.H. Kang, J.-H. Kim, Y.H. Kim, and J.Y. Kim, "[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09410455 Large-scale optimization techniques for sharp computer-generated holography]," in Proc. 2020 ICROS conference, July 2020.
+- K.-W. Park and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547611 Policy network for aircraft collision avoidance modeling via immitation learning]," in Proc. Symposium of the Korean Institute of Communications and Information Sciences, pp.468-470, Feb. 2021.
 
-- D.H. Jeong, J.-H. Cho, and J.-H. Kim, "[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09410559 Real-time image in-painting via TV function minimization]," in Proc. 2020 ICROS conference, July 2020.
+- J.-H. Cho, K.-M. Kang, J.-H. Kim, and B. Yoon, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10442111 Decentralized method for compressed sensing on radar imaging],"
+in Proc. 2020 KSAS Spring Conference, pp.243-244, July 2020.
+
+- H.Y. Jeon, J.-H. Cho, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10442211 Impact of different objective functions on pinpoint landing trajectories],"
+in Proc. 2020 KSAS Spring Conference, pp.452-453, July 2020.
+
+- Y.-J. Hwang, S.-Y. Lee, J.-H. Kim, and Y.-D. Jung, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10442101 Convex optimization based control allocation for multi-rotor UAVs]," 
+in Proc. 2020 KSAS Spring Conference, pp.220-221, July 2020.
+
+- J.H. Kang, J.-H. Kim, Y.H. Kim, and J.Y. Kim, "[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09410455 Large-scale optimization techniques for sharp computer-generated holography]," in Proc. 2020 ICROS conference, pp.314-315, July 2020.
+
+- D.H. Jeong, J.-H. Cho, and J.-H. Kim, "[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09410559 Real-time image in-painting via TV function minimization]," in Proc. 2020 ICROS conference, pp.533-534, July 2020.
 
 - J.-H. Ryu, K. Park, and J.-H. Kim, "[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09317849 Aircraft collision avoidance via domain-knowledge aided reinforcement learning],"
 in Proc. 2019 KSAS Fall Conference, pp.236-237, Nov. 2019.
