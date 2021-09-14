@@ -40,7 +40,7 @@
 
 . [./ase1302/01_overview.pdf Overview]
 . [./ase1302/02_variables_and_data_types.pdf Variables and data types]
-. Operators
+. [./ase1302/03_operators.pdf Operators]
 . Branching
 . Loops
 . Functions
@@ -61,7 +61,7 @@
 
 . [https://nbviewer.jupyter.org/gist/jonghank/13b367957077bcd0b73e37410569e85c HW\#1]
 . [https://nbviewer.jupyter.org/gist/jonghank/b404d20f78a68dd8c7499994ac881778 HW\#2]
-
+. [https://nbviewer.jupyter.org/gist/jonghank/7d61921cd62bf0f6780d87854b6b938d HW\#3]
 
 
 
