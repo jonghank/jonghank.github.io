@@ -42,7 +42,7 @@
 . [./ase1302/02_variables_and_data_types.pdf Variables and data types]
 . [./ase1302/03_operators.pdf Operators]
 . [./ase1302/04_branching.pdf Branching]
-. Loops
+. [./ase1302/05_loops.pdf Loops]
 . Functions
 . Lists, tuples, and classes
 . Dictionaries
