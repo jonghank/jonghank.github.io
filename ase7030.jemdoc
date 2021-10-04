@@ -36,8 +36,8 @@ by Boyd and Vandenberghe will be a useful reference.
 
 . Course overview
 . [https://nbviewer.jupyter.org/gist/jonghank/240ac3cd07a47b9b1bf7c86adca58da3 Convexity]
-. [https://nbviewer.jupyter.org/gist/jonghank/a7fd074b50b63d67d9790fc2532c6d86 Linear algebra review]
-. Least squares, least norm, and constrained least squares problems
+. [https://nbviewer.jupyter.org/gist/jonghank/e8c3387bfe536de2ceec7b9d0d4d7847 Linear algebra review]
+. [https://nbviewer.jupyter.org/gist/jonghank/455b3eaeb3f4456d057325ab2cf33537 Least squares, least norm, and constrained least squares problems]
 . Convex functions
 . Convex optimization
 . Applications on signal processing, control, and decision making
