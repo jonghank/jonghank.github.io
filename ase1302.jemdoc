@@ -43,7 +43,7 @@
 . [./ase1302/03_operators.pdf Operators]
 . [./ase1302/04_branching.pdf Branching]
 . [./ase1302/05_loops.pdf Loops]
-. Functions
+. [./ase1302/06_functions.pdf Functions]
 . Lists, tuples, and classes
 . Dictionaries
 . +numpy+ module
