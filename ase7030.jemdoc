@@ -40,6 +40,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.jupyter.org/gist/jonghank/e0032bfb083e451628e989a070b0c375 Least squares, least norm, and constrained least squares problems]
 . [http://nbviewer.org/gist/jonghank/424ae871fc730dc6b00893db59a0e197 Computational exercises: Trend filtering]
 . [http://nbviewer.org/gist/jonghank/1bcfe8f7afb312986b7c6fedb0504b1e Computational exercises: Minimum energy control]
+. [http://nbviewer.org/gist/jonghank/04edf9426489582d5c4dd56657fcd9fa Computational exercises: Waypoint guidance]
 . Convex functions
 . Convex optimization
 . Applications on signal processing, control, and decision making
@@ -53,7 +54,6 @@ by Boyd and Vandenberghe will be a useful reference.
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked. These contents are not final: some will be revised\/removed and new contents will be added. /
 
 . [https://nbviewer.jupyter.org/gist/jonghank/0d01adeeb2d9e8cc02cee1c1914b6166 Kalman filter]
-. [https://nbviewer.jupyter.org/gist/jonghank/b5898c088becf376dd1dfe29cebcf137 Waypoint guidance]
 . [https://nbviewer.jupyter.org/gist/jonghank/43d158f3f0a41204f790caf609dde1a0 More optimal controls]
 . [https://nbviewer.jupyter.org/gist/jonghank/b4e2fb285663f6f554858e16774153a9 Minimum time control]
 . [https://nbviewer.jupyter.org/gist/jonghank/32d99631cc78c71b18fadbbc23e787ab Matrix imputation]
@@ -72,7 +72,7 @@ by Boyd and Vandenberghe will be a useful reference.
 /Several sets of occasional homeworks will be assigned. 
 You are encouraged to work in groups, however everyone should turn in his\/her own work./
 
-. [http://nbviewer.org/gist/jonghank/ccd2fb49aa83c410ecd3e8258c047c8a Formation flight]
+. [http://nbviewer.org/gist/jonghank/ccd2fb49aa83c410ecd3e8258c047c8a Formation flight] (due 10\/31)
 
 
 
