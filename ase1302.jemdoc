@@ -46,7 +46,7 @@
 . [./ase1302/06_functions.pdf Functions]
 . [./ase1302/07_lists_tuples_and_classes.pdf Lists, tuples, and classes]
 . [./ase1302/08_dictionaries_sets_and_files.pdf Dictionaries, sets, and files]
-. +numpy+ module
+. [./ase1302/10_numpy_module.pdf +numpy+ module]
 . +matplotlib+ module
 . +pandas+ module
 . Engineering examples: baseball statistics
@@ -65,7 +65,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/f6134df9f94af0af30cb876fd9fa8f52 HW\#4] [http://nbviewer.org/gist/jonghank/cb2c9b3f06f2d1cd8a8ef244d1d98475 (solutions)]
 . [https://nbviewer.jupyter.org/gist/jonghank/ecceabe1ed75396e6e17b597cb891a58 HW\#5] [http://nbviewer.org/gist/jonghank/6c6676a331ed187119467450751040e4 (solutions)]
 . [https://nbviewer.org/gist/jonghank/e3207cb0bc9e63b5038e0e601ff9a346 HW\#6] [https://nbviewer.org/gist/jonghank/4b84d1f6d6e0d6bcc4ac95b614dd96f3 (solutions)]
-. [https://nbviewer.org/gist/jonghank/96950f7b4656550b267b68f6f4a9c45e HW\#7]
+. [https://nbviewer.org/gist/jonghank/96950f7b4656550b267b68f6f4a9c45e HW\#7] [https://nbviewer.org/gist/jonghank/666d891c62705c80f440a3564044c5f0 (solutions)]
 . [https://nbviewer.org/gist/jonghank/2aa11df30521c5d4601b53bed580c2cf HW\#8] [./ase1302/triangles.txt \[triangles.txt\]]
 
 
