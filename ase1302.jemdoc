@@ -47,7 +47,7 @@
 . [./ase1302/07_lists_tuples_and_classes.pdf Lists, tuples, and classes]
 . [./ase1302/08_dictionaries_sets_and_files.pdf Dictionaries, sets, and files]
 . [./ase1302/10_numpy_module.pdf +numpy+ module]
-. +matplotlib+ module
+. [./ase1302/11_matplotlib_module.pdf +matplotlib+ module]
 . +pandas+ module
 . Engineering examples: baseball statistics
 . Engineering examples: rocket trajectories
