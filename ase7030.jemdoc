@@ -43,7 +43,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/04edf9426489582d5c4dd56657fcd9fa Computational exercises: Waypoint guidance]
 . [https://nbviewer.org/gist/jonghank/0500bf2fa45fde9611ed83c826d2ff05 Computational exercises: Kalman filter]
 . [https://nbviewer.org/gist/jonghank/241addad7af4aad2ed0ddca57fbfd573 Convex functions]
-. [https://nbviewer.org/gist/jonghank/1de51451f005e3fbd46d21224e471c80 Convex optimization problems]
+. [https://nbviewer.org/gist/jonghank/8faba25b7e53b3da934fab3c972c8075 Convex optimization problems]
+. [https://nbviewer.org/gist/jonghank/84dffb851ddfb826c7483f98373e8d31 An extremely short +cvxpy+ tutorial]
 . Applications on signal processing, control, and decision making
 . Quasiconvex optimization
 . First order methods for optimization
