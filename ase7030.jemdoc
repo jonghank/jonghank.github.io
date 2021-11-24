@@ -46,6 +46,9 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/8faba25b7e53b3da934fab3c972c8075 Convex optimization problems]
 . [https://nbviewer.org/gist/jonghank/84dffb851ddfb826c7483f98373e8d31 An extremely short +cvxpy+ tutorial]
 . [https://nbviewer.org/gist/jonghank/2f241a7f772dc380e159710e449926b3 Computational exercises: More optimal control problems]
+. [https://nbviewer.org/gist/jonghank/17e6eb86385cfa0acab6d47bcb3cddec Computational exercises: Sparse solutions]
+. [https://nbviewer.org/gist/jonghank/26be95547f6ce2bdbd1dd414dba16221 Computational exercises: Huber regression]
+
 . Applications on signal processing, control, and decision making
 . Quasiconvex optimization
 . First order methods for optimization
@@ -56,16 +59,13 @@ by Boyd and Vandenberghe will be a useful reference.
 
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked. These contents are not final: some will be revised\/removed and new contents will be added. /
 
-#. [https://nbviewer.jupyter.org/gist/jonghank/43d158f3f0a41204f790caf609dde1a0 More optimal controls]
 . [https://nbviewer.jupyter.org/gist/jonghank/b4e2fb285663f6f554858e16774153a9 Minimum time control]
 . [https://nbviewer.jupyter.org/gist/jonghank/32d99631cc78c71b18fadbbc23e787ab Matrix imputation]
 . [https://nbviewer.jupyter.org/gist/jonghank/2a79fd046a19484a63d16d911d801cfe Image in-painting]
 . [https://nbviewer.jupyter.org/gist/jonghank/239fbf48feece1f51ea2f8258dd2836e Network topology identification]
 . [https://nbviewer.jupyter.org/gist/jonghank/8eedfeeb2a73ba47e7b6bff13dcbc4d9 Fastest mixing networks]
-. [https://nbviewer.jupyter.org/gist/jonghank/0a7d290563816207b3d3988ec5103615 Sparse solutions]
 . [https://nbviewer.jupyter.org/gist/jonghank/1187742d72286adaaab668350b989bbf $\ell_1$ trend filtering]
 . [https://nbviewer.jupyter.org/gist/jonghank/9ec3f1995a04ddb0729b731ea86f899f Robust Kalman filter with Huber penalty functions]
-. [https://nbviewer.jupyter.org/gist/jonghank/b63e3a5429dd705cbbc6f71a5b2a7699 Huber regression]
 . [https://nbviewer.jupyter.org/gist/jonghank/fb3f433146c401a47be2da40c013bcd1 Support vector machine]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ecd6226de04db29fdc22a64a4ee879f Aircraft wing design]
 
