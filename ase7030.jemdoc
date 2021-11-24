@@ -64,7 +64,6 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.jupyter.org/gist/jonghank/2a79fd046a19484a63d16d911d801cfe Image in-painting]
 . [https://nbviewer.jupyter.org/gist/jonghank/239fbf48feece1f51ea2f8258dd2836e Network topology identification]
 . [https://nbviewer.jupyter.org/gist/jonghank/8eedfeeb2a73ba47e7b6bff13dcbc4d9 Fastest mixing networks]
-. [https://nbviewer.jupyter.org/gist/jonghank/1187742d72286adaaab668350b989bbf $\ell_1$ trend filtering]
 . [https://nbviewer.jupyter.org/gist/jonghank/9ec3f1995a04ddb0729b731ea86f899f Robust Kalman filter with Huber penalty functions]
 . [https://nbviewer.jupyter.org/gist/jonghank/fb3f433146c401a47be2da40c013bcd1 Support vector machine]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ecd6226de04db29fdc22a64a4ee879f Aircraft wing design]
