@@ -48,7 +48,7 @@
 . [./ase1302/08_dictionaries_sets_and_files.pdf Dictionaries, sets, and files]
 . [./ase1302/10_numpy_module.pdf +numpy+ module]
 . [./ase1302/11_matplotlib_module.pdf +matplotlib+ module]
-. [./ase1302/11_pandas_module.pdf +pandas+ module]
+. [./ase1302/12_pandas_module.pdf +pandas+ module]
 . Engineering examples: baseball statistics
 . Engineering examples: rocket trajectories
 . Engineering examples: image processing
