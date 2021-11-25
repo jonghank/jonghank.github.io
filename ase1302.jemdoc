@@ -48,7 +48,7 @@
 . [./ase1302/08_dictionaries_sets_and_files.pdf Dictionaries, sets, and files]
 . [./ase1302/10_numpy_module.pdf +numpy+ module]
 . [./ase1302/11_matplotlib_module.pdf +matplotlib+ module]
-. +pandas+ module
+. [./ase1302/11_pandas_module.pdf +pandas+ module]
 . Engineering examples: baseball statistics
 . Engineering examples: rocket trajectories
 . Engineering examples: image processing
@@ -69,9 +69,10 @@
 . [https://nbviewer.org/gist/jonghank/2aa11df30521c5d4601b53bed580c2cf HW\#8] [./ase1302/files/triangles.txt \[triangles.txt\]] [https://nbviewer.org/gist/jonghank/84a8be70e6aa2c156643df0115261fc7 (solutions)]
 . [https://nbviewer.org/gist/jonghank/44fd4a7b043523e4422d47c33658ed99 HW\#9] [http://nbviewer.org/gist/jonghank/bc7138cc33dafe0345b37677a9f762c2 (solutions)]
 . [https://nbviewer.org/gist/jonghank/1bd0bb7c9ba55187b4cd0d6e2cf84e33 HW\#10] [https://nbviewer.org/gist/jonghank/ca23548ee51916caf06ca8f8e4bb9db1 (solutions)]
+. [https://nbviewer.org/gist/jonghank/93f49a037f671bf62719a46f1ed49db6 HW\#11] [./ase1302/files/weather.csv \[weather.csv\]] [./ase1302/files/aircraftDatabase-2021-11.csv \[aircraftDatabase-2021-11.csv\]]
 
 == Exams 
 
-. [https://nbviewer.org/gist/jonghank/94841af9e873fa6252a54cb4d720e758 Midterm] [https://nbviewer.org/gist/jonghank/16ff39ac522d8092f21e4186e60e97a2 (solutions)]
+. [https://nbviewer.org/gist/jonghank/94841af9e873fa6252a54cb4d720e758 Midterm] [https://nbviewer.org/gist/jonghank/16ff39ac522d8092f21e4186e60e97a2 (solutions)] 
 
 
