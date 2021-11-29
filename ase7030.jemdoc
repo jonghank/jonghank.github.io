@@ -47,7 +47,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/84dffb851ddfb826c7483f98373e8d31 An extremely short +cvxpy+ tutorial]
 . [https://nbviewer.org/gist/jonghank/2f241a7f772dc380e159710e449926b3 Computational exercises: More optimal control problems]
 . [https://nbviewer.org/gist/jonghank/17e6eb86385cfa0acab6d47bcb3cddec Computational exercises: Sparse solutions]
-. [https://nbviewer.org/gist/jonghank/fda75472419f4b10f16aac393c9d86eb Computational exercises: Robust Kalman filter with Huber penalty functions]
+. [https://nbviewer.org/gist/jonghank/fa7678e7d088eb8563561f4201e868dc Computational exercises: Robust Kalman filter with Huber penalty functions]
 . [https://nbviewer.org/gist/jonghank/26be95547f6ce2bdbd1dd414dba16221 Computational exercises: Huber regression]
 . Applications on signal processing, control, and decision making
 . Quasiconvex optimization
