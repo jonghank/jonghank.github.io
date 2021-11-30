@@ -49,6 +49,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/17e6eb86385cfa0acab6d47bcb3cddec Computational exercises: Sparse solutions]
 . [https://nbviewer.org/gist/jonghank/fa7678e7d088eb8563561f4201e868dc Computational exercises: Robust Kalman filter with Huber penalty functions]
 . [https://nbviewer.org/gist/jonghank/26be95547f6ce2bdbd1dd414dba16221 Computational exercises: Huber regression]
+. [https://nbviewer.org/gist/jonghank/4c7e00cd4b26344fa0e21af170ee4b8e Computational exercises: Support vector machine]
 . Applications on signal processing, control, and decision making
 . Quasiconvex optimization
 . First order methods for optimization
@@ -64,7 +65,6 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.jupyter.org/gist/jonghank/2a79fd046a19484a63d16d911d801cfe Image in-painting]
 . [https://nbviewer.jupyter.org/gist/jonghank/239fbf48feece1f51ea2f8258dd2836e Network topology identification]
 . [https://nbviewer.jupyter.org/gist/jonghank/8eedfeeb2a73ba47e7b6bff13dcbc4d9 Fastest mixing networks]
-. [https://nbviewer.jupyter.org/gist/jonghank/fb3f433146c401a47be2da40c013bcd1 Support vector machine]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ecd6226de04db29fdc22a64a4ee879f Aircraft wing design]
 
 == Assignments
