@@ -49,8 +49,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/17e6eb86385cfa0acab6d47bcb3cddec Computational exercises: Sparse solutions]
 . [https://nbviewer.org/gist/jonghank/fa7678e7d088eb8563561f4201e868dc Computational exercises: Robust Kalman filter with Huber penalty functions]
 . [https://nbviewer.org/gist/jonghank/26be95547f6ce2bdbd1dd414dba16221 Computational exercises: Huber regression]
-. [https://nbviewer.org/gist/jonghank/4c7e00cd4b26344fa0e21af170ee4b8e Computational exercises: Support vector machine]
-. Applications on signal processing, control, and decision making
+. [https://nbviewer.org/gist/jonghank/ac55d6ed740461a6f0b035fc18eef512 Computational exercises: Support vector machine]
 . Quasiconvex optimization
 . First order methods for optimization
 . Nonconvex problems
