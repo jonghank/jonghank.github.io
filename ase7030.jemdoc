@@ -50,7 +50,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/fa7678e7d088eb8563561f4201e868dc Computational exercises: Robust Kalman filter with Huber penalty functions]
 . [https://nbviewer.org/gist/jonghank/26be95547f6ce2bdbd1dd414dba16221 Computational exercises: Huber regression]
 . [https://nbviewer.org/gist/jonghank/ac55d6ed740461a6f0b035fc18eef512 Computational exercises: Support vector machine]
-. Quasiconvex optimization
+. [https://nbviewer.org/gist/jonghank/d5f3d819c68636a5ebcee972a0b92ea8 Quasiconvex optimization]
+. [https://nbviewer.org/gist/jonghank/15f875a0770cbdd5737bfc4ca090f790 Computational exercises: Minimum time control]
 . First order methods for optimization
 . Nonconvex problems
 . Summary
@@ -59,7 +60,6 @@ by Boyd and Vandenberghe will be a useful reference.
 
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked. These contents are not final: some will be revised\/removed and new contents will be added. /
 
-. [https://nbviewer.jupyter.org/gist/jonghank/b4e2fb285663f6f554858e16774153a9 Minimum time control]
 . [https://nbviewer.jupyter.org/gist/jonghank/32d99631cc78c71b18fadbbc23e787ab Matrix imputation]
 . [https://nbviewer.jupyter.org/gist/jonghank/2a79fd046a19484a63d16d911d801cfe Image in-painting]
 . [https://nbviewer.jupyter.org/gist/jonghank/239fbf48feece1f51ea2f8258dd2836e Network topology identification]
