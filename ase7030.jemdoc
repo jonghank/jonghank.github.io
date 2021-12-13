@@ -52,7 +52,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/ac55d6ed740461a6f0b035fc18eef512 Computational exercises: Support vector machine]
 . [https://nbviewer.org/gist/jonghank/d5f3d819c68636a5ebcee972a0b92ea8 Quasiconvex optimization]
 . [https://nbviewer.org/gist/jonghank/e15d5830075a50582d7f19f4ccb1ac72 Computational exercises: Minimum time control]
-. [./ase7030/files/optimal_control_nonconvex.pdf Solving optimal control under nonconvex constraints via first order methods]
+. [./ase7030/files/optimal_control_nonconvex.pdf Nonconvex problems and the first order methods]
 . Summary
 
 == Computational exercises
