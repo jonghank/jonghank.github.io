@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{ase7030.html}, notime
 = ASE7030: Convex Optimization 
-[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Spring 2022 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2021 
 
 ~~~
 == Announcements
-- [https://inha-ac-kr.zoom.us/j/97384568223?pwd=WFFCMEJJOE1CUWR6UHlsNnhnL29nQT09 Zoom link: here].
+- Zoom meeting ID: [https://inha-ac-kr.zoom.us/j/96706656431?pwd=b1NGZld6WnhmbEN1amhEbUZFaTBLdz09 967 0665 6431] 
 - Welcome to ASE7030: Convex optimization.
 ~~~
 
@@ -14,10 +14,10 @@
 - The course covers a wide range of engineering application problems that can be solved via convex optimization. With minimal contents on optimization theories, this course will focus on problem formulation techniques that transforms the real-life engineering problems into mathematical optimization problems. The students will work on numerical experiments from a wide variety of engineering and other disciplines, including signal processing, control, finances, and machine learning.
 
 *Lectures* 
-- [https://inha-ac-kr.zoom.us/j/97384568223?pwd=WFFCMEJJOE1CUWR6UHlsNnhnL29nQT09 Tue\/Thr 15:00-16:15] (Rm.206 @aerospace campus)
+- Mon\/Wed 15:00-16:15 (Rm.206 @aerospace campus)
 
 *Office hours*
-- JHK: Mon/Wed 13:30-15:00 (Rm.507), or by appointments.
+- Thr/Fri 15:00-16:00 (Rm.507 @aerospace campus)
 
 *Prerequisites* 
 - Linear algebra and statistics
@@ -70,9 +70,9 @@ by Boyd and Vandenberghe will be a useful reference.
 /Several sets of occasional homeworks will be assigned. 
 You are encouraged to work in groups, however everyone should turn in his\/her own work./
 
-#. [https://nbviewer.org/gist/jonghank/ccd2fb49aa83c410ecd3e8258c047c8a Formation flight] [https://nbviewer.org/gist/jonghank/b59f351e21f3ee81832d08868bc2782e (solutions)]
-#. [https://nbviewer.org/gist/jonghank/6e23d9aae0797ec4951bb98a82bfbea9 Formation flight revisited] [https://nbviewer.org/gist/jonghank/45459eaaa0565caeb076acc4e2bbeebe (solutions)]
-#. [https://nbviewer.org/gist/jonghank/e3f98e9e0506ff8ca88ec96868ef3cc2 Minimum time formation flight] [https://nbviewer.org/gist/jonghank/4a71a3471c9f508e52baef6ecbf9bfd0 (solutions)]
+. [https://nbviewer.org/gist/jonghank/ccd2fb49aa83c410ecd3e8258c047c8a Formation flight] [https://nbviewer.org/gist/jonghank/b59f351e21f3ee81832d08868bc2782e (solutions)]
+. [https://nbviewer.org/gist/jonghank/6e23d9aae0797ec4951bb98a82bfbea9 Formation flight revisited] [https://nbviewer.org/gist/jonghank/45459eaaa0565caeb076acc4e2bbeebe (solutions)]
+. [https://nbviewer.org/gist/jonghank/e3f98e9e0506ff8ca88ec96868ef3cc2 Minimum time formation flight] [https://nbviewer.org/gist/jonghank/4a71a3471c9f508e52baef6ecbf9bfd0 (solutions)]
 
 
 

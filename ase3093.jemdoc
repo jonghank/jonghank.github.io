@@ -1,0 +1,79 @@
+# jemdoc: menu{MENU}{ase3093.html}, notime
+= ASE3093: Automatic Control 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Spring 2022 
+
+~~~
+== Announcements
+- [https://inha-ac-kr.zoom.us/j/98929290997?pwd=R0w4UkQ0NnoydDJVY3lXTUUzU0I1QT09 Zoom link: here].
+- Welcome to ASE3093: Automatic control.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+- Undergraduate entry level control course covering dynamic system modeling, 
+Laplace transform and transfer functions, frequency domain analysis, 
+state space descriptions, classical control design techniques, stability margins, and so on.
+
+*Instructors* 
+- Instructor: [jonghank@inha.ac.kr Jong-Han Kim] (Rm.507)
+- TA: [gyubin@inha.ac.kr Gyubin Park] (Rm.502)
+
+*Lectures* 
+- [https://inha-ac-kr.zoom.us/j/98929290997?pwd=R0w4UkQ0NnoydDJVY3lXTUUzU0I1QT09 Tue\/Thr 10:30-11:45] (Rm.217 @aerospace campus)
+
+*Office hours*
+- JHK: Mon/Wed 13:30-15:00 (Rm.507), or by appointments.
+
+*Reference textbooks* \n
+- Feedback Control of Dynamic Systems, by Franklin, Powell, and Emami-Naeini, 8th ed.
+
+*Grading policy*
+- Final exam (40\%) 
+- Midterm exam (30\%) 
+- Homework assignments (30\%)
+
+== Course contents
+. Feedback and closed-loop systems
+. Dynamic modeling of mechanical systems
+. Dynamic modeling and linearization
+. Describing linear dynamical systems
+. Linear dynamical systems and Laplace transform
+. Impulse response and frequency response
+. Time domain responses and stability
+. Block diagrams and feedback interconnection
+. Block diagram algebra
+. Poles and eigenvalues
+. Steady state error and system types
+. Steady state error rejection
+. Effects of pole locations on time domain responses
+. Root locus and design examples
+. Frequency domain analysis
+. Bode plots
+. Stability margin
+
+== Computational exercises
+/The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
+
+. [https://nbviewer.org/gist/jonghank/3d6b4b5daef6f48800fb34e48108881a Python control systems library]
+. [https://nbviewer.org/gist/jonghank/f9fc3e5ed1f449d70a707cc6e787cad7 Exercises on step responses and dominant poles]
+. [https://nbviewer.org/gist/jonghank/2df5dcee2767e32349bd7e3b47f21193 Exercises on root locus techniques]
+. [https://nbviewer.org/gist/jonghank/22abca6d2f0507cabbc9452be0e2f4b9 Exercises on Bode plots, Nyquist plots, and stability margins]
+
+== Assignments
+/ Occasinoal homework assignments will be posted here. /
+#. [./ase3093/2022s/hw1.pdf Homework \#1] (due 4\/15)
+#. [./ase3093/2022s/hw2.pdf Homework \#2] (due 4\/24)
+#. [./ase3093/2022s/hw3.pdf Homework \#3] (due 5\/6)
+#. [./ase3093/2022s/hw4.pdf Homework \#4] (due 6\/10)
+#. [./ase3093/2022s/hw5.pdf Homework \#5] (due 6\/19)
+#. [./ase3093/2022s/hw6.pdf Homework \#6] (due 6\/26)
+
+#== Exams
+#. [./ee363/2020s/midterm.pdf 2020 Midterm]
+
+== Sample exams
+. [./ee363_2018s/midterm.pdf 2018 Midterm] and [./ee363_2018s/midterm_sol.pdf solutions] 
+. [./ee363_2018s/final.pdf 2018 Final] and [./ee363_2018s/final_sol.pdf solutions] 
+
+

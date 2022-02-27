@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>ASE3093: Automatic Control </title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Jong-Han Kim</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="biography.html">Biography</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="topics.html">Topics</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="ase7030.html">ASE7030&nbsp;Optimization</a></div>
+<div class="menu-item"><a href="ase3093.html" class="current">ASE3093&nbsp;Control&nbsp;design</a></div>
+<div class="menu-item"><a href="ase2030.html">ASE2030&nbsp;Linear&nbsp;algebra</a></div>
+<div class="menu-item"><a href="ase1302.html">ASE1302&nbsp;Programming</a></div>
+<div class="menu-item"><a href="ee787.html">EE787&nbsp;Machine&nbsp;learning</a></div>
+<div class="menu-item"><a href="ee370.html">EE370&nbsp;Software&nbsp;lab</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>ASE3093: Automatic Control </h1>
+<div id="subtitle"><a href="http://jonghank.github.io" target=&ldquo;blank&rdquo;>Prof. Jong-Han Kim</a>, <a href="http://www.inha.ac.kr" target=&ldquo;blank&rdquo;>Inha University</a>, Spring 2022 </div>
+</div>
+<div class="infoblock">
+<div class="blockcontent">
+<h2>Announcements</h2>
+<ul>
+<li><p><a href="https://inha-ac-kr.zoom.us/j/98929290997?pwd=R0w4UkQ0NnoydDJVY3lXTUUzU0I1QT09" target=&ldquo;blank&rdquo;>Zoom link: here</a>.</p>
+</li>
+<li><p>Welcome to ASE3093: Automatic control.</p>
+</li>
+</ul>
+</div></div>
+<h2>Course Info.</h2>
+<p><b>Course descriptions</b> </p>
+<ul>
+<li><p>Undergraduate entry level control course covering dynamic system modeling, 
+Laplace transform and transfer functions, frequency domain analysis, 
+state space descriptions, classical control design techniques, stability margins, and so on.</p>
+</li>
+</ul>
+<p><b>Instructors</b> </p>
+<ul>
+<li><p>Instructor: <a href="mailto:jonghank@inha.ac.kr" target=&ldquo;blank&rdquo;>Jong-Han Kim</a> (Rm.507)</p>
+</li>
+<li><p>TA: <a href="mailto:gyubin@inha.ac.kr" target=&ldquo;blank&rdquo;>Gyubin Park</a> (Rm.502)</p>
+</li>
+</ul>
+<p><b>Lectures</b> </p>
+<ul>
+<li><p><a href="https://inha-ac-kr.zoom.us/j/98929290997?pwd=R0w4UkQ0NnoydDJVY3lXTUUzU0I1QT09" target=&ldquo;blank&rdquo;>Tue/Thr 10:30-11:45</a> (Rm.217 @aerospace campus)</p>
+</li>
+</ul>
+<p><b>Office hours</b></p>
+<ul>
+<li><p>JHK: Mon/Wed 13:30-15:00 (Rm.507), or by appointments.</p>
+</li>
+</ul>
+<p><b>Reference textbooks</b> <br /></p>
+<ul>
+<li><p>Feedback Control of Dynamic Systems, by Franklin, Powell, and Emami-Naeini, 8th ed.</p>
+</li>
+</ul>
+<p><b>Grading policy</b></p>
+<ul>
+<li><p>Final exam (40%) </p>
+</li>
+<li><p>Midterm exam (30%) </p>
+</li>
+<li><p>Homework assignments (30%)</p>
+</li>
+</ul>
+<h2>Course contents</h2>
+<ol>
+<li><p>Feedback and closed-loop systems</p>
+</li>
+<li><p>Dynamic modeling of mechanical systems</p>
+</li>
+<li><p>Dynamic modeling and linearization</p>
+</li>
+<li><p>Describing linear dynamical systems</p>
+</li>
+<li><p>Linear dynamical systems and Laplace transform</p>
+</li>
+<li><p>Impulse response and frequency response</p>
+</li>
+<li><p>Time domain responses and stability</p>
+</li>
+<li><p>Block diagrams and feedback interconnection</p>
+</li>
+<li><p>Block diagram algebra</p>
+</li>
+<li><p>Poles and eigenvalues</p>
+</li>
+<li><p>Steady state error and system types</p>
+</li>
+<li><p>Steady state error rejection</p>
+</li>
+<li><p>Effects of pole locations on time domain responses</p>
+</li>
+<li><p>Root locus and design examples</p>
+</li>
+<li><p>Frequency domain analysis</p>
+</li>
+<li><p>Bode plots</p>
+</li>
+<li><p>Stability margin</p>
+</li>
+</ol>
+<h2>Computational exercises</h2>
+<p><i>The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked.</i></p>
+<ol>
+<li><p><a href="https://nbviewer.org/gist/jonghank/3d6b4b5daef6f48800fb34e48108881a" target=&ldquo;blank&rdquo;>Python control systems library</a></p>
+</li>
+<li><p><a href="https://nbviewer.org/gist/jonghank/f9fc3e5ed1f449d70a707cc6e787cad7" target=&ldquo;blank&rdquo;>Exercises on step responses and dominant poles</a></p>
+</li>
+<li><p><a href="https://nbviewer.org/gist/jonghank/2df5dcee2767e32349bd7e3b47f21193" target=&ldquo;blank&rdquo;>Exercises on root locus techniques</a></p>
+</li>
+<li><p><a href="https://nbviewer.org/gist/jonghank/22abca6d2f0507cabbc9452be0e2f4b9" target=&ldquo;blank&rdquo;>Exercises on Bode plots, Nyquist plots, and stability margins</a></p>
+</li>
+</ol>
+<h2>Assignments</h2>
+<p><i> Occasinoal homework assignments will be posted here. </i>
+
+
+
+
+
+</p>
+<h2>Sample exams</h2>
+<ol>
+<li><p><a href="./ee363_2018s/midterm.pdf" target=&ldquo;blank&rdquo;>2018 Midterm</a> and <a href="./ee363_2018s/midterm_sol.pdf" target=&ldquo;blank&rdquo;>solutions</a> </p>
+</li>
+<li><p><a href="./ee363_2018s/final.pdf" target=&ldquo;blank&rdquo;>2018 Final</a> and <a href="./ee363_2018s/final_sol.pdf" target=&ldquo;blank&rdquo;>solutions</a> </p>
+</li>
+</ol>
+<div id="footer">
+<div id="footer-text">
+Page generated 2022-02-27, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
