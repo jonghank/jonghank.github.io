@@ -34,7 +34,7 @@ state space descriptions, classical control design techniques, stability margins
 - Homework assignments (30\%)
 
 == Course contents
-. Feedback and closed-loop systems
+. [./ase3093/02_Introduction.pdf Feedback and closed-loop systems]
 . Dynamic modeling of mechanical systems
 . Dynamic modeling and linearization
 . Describing linear dynamical systems
