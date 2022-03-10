@@ -33,9 +33,10 @@ state space descriptions, classical control design techniques, stability margins
 - Midterm exam (30\%) 
 - Homework assignments (30\%)
 
-== Course contents
-. [./ase3093/02_Introduction.pdf Feedback and closed-loop systems]
-. Dynamic modeling of mechanical systems
+== Course contents and reference notes
+. [./ase3093/Control2021_02_Introduction.pdf Feedback and closed-loop systems]
+. [./ase3093/Control2021_03_Dynamics1.pdf Dynamics review]
+. Dynamic modeling of mechanical systems ([./ase3093/Control2021_03_Dynamics2.pdf translation], [./ase3093/Control2021_03_Dynamics3.pdf rotation])
 . Dynamic modeling and linearization
 . Describing linear dynamical systems
 . Linear dynamical systems and Laplace transform
