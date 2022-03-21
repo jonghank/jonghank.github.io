@@ -38,8 +38,8 @@ state space descriptions, classical control design techniques, stability margins
 . [./ase3093/Control2021_03_Dynamics1.pdf Dynamics review]
 . Dynamic modeling of mechanical systems ([./ase3093/Control2021_03_Dynamics2.pdf translation], [./ase3093/Control2021_03_Dynamics3.pdf rotation])
 . Dynamic modeling and linearization
+. [./ase3093/Control2021_04_MathematicalBackgroud.pdf Linear dynamical systems and Laplace transform]
 . Describing linear dynamical systems
-. Linear dynamical systems and Laplace transform
 . Impulse response and frequency response
 . Time domain responses and stability
 . Block diagrams and feedback interconnection
