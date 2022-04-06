@@ -71,7 +71,7 @@
 
 == Computational examples
 /The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
-. [http://nbviewer.org/gist/jonghank/7bce849aed34798d50f1f907d8848d18 $k$-kmeans clustering (and elements of unsupervised learning)]
+. [http://nbviewer.org/gist/jonghank/7bce849aed34798d50f1f907d8848d18 $k$-means clustering (and elements of unsupervised learning)]
 . [http://nbviewer.org/gist/jonghank/bdadde61ebcdd6bc80e94ed10b74ff50 Document recommenation system (clustering over word count vectors)]
 . [https://nbviewer.jupyter.org/gist/jonghank/44fa57d89965d4a54ff375fcdd4dcd71 Stage illumination]
 . [https://nbviewer.jupyter.org/gist/jonghank/731dd258aeb7272f46524fe6796cefc7 Model fitting]
