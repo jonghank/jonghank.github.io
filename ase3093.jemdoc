@@ -4,6 +4,7 @@
 
 ~~~
 == Announcements
+- Midterm exam will be at 10:30-12:00 on April 21st, on-site at Rm.217 @aerospace campus. Closed book with a double-sided cheat sheet.
 - [https://inha-ac-kr.zoom.us/j/98929290997?pwd=R0w4UkQ0NnoydDJVY3lXTUUzU0I1QT09 Zoom link: here].
 - Welcome to ASE3093: Automatic control.
 ~~~
@@ -56,7 +57,7 @@ state space descriptions, classical control design techniques, stability margins
 == Computational exercises
 /The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 
-. [https://nbviewer.org/gist/jonghank/3d6b4b5daef6f48800fb34e48108881a Python control systems library]
+. [https://nbviewer.org/gist/jonghank/3dd33c363384701696d148c8b838aee2 Python control systems library]
 . [https://nbviewer.org/gist/jonghank/f9fc3e5ed1f449d70a707cc6e787cad7 Exercises on step responses and dominant poles]
 . [https://nbviewer.org/gist/jonghank/2df5dcee2767e32349bd7e3b47f21193 Exercises on root locus techniques]
 . [https://nbviewer.org/gist/jonghank/22abca6d2f0507cabbc9452be0e2f4b9 Exercises on Bode plots, Nyquist plots, and stability margins]
