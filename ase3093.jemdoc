@@ -42,7 +42,7 @@ state space descriptions, classical control design techniques, stability margins
 . [./ase3093/Control2021_04_MathematicalBackgroud.pdf Linear dynamical systems and Laplace transform]
 . Describing linear dynamical systems
 . [./ase3093/Control2021_07_2ndOrderSystemResponses.pdf Impulse response]
-. Frequency response ([./ase3093/Control2021_11_FrequencyResponse_2BodePlot1 Fr1], [./ase3093/Control2021_11_FrequencyResponse_2BodePlot2 Fr2], [./ase3093/Control2021_11_FrequencyResponse_2BodePlot3 Fr3])
+. Frequency response ([./ase3093/Control2021_11_FrequencyResponse_2BodePlot1.pdf FR1], [./ase3093/Control2021_11_FrequencyResponse_2BodePlot2.pdf FR2], [./ase3093/Control2021_11_FrequencyResponse_2BodePlot3.pdf FR3])
 . [./ase3093/Control2021_08_TimeDomainSpecifications.pdf Time domain responses and stability]
 . Block diagrams and feedback interconnection
 . Block diagram algebra
