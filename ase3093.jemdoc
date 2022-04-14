@@ -41,8 +41,8 @@ state space descriptions, classical control design techniques, stability margins
 . Dynamic modeling and linearization
 . [./ase3093/Control2021_04_MathematicalBackgroud.pdf Linear dynamical systems and Laplace transform]
 . Describing linear dynamical systems
-. Impulse response and frequency response
-. Time domain responses and stability
+. [./ase3093/Control2021_07_2ndOrderSystemResponses.pdf Impulse response and frequency response]
+. [./ase3093/Control2021_08_TimeDomainSpecifications.pdf Time domain responses and stability]
 . Block diagrams and feedback interconnection
 . Block diagram algebra
 . Poles and eigenvalues
