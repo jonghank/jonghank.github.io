@@ -35,15 +35,14 @@ state space descriptions, classical control design techniques, stability margins
 - Homework assignments (30\%)
 
 == Course contents and reference notes
-. [./ase3093/Control2021_02_Introduction.pdf Feedback and closed-loop systems]
-. [./ase3093/Control2021_03_Dynamics1.pdf Dynamics review]
-. Dynamic modeling of mechanical systems ([./ase3093/Control2021_03_Dynamics2.pdf translation], [./ase3093/Control2021_03_Dynamics3.pdf rotation])
+. Feedback and closed-loop systems
+. Dynamic modeling of mechanical systems 
 . Dynamic modeling and linearization
-. [./ase3093/Control2021_04_MathematicalBackgroud.pdf Linear dynamical systems and Laplace transform]
+. Linear dynamical systems and Laplace transform
 . Describing linear dynamical systems
-. [./ase3093/Control2021_07_2ndOrderSystemResponses.pdf Impulse response]
-. Frequency response ([./ase3093/Control2021_11_FrequencyResponse_2BodePlot1.pdf FR1], [./ase3093/Control2021_11_FrequencyResponse_2BodePlot2.pdf FR2], [./ase3093/Control2021_11_FrequencyResponse_2BodePlot3.pdf FR3])
-. [./ase3093/Control2021_08_TimeDomainSpecifications.pdf Time domain responses and stability]
+. Impulse response
+. Frequency response 
+. Time domain responses and stability
 . Block diagrams and feedback interconnection
 . Block diagram algebra
 . Poles and eigenvalues
@@ -69,7 +68,7 @@ state space descriptions, classical control design techniques, stability margins
 . [./ase3093/2022s/hw3.pdf Homework \#3] (due 4\/26)
 . [./ase3093/2022s/hw4.pdf Homework \#4] (due 5\/10)
 . [./ase3093/2022s/hw5.pdf Homework \#5] (due 5\/19)
-#. [./ase3093/2022s/hw6.pdf Homework \#6] (due 6\/26)
+. [./ase3093/2022s/hw6.pdf Homework \#6] (due 5\/31)
 
 #== Exams
 #. [./ee363/2020s/midterm.pdf 2020 Midterm]
