@@ -3,6 +3,30 @@
 
 == Current
 
+=== Guidance, navigation, and control techniques for large divert soft landing of reusable launchers
+
+/funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2022-2025)/
+- Embedded convex optimization based large divert soft landing techniques for reusable launchers
+- Flight demonstration on a TVC controlled methane rocket
+
+=== Future space exploration and in-situ resource utilization technology research center
+
+/funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2022-2026)/
+- Precision space navigation and guidance techniques for space exploration
+- In-situ water resource utilization for sustainable space exploration
+
+=== Model based design for fault tolerant control of turbofan engines
+
+/funded by [http://add.re.kr Agency for Defense Development] (2022-2024)/
+- Model predictive control techniques for turbofan engines
+- Model identification and fault detection techniques for turbofan engines
+
+=== AI-based collision detection and avoidance algorithms for smart drones
+
+/funded by [https://moasoftware.co.kr/ Moasoft] (2021-2024)/
+- Detect and avoid algorithm based on deep learning and reinforcement learning
+- Online trajectory design techniques based on artificial intelligence and optimization techniques
+
 === Optimal collision-free path planning for multiple vehicles
 
 /funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2021-2024)/
@@ -27,6 +51,14 @@
 - Data-driven techniques for control systems analysis and synthesis
 - Data-driven techniques for flight performance analysis and prediction
 
+=== Advanced pilot assistance systems based on deep reinforcement learning
+
+/funded by [http://itech.keit.re.kr/ Korea Evaluation Institute of Industrial Technology] (2018-2022)/
+- Collision avoidance techniques based on end-to-end deep reinforcement learning
+- Validations on embedded GPUs and flight tests on fixed wing aircrafts
+
+== Past
+
 === Parallel convex optimization for large-scale machine learning acceleration  
 
 /funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2019-2022)/
@@ -44,14 +76,6 @@
 /funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2019-2021)/
 - Control allocation via online convex programming
 - Fault detection and identification via deep neural networks
-
-=== Advanced pilot assistance systems based on deep reinforcement learning
-
-/funded by [http://itech.keit.re.kr/ Korea Evaluation Institute of Industrial Technology] (2018-2022)/
-- Collision avoidance techniques based on end-to-end deep reinforcement learning
-- Validations on embedded GPUs and flight tests on fixed wing aircrafts.
-
-== Past
 
 === 3D computer generated holography via convex programming
 
@@ -107,4 +131,4 @@ under information constraints.
 === Co-evolutionary algorithms for constrained optimization 
 - Constrained optimization, minimax optimization using evolutionary computation. 
 - Applications to design problems or control problems. 
-- Convergence acceleration by using artificial neural networks.
+- Convergence acceleration by using artificial neural networks
