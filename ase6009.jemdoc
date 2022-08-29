@@ -33,8 +33,9 @@
 - [https://www.amazon.com/Linear-Systems-Theory-Jo-C3-A3o-Hespanha-dp-0691179573/dp/0691179573/ref=dp_ob_title_bk Linear systems theory], by Hespanha, 2nd ed.
 
 *Grading policy*
-- Exams (50%)
-- Homework assignments (50%)
+- Final exam (40%)
+- Midterm exam (30%)
+- Homework assignments and class participation (30%)
 
 == Course contents
 . Linear dynamical systems
@@ -43,10 +44,10 @@
 . Linear quadratic regulators
 . Dynamic programming
 . Constrained optimization 
-. State estimation
+. Estimation
 . Kalman filter
 . Nonlinear filtering
-. Linear quadratic stochastic control
+. Partially observed linear quadratic stochastic control
 
 == Assignments
 . To be assigned.
