@@ -3,6 +3,18 @@
 
 == Current
 
+=== Reentry guidance and control techniques for reusable unmanned space vehicles
+
+/funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2022-2028)/
+- Optimal reentry guidance and trajectory planning for reusable unmanned space planes
+- Precision flight control and control allocation for reusable unmanned space planes
+
+=== Optimal mission assignment for multiple mobile robots
+
+/funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2022-2026)/
+- Optimal mission assignment for mobile robots via mixed integer programming and convex programming on cloud computing environments
+- Cloud computing based learning and inference techniques
+
 === Guidance, navigation, and control techniques for large divert soft landing of reusable launchers
 
 /funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2022-2025)/
@@ -33,12 +45,6 @@
 - Optimal cooperative path planning with collision avoidance
 - Meta learning-based path planning via disciplined parametrized programming
 
-=== Optimal mission assignment for multiple UAVs
-
-/funded by [http://add.re.kr Agency for Defense Development] (2021-2022)/
-- Optimal UAV path planning via convex programming techniques
-- Optimal multiple UAVs mission assignment via mixed integer programming
-
 === Cooperative guidance for theatre missile defense systems
 
 /funded by [http://add.re.kr Agency for Defense Development] (2020-2026)/
@@ -53,11 +59,17 @@
 
 === Advanced pilot assistance systems based on deep reinforcement learning
 
-/funded by [http://itech.keit.re.kr/ Korea Evaluation Institute of Industrial Technology] (2018-2022)/
+/funded by [http://itech.keit.re.kr/ Korea Evaluation Institute of Industrial Technology] (2018-2023)/
 - Collision avoidance techniques based on end-to-end deep reinforcement learning
 - Validations on embedded GPUs and flight tests on fixed wing aircrafts
 
 == Past
+
+=== Optimal mission assignment for multiple UAVs
+
+/funded by [http://add.re.kr Agency for Defense Development] (2021-2022)/
+- Optimal UAV path planning via convex programming techniques
+- Optimal multiple UAVs mission assignment via mixed integer programming
 
 === Parallel convex optimization for large-scale machine learning acceleration  
 
