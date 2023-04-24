@@ -62,9 +62,8 @@ state space descriptions, classical control design techniques, stability margins
 . [https://nbviewer.org/gist/jonghank/ad5479824cb64bb6d8c1921ec8453b29 Feedback systems]
 . [https://nbviewer.org/gist/jonghank/294415be75bf241081e98cd4c82e2cba Linearization] 
 . [https://nbviewer.org/gist/jonghank/d8602f49db84ad7dcb51853bd880713c Solutions of linear homogeneous ODEs]
-
-#. [https://nbviewer.org/gist/jonghank/3dd33c363384701696d148c8b838aee2 Python control systems library]
-#. [https://nbviewer.org/gist/jonghank/f9fc3e5ed1f449d70a707cc6e787cad7 Exercises on step responses and dominant poles]
+. [https://nbviewer.org/gist/jonghank/51c7ed54c792fff0e79dcbc5dd69cd15 Python control systems library]
+. [https://nbviewer.org/gist/jonghank/2d8b822a6a71a615b3aac11ecd533360 Exercises on step responses and dominant poles]
 #. [https://nbviewer.org/gist/jonghank/2df5dcee2767e32349bd7e3b47f21193 Exercises on root locus techniques]
 #. [https://nbviewer.org/gist/jonghank/22abca6d2f0507cabbc9452be0e2f4b9 Exercises on Bode plots, Nyquist plots, and stability margins]
 
