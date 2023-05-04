@@ -45,6 +45,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/8faba25b7e53b3da934fab3c972c8075 Convex optimization problems]
 . [https://nbviewer.org/gist/jonghank/ce2a27c0a07d01099a6226591db3ee13 An extremely short +cvxpy+ tutorial]
 . [https://nbviewer.org/gist/jonghank/30bb109d88df29b73b337f1ef3c62d80 Computational exercises: More optimal control problems]
+. [https://nbviewer.org/gist/jonghank/74c700bb732ac732ee30ea5ff81fd1ff Computational exercises: Aircraft wing design]
 . [https://nbviewer.org/gist/jonghank/17e6eb86385cfa0acab6d47bcb3cddec Computational exercises: Sparse solutions]
 . [https://nbviewer.org/gist/jonghank/fa7678e7d088eb8563561f4201e868dc Computational exercises: Robust Kalman filter with Huber penalty functions]
 . [https://nbviewer.org/gist/jonghank/26be95547f6ce2bdbd1dd414dba16221 Computational exercises: Huber regression]
@@ -63,7 +64,6 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/3b4502c8431d3722c0070e9114577009 Image colorization]
 . [https://nbviewer.jupyter.org/gist/jonghank/239fbf48feece1f51ea2f8258dd2836e Network topology identification]
 . [https://nbviewer.jupyter.org/gist/jonghank/8eedfeeb2a73ba47e7b6bff13dcbc4d9 Fastest mixing networks]
-. [https://nbviewer.org/gist/jonghank/74c700bb732ac732ee30ea5ff81fd1ff Aircraft wing design]
 . [https://nbviewer.org/gist/jonghank/649dc29e6fdfede049a067f711979de4 Recommendation system] 
 . [https://nbviewer.org/gist/jonghank/b8e870d9cccebdce3f59237ffb3dbcfc Image compression via SVD]
 == Assignments
