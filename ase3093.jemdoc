@@ -65,8 +65,9 @@ state space descriptions, classical control design techniques, stability margins
 . [https://nbviewer.org/gist/jonghank/51c7ed54c792fff0e79dcbc5dd69cd15 Python control systems library]
 . [https://nbviewer.org/gist/jonghank/388abe25195d4d6b004c69c9d194053d Step responses and dominant poles]
 . [https://nbviewer.org/gist/jonghank/30a6f81ad1afe03ae760d327dbf55091 Root locus]
+. [https://nbviewer.org/gist/jonghank/ed2f88e04f18be95c7256e70c06eec46 Bode plots, Nyquist plots, and stability margins]
+
 #. [https://nbviewer.org/gist/jonghank/2df5dcee2767e32349bd7e3b47f21193 Exercises on root locus techniques]
-#. [https://nbviewer.org/gist/jonghank/22abca6d2f0507cabbc9452be0e2f4b9 Exercises on Bode plots, Nyquist plots, and stability margins]
 
 == Assignments
 
