@@ -53,7 +53,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/ecfdb01d7919c47f6c466329f8263a5f Computational exercises: Huber regression]
 . [https://nbviewer.org/gist/jonghank/ac55d6ed740461a6f0b035fc18eef512 Computational exercises: Support vector machine]
 . [https://nbviewer.org/gist/jonghank/d5f3d819c68636a5ebcee972a0b92ea8 Quasiconvex optimization]
-. [https://nbviewer.org/gist/jonghank/e15d5830075a50582d7f19f4ccb1ac72 Computational exercises: Minimum time control]
+. [https://nbviewer.org/gist/jonghank/aba80e5f9f23fb735729b9550ace6042 Computational exercises: Minimum time control]
 . [./ase7030/files/optimal_control_nonconvex.pdf Nonconvex problems and the first order methods]
 . Summary
 
@@ -73,7 +73,8 @@ You are encouraged to work in groups, however everyone should turn in his\/her o
 
 . [./ase7030/files/hw1_2023.pdf Degenerate quadratic function] (due 4\/4)
 . [https://nbviewer.org/gist/jonghank/132f2aa13e87582b2445f1ad793582f3 Waypoint guidance with pass angle constraints] (4\/13)
-. [./ase7030/files/hw3_2023.pdf Convexity] (5\/9)
+. Convexity (5\/9, withdrawn)
+. [https://nbviewer.org/gist/jonghank/9745626bdc858b96bd5d296f10b1cab0 Minimum time formation flight (6\/6)]
 
 #. [https://nbviewer.org/gist/jonghank/197be9a08886f2e0630c731de6b45bb5 Formation flight revisited] [https://nbviewer.org/gist/jonghank/93adc45e5ea6410b0487c313a4a2148d (solutions)]
 #. [https://nbviewer.org/gist/jonghank/4e9d48b12363a520ea7883eef85963da Minimum time formation flight] (due 6\/16)
