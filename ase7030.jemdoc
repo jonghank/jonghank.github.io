@@ -55,7 +55,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/d5f3d819c68636a5ebcee972a0b92ea8 Quasiconvex optimization]
 . [https://nbviewer.org/gist/jonghank/aba80e5f9f23fb735729b9550ace6042 Computational exercises: Minimum time control]
 . Sequential convex programming
-. [https://nbviewer.org/gist/jonghank/9d318493a04ccad8da81f87eff2a6e55 Computational exercises: Trajectory optimization under non convex constraints]
+. [https://nbviewer.org/gist/jonghank/9d318493a04ccad8da81f87eff2a6e55 Computational exercises: Trajectory optimization under nonconvex constraints]
 . [./ase7030/files/optimal_control_nonconvex.pdf Nonconvex problems and the first order methods]
 . Summary
 
