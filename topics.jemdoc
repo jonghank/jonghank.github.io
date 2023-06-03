@@ -3,6 +3,18 @@
 
 == Current
 
+=== Real-time optimal guidance and control techniques for reusable launcher
+
+/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2023-2027)/
+- On-board solver development for real-time powered descent guidance
+- Performance verification techniques for on-board powered descent guidance algorithms
+
+=== Optimal orbit transfer and guidance for LEO satellites
+
+/funded by [https://www.satreci.com SATREC Initiative] (2023-2025)/
+- Optimal low thrust orbit transfer for LEO satellites
+- Optimal guidance for LEO satellites
+
 === Reentry guidance and control techniques for reusable unmanned space vehicles
 
 /funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2022-2028)/
@@ -57,13 +69,13 @@
 - Data-driven techniques for control systems analysis and synthesis
 - Data-driven techniques for flight performance analysis and prediction
 
+== Past
+
 === Advanced pilot assistance systems based on deep reinforcement learning
 
 /funded by [http://itech.keit.re.kr/ Korea Evaluation Institute of Industrial Technology] (2018-2023)/
 - Collision avoidance techniques based on end-to-end deep reinforcement learning
 - Validations on embedded GPUs and flight tests on fixed wing aircrafts
-
-== Past
 
 === Optimal mission assignment for multiple UAVs
 
