@@ -3,10 +3,10 @@
 
 == Current
 
-=== Real-time optimal guidance and control techniques for reusable launcher
+=== Real-time optimal guidance and control techniques for reusable launchers
 
 /funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2023-2027)/
-- On-board solver development for real-time powered descent guidance
+- Embedded optimization solvers for real-time powered descent guidance problems
 - Performance verification techniques for on-board powered descent guidance algorithms
 
 === Optimal orbit transfer and guidance for LEO satellites
