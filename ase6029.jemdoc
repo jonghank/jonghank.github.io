@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{ase6029.html}, notime
+= ASE6029: Linear optimal control
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2023 
+
+~~~
+== Announcements
+- Welcome to ASE6029: Linear optimal control.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+
+- The first graduate level course in systems and control. Covered topics include linear dynamical systems described in continuous time and discrete time domains, controllability and observability, linear quadratic optimal control and estimation problems, various techniques for solving linear quadratic regulators and Kalman filters.
+
+*Instructors* 
+- [jonghank@inha.ac.kr Prof. Jong-Han Kim] (Rm.507 @Aerospace campus)
+
+*Lectures* 
+- Tue/Thr 14:30-15:45 (Rm.215 @aerospace campus)
+
+*Office hours*
+- JHK: Tue/Thr 16:00-17:00 (Rm.507), or by appointments.
+
+*Prerequisites* 
+- Linear algebra and statistics
+- Classical control and programming languages (Python or MATLAB).
+
+*Reference textbooks* \n
+- There are no required textbooks.
+- [https://www.amazon.com/Linear-Systems-Theory-Jo-C3-A3o-Hespanha-dp-0691179573/dp/0691179573/ref=dp_ob_title_bk Linear systems theory] by Hespanha, Princeton university press.
+- [https://web.stanford.edu/~boyd/lcdbook/ Linear controller design: Limits of performance] by Boyd and Barratt, Prentice-Hall.
+- [http://ee263.stanford.edu EE263: Introduction to linear dynamical systems], a Stanford course by Boyd and Lall.
+- [https://stanford.edu/class/ee363/ EE363: Linear dynamical systems], a Stanford course by Boyd.
+
+*Grading policy*
+- Homework assignments (80%)
+- Class participation (20%)
+
+== Course contents
+. Linear dynamical systems
+. Controllability and state transfer
+. Observability and state estimation
+. Linear quadratic regulators
+. Dynamic programming
+. Constrained optimization 
+. Estimation
+. Kalman filter
+. Nonlinear filtering
+. Partially observed linear quadratic stochastic control
+
+== Assignments
+. To be assigned.
+
+== Exams
+. To be assigned.

@@ -1,0 +1,89 @@
+# jemdoc: menu{MENU}{ase2010.html}, notime
+= ASE2010: Applied Linear Algebra
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2023 
+
+~~~
+== Announcements
+#- Final exam will be at 10:30-12:00 on June 15th, on-site at Rm.216 @aerospace campus. Closed book #exam (several pages of cheat sheets allowed).
+#- Midterm exam will be at 10:30-12:00 on April 20th, on-site at Rm.216 @aerospace campus. Closed #book with a double-sided cheat sheet.
+#- [https://inha-ac-kr.zoom.us/j/99809949347?pwd=SGQwalNsTXlBVmRMQ2cwTVNIa3BHUT09 Zoom link: here].
+- Welcome to ASE2010: Applied linear algebra.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+
+- This course is about the central mathematical technique for all engineering disciplines: linear algebra. The course covers basics of vectors and matrices, linear independence, orthogonality, linear equations, least-squares methods, and many applications. We talk about the mathematics, but the focus will be on conceptual understanding and using those in applications such as dynamics, control, estimation, and machine learning. Students will also work on computational homework assignments where they use Python to do computations with vectors, matrices, and random variables for solving the engineering problems.
+
+*Instructors* 
+- Instructor: [jonghank@inha.ac.kr Prof. Jong-Han Kim] (Rm.507 @aerospace campus)
+- TA: [junhyoncho@inha.edu Jun-Hyon Cho] (Rm.502 @aerospace campus)
+- TA: [jchoi@inha.edu Jin Choi] (Rm.502 @aerospace campus)
+
+*Lectures* 
+- Tue/Thr 10:30-11:45 (Rm.216 @aerospace campus)
+
+*Office hours*
+- JHK: Tue/Thr 16:00-17:00 (Rm.507), or by appointments.
+
+*Prerequisites* 
+- Previous exposure to Calculus, Engineering mathematics, and Python programming language.
+- You do not need to have any background knowledges on a variety of engineering application, however interest in them will definitely be a plus.
+
+*Reference textbooks* \n
+- [http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781316518960&orderClick=LAG&Kc= Introduction to applied linear algebra - vectors, matrices, and least squares], by Boyd and Vandenberghe. [http://vmls-book.stanford.edu Available online].
+- [http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9780692196380&orderClick=LAG&Kc= Linear algebra and learning from data], by Strang.
+
+*Grading policy*
+- Final exam (40%)
+- Midterm exam (30%)
+- Homework assignments and class participation (30%)
+
+== Lecture notes
+/Some of the course material is reproduced from the [https://stanford.edu/class/engr108/index.html Engr108: Introduction to matrix methods] by [http://web.stanford.edu/~boyd/ Stephen Boyd] at Stanford university, under his kind permission./
+
+. [./ase2010/vmls-slides-1-vectors.pdf Vectors]
+. [./ase2010/vmls-slides-2-linear-functions.pdf Linear functions]
+. [./ase2010/vmls-slides-3-norm-and-distance.pdf Norm and distance]
+. [./ase2010/vmls-slides-4-clustering.pdf Clustering]
+. [./ase2010/vmls-slides-5-linear-independence.pdf Linear independence]
+. [./ase2010/vmls-slides-6-matrices.pdf Matrices]
+. [./ase2010/vmls-slides-7-matrix-examples.pdf Matrix examples]
+. [./ase2010/vmls-slides-8-linear-equations.pdf Linear equations]
+. [./ase2010/vmls-slides-9-linear-dynamical-systems.pdf Linear dynamical systems]
+. [./ase2010/vmls-slides-10-matrix-multiplication.pdf Matrix multiplication]
+. [./ase2010/vmls-slides-11-matrix-inverses.pdf Matrix inverses]
+. [./ase2010/vmls-slides-12-least-squares.pdf Least squares]
+. [./ase2010/vmls-slides-13-least-squares-data-fitting.pdf Least squares data fitting]
+. [./ase2010/vmls-slides-14-least-squares-classification.pdf Least squares classification]
+. [./ase2010/vmls-slides-15-multi-objective-least-squares.pdf Multi-objective least squares]
+. [./ase2010/vmls-slides-16-constrained-least-squares.pdf Constrained least squares]
+. [./ase2010/vmls-slides-17-constrained-least-squares-applications.pdf Constrained least squares applications]
+
+== Assignments
+#. HW\#1: /VMLS Exercises/ 1.4, 1.11, 1.16, 1.18, 2.4, 2.9, 2.12, 3.3, 3.4, 3.13, 3.14, 3.24 (due 3\/30)
+#. HW\#2: /VMLS Exercises/ 5.1, 5.2, 5.6, 5.8, 6.3, 6.13, 6.14, 6.17 (due 4\/13)
+#. HW\#3: /VMLS Exercises/ 7.1, 7.4, 8.3, 8.7, 8.16, 9.1, 9.3, 9.6, 10.12, 10.19, 10.23, 10.36 (due 4\/25)
+#. HW\#4: /VMLS Exercises/ 11.6, 11.10, 11.17, 11.22, 11.26 (due 5\/4)
+#. HW\#5: /VMLS Exercises/ 12.1, 12.4, 12.5, 12.7, 12.8 (due 5\/18)
+#. [./ase2030/hw6.pdf HW\#6] (due 6\/8)
+
+#. HW\#2: /VMLS Exercises/ 5.1, 5.2, 5.6, 5.8, 6.3, 6.13, 6.14, 6.17, 7.1, 7.2, 7.4 (due 4\/6)
+#. HW\#3: /VMLS Exercises/ 8.3, 8.4, 8.7, 8.11, 8.16, 9.1, 9.3, 9.4, 9.6, 10.7, 10.12, 10.19, 10.23, 10.26, 10.36, 10.39, 10.41 (due 4\/20)
+#. HW\#4: /VMLS Exercises/ 11.6, 11.22, 11.26, 12.2, 12.8 (due 5\/18)
+#. HW\#5: /VMLS Exercises/ 13.7, 13.19 (due 5\/31)
+#. [./ase2030/hw6.pdf HW\#6] (due 6\/13)
+
+== Computational examples
+/The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
+. [http://nbviewer.org/gist/jonghank/7bce849aed34798d50f1f907d8848d18 $k$-means clustering (and elements of unsupervised learning)]
+. [http://nbviewer.org/gist/jonghank/bdadde61ebcdd6bc80e94ed10b74ff50 Document recommenation system (clustering over word count vectors)]
+. [https://nbviewer.jupyter.org/gist/jonghank/44fa57d89965d4a54ff375fcdd4dcd71 Stage illumination]
+. [https://nbviewer.jupyter.org/gist/jonghank/731dd258aeb7272f46524fe6796cefc7 Model fitting]
+. [https://nbviewer.jupyter.org/gist/jonghank/e6a7672500afe860b78400fde428deb2 Handwritten image classifier]
+ 
+== Sample Exams
+. [./ase2030/midterm_spring_2021.pdf Midterm exam (2021)] and  
+ [./ase2030/midterm_spring_2021_sol.pdf solutions]
+#. [./ase2030/final_spring_2021.pdf Final exam (2021)] and [./ase2030/final_spring_2021_sol.pdf solutions]
