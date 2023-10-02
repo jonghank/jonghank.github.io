@@ -3,6 +3,22 @@
 
 == Current
 
+=== Mission effectiveness analysis and optimization for VTOL aircrafts
+
+/funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2023-2029)/
+- Mathematical modeling of detections signals for various detection sensors against VTOl aircrafts
+- Mission trajectory generation for optimal mission effectiveness and survivability of VTOL aircrafts
+
+=== Aerial target classification using RADAR data
+/funded by [http://www.lignex1.com LIG Nex1] (2023-2024)/
+- Aerial target dynamic simulation and track signal modeling
+- Deep learning based classifier design for aerial targets
+
+=== Failure mode analysis for space launchers
+/funded by [http://www.hanwhaaerospace.co.kr Hanwha Aerospace] (2023-2024)/
+- Probabilistic analysis of trajectories of space launchers and scheduled debris
+- Failure modes and effects analysis for space launchers
+
 === Real-time optimal guidance and control techniques for reusable launchers
 
 /funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2023-2027)/
@@ -20,6 +36,12 @@
 /funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2022-2028)/
 - Optimal reentry guidance and trajectory planning for reusable unmanned space planes
 - Precision flight control and control allocation for reusable unmanned space planes
+
+=== Engagement simulation for close-in weapon systems
+
+/funded by [http://www.lignex1.com LIG Nex1] (2022-2024)/
+- High fidelity simulation for close-in weapon systems and target anti-ship missiles
+- Filtering and aiming algorithms for close-in weapon systems
 
 === Optimal mission assignment for multiple mobile robots
 
