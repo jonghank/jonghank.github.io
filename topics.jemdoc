@@ -9,9 +9,9 @@
 - Mathematical modeling of detections signals for various detection sensors against VTOL aircrafts
 - Mission trajectory generation for optimal mission effectiveness and survivability of VTOL aircrafts
 
-=== Aerial target classification using RADAR data
+=== Aerial target classification using radar measurements
 /funded by [http://www.lignex1.com LIG Nex1] (2023-2024)/
-- Aerial target dynamic simulation and track signal modeling
+- Aerial target dynamic simulation and radar signal modeling
 - Deep learning based classifier design for aerial targets
 
 === Failure mode analysis for space launchers
