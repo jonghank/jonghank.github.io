@@ -51,11 +51,13 @@
 
 
 == Computational exercises
-. [https://nbviewer.org/gist/jonghank/0799d14b9e1b415e960b646a2da7acc3 Note \#1]
-. [https://nbviewer.org/gist/jonghank/17d45cd98f681ffd173c58faf61c4716 Note \#2]
-. [https://nbviewer.org/gist/jonghank/db1f065986f027e67bae096eb5691a30 Note \#3]
-. [https://nbviewer.org/gist/jonghank/ca1e948a8972cfae9dc5c2467a3f1b2f Note \#4]
-. [https://nbviewer.org/gist/jonghank/96eaa340ae6f35c29cb12e290fc51496 Note \#5]
+. [https://nbviewer.org/gist/jonghank/7595f7852df9403b6d8aa00954c99161 Phase portrait]
+. [https://nbviewer.org/gist/jonghank/0dbba1edacbf5a95851eceb4a4b5dddd Eigenvectors and modes]
+. [https://nbviewer.org/gist/jonghank/3053a4b91be3cfe6ea4fd598157f2154 Impulse response]
+. [https://nbviewer.org/gist/jonghank/5a90f491606967ca81afe493dce7a7ad Least norm control]
+. [https://nbviewer.org/gist/jonghank/72755c4011ca00d6034a9a85a6b6cb09 Discrete LQR]
+. [https://nbviewer.org/gist/jonghank/0c73d97f01428c3e66e89d6dfc26729a Receding horizon control]
+. [https://nbviewer.org/gist/jonghank/407177fe2b79f1faf7d19d8a45a272f2 Infinite horizon LQR]
 
 == Assignments
 . [./ase6029/files/hw1_2023.pdf HW\#1] (due 9\/14)
