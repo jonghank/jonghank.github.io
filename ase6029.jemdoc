@@ -59,6 +59,9 @@
 . [https://nbviewer.org/gist/jonghank/0c73d97f01428c3e66e89d6dfc26729a Receding horizon control]
 . [https://nbviewer.org/gist/jonghank/407177fe2b79f1faf7d19d8a45a272f2 Infinite horizon LQR]
 . [https://nbviewer.org/gist/jonghank/b7353468663af353217dae27d01c400e Optimal guidance solutions]
+. [https://nbviewer.org/gist/jonghank/6127a5b019f6f7d5ab2f1f47677e5661 Linear estimation]
+. [https://nbviewer.org/gist/jonghank/b320e5a5ebda5873715ba8156ea803a0 Covariance propagation]
+. [https://nbviewer.org/gist/jonghank/953dd6b00abb5ba01a10ae896c580a1d Kalman filter]
 
 == Assignments
 . [./ase6029/files/hw1_2023.pdf HW\#1] (due 9\/14)
