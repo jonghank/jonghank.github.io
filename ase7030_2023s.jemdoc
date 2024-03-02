@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{ase7030.html}, notime
 = ASE7030: Convex Optimization 
-[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Spring 2024 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Spring 2023 
 
 ~~~
 == Announcements
@@ -13,10 +13,10 @@
 - The course covers a wide range of engineering application problems that can be solved via convex optimization. With minimal contents on optimization theories, this course will focus on problem formulation techniques that transforms the real-life engineering problems into mathematical optimization problems. The students will work on numerical experiments from a wide variety of engineering and other disciplines, including signal processing, control, finances, and machine learning.
 
 *Lectures* 
-- Tue\/Thr 14:30-15:45 (Rm.215 @aerospace campus)
+- Tue\/Thr 15:00-16:15 (Rm.215 @aerospace campus)
 
 *Office hours*
-- JHK: Tue\/Thr 16:00-17:30 (Rm.507), or by appointments.
+- JHK: Tue\/Thr 16:30-18:00 (Rm.507), or by appointments.
 
 *Prerequisites* 
 - Linear algebra and statistics
@@ -73,11 +73,11 @@ by Boyd and Vandenberghe will be a useful reference.
 /Several sets of occasional homework assignments will be posted here. 
 You are encouraged to work in groups, however everyone should turn in his\/her own work./
 
-#. [./ase7030/files/hw1_2023.pdf Degenerate quadratic function] (due 4\/4)
-#. [https://nbviewer.org/gist/jonghank/132f2aa13e87582b2445f1ad793582f3 Waypoint guidance with pass angle constraints] (due 4\/13)
-#. Convexity (due 5\/9, retracted)
-#. [https://nbviewer.org/gist/jonghank/9745626bdc858b96bd5d296f10b1cab0 Minimum time formation flight] (due 6\/6)
-#. [https://nbviewer.org/gist/jonghank/4320d97065f0bd30afe2c09de9b065bc Optimal steering maneuver] (due 6\/16)
+. [./ase7030/files/hw1_2023.pdf Degenerate quadratic function] (due 4\/4)
+. [https://nbviewer.org/gist/jonghank/132f2aa13e87582b2445f1ad793582f3 Waypoint guidance with pass angle constraints] (due 4\/13)
+. Convexity (due 5\/9, retracted)
+. [https://nbviewer.org/gist/jonghank/9745626bdc858b96bd5d296f10b1cab0 Minimum time formation flight] (due 6\/6)
+. [https://nbviewer.org/gist/jonghank/4320d97065f0bd30afe2c09de9b065bc Optimal steering maneuver] (due 6\/16)
 
 #. [https://nbviewer.org/gist/jonghank/197be9a08886f2e0630c731de6b45bb5 Formation flight revisited] [https://nbviewer.org/gist/jonghank/93adc45e5ea6410b0487c313a4a2148d (solutions)]
 #. [https://nbviewer.org/gist/jonghank/4e9d48b12363a520ea7883eef85963da Minimum time formation flight] (due 6\/16)
