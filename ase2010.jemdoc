@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{ase2010.html}, notime
 = ASE2010: Applied Linear Algebra
-[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2023 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2024 
 
 ~~~
 == Announcements
@@ -17,12 +17,13 @@
 - This course is about the central mathematical technique for all engineering disciplines: linear algebra. The course covers basics of vectors and matrices, linear independence, orthogonality, linear equations, least-squares methods, and many applications. We talk about the mathematics, but the focus will be on conceptual understanding and using those in applications such as dynamics, control, estimation, and machine learning. Students will also work on computational homework assignments where they use Python to do computations with vectors, matrices, and least squares methods for solving practical engineering problems.
 
 *Instructors* 
-- Instructor: [jonghank@inha.ac.kr Jong-Han Kim] (Rm.507 @aerospace campus)
-- TA: [junhyoncho@inha.edu Jun-Hyon Cho] (Rm.502 @aerospace campus)
-- TA: [jchoi@inha.edu Jin Choi] (Rm.502 @aerospace campus)
+- Instructor: [jonghank@inha.ac.kr Jong-Han Kim] (Rm.507)
+- TA: [jhshin@inha.edu Jaehyeong Shin] (Rm.502)
+- TA: [jaejin2@inha.edu Jaejin Lee] (Rm.502)
+- TA: [hyunjung@inha.edu Hyeonjun Gu] (Rm.502)
 
 *Lectures* 
-- Tue/Thr 10:30-11:45 (Rm.216 @aerospace campus)
+- Tue/Thr 10:30-11:45 (Rm.216)
 
 *Office hours*
 - JHK: Tue/Thr 16:00-17:00 (Rm.507), or by appointments.
@@ -62,13 +63,13 @@
 . [./ase2010/vmls-slides-17-constrained-least-squares-applications.pdf Constrained least squares applications]
 
 == Assignments
-. [./ase2010/files/hw1_2023.pdf HW\#1] (due 9\/14)
-. [./ase2010/files/hw2_2023.pdf HW\#2] (due 9\/30)
-. [./ase2010/files/hw3_2023.pdf HW\#3] (due 10\/12)
-. [https://nbviewer.org/gist/jonghank/73c5b53b5739cdad2ae842a65e9399a8 HW\#4] (due 10\/19)
-. [./ase2010/files/hw5_2023.pdf HW\#5] (due 10\/26)
-. [./ase2010/files/hw6_2023.pdf HW\#6] (due 11\/21)
-. [https://nbviewer.org/gist/jonghank/7d99dcab436d6f0770ab9f599c57049b HW\#7] (due 12\/12)
+#. [./ase2010/files/hw1_2023.pdf HW\#1] (due 9\/14)
+#. [./ase2010/files/hw2_2023.pdf HW\#2] (due 9\/30)
+#. [./ase2010/files/hw3_2023.pdf HW\#3] (due 10\/12)
+#. [https://nbviewer.org/gist/jonghank/73c5b53b5739cdad2ae842a65e9399a8 HW\#4] (due 10\/19)
+#. [./ase2010/files/hw5_2023.pdf HW\#5] (due 10\/26)
+#. [./ase2010/files/hw6_2023.pdf HW\#6] (due 11\/21)
+#. [https://nbviewer.org/gist/jonghank/7d99dcab436d6f0770ab9f599c57049b HW\#7] (due 12\/12)
 
 #. HW\#2: /VMLS Exercises/ 5.1, 5.2, 5.6, 5.8, 6.3, 6.13, 6.14, 6.17 (due 4\/13)
 #. HW\#3: /VMLS Exercises/ 7.1, 7.4, 8.3, 8.7, 8.16, 9.1, 9.3, 9.6, 10.12, 10.19, 10.23, 10.36 (due 4\/25)
@@ -93,7 +94,7 @@
 . [https://nbviewer.org/gist/jonghank/89e4e69bc4207f60ad56044b316c2066 Minimum energy control]
  
 == Exam
-. [https://nbviewer.org/gist/jonghank/48d76082167dc233eba31e104f219935 Final exam (Autumn 2023)]
+#. [https://nbviewer.org/gist/jonghank/48d76082167dc233eba31e104f219935 Final exam (Autumn 2023)]
 
 == Sample Exams
 . [./ase2030/midterm_spring_2021.pdf Midterm exam (2021)] and  

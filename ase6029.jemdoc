@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{ase6029.html}, notime
 = ASE6029: Linear optimal control
-[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2023 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2024 
 
 ~~~
 == Announcements
@@ -14,10 +14,10 @@
 - The first graduate level course in systems and control. Covered topics include linear dynamical systems described in continuous time and discrete time domains, controllability and observability, linear quadratic optimal control and estimation problems, various techniques for solving linear quadratic regulators and Kalman filters.
 
 *Instructors* 
-- [jonghank@inha.ac.kr Jong-Han Kim] (Rm.507 @Aerospace campus)
+- [jonghank@inha.ac.kr Jong-Han Kim] (Rm.507)
 
 *Lectures* 
-- Tue/Thr 14:30-15:45 (Rm.215 @aerospace campus)
+- Tue/Thr 14:30-15:45 (Rm.215)
 
 *Office hours*
 - JHK: Tue/Thr 16:00-17:00 (Rm.507), or by appointments.
@@ -64,12 +64,12 @@
 . [https://nbviewer.org/gist/jonghank/953dd6b00abb5ba01a10ae896c580a1d Kalman filter]
 
 == Assignments
-. [./ase6029/files/hw1_2023.pdf HW\#1] (due 9\/14)
-. [./ase6029/files/hw2_2023.pdf HW\#2] + [https://nbviewer.org/gist/jonghank/de056a17e73d2262a94e421a4b54d719 Formation flight] (due 9\/29)
-. [./ase6029/files/hw3_2023.pdf HW\#3] (due 10\/19)
-. [https://nbviewer.org/gist/jonghank/ff86d292914677759b1924ae363a3726 HW\#4] (due 11\/2)
-. [./ase6029/files/hw5_2023.pdf HW\#5] (due 11\/28)
+#. [./ase6029/files/hw1_2023.pdf HW\#1] (due 9\/14)
+#. [./ase6029/files/hw2_2023.pdf HW\#2] + [https://nbviewer.org/gist/jonghank/de056a17e73d2262a94e421a4b54d719 Formation flight] (due 9\/29)
+#. [./ase6029/files/hw3_2023.pdf HW\#3] (due 10\/19)
+#. [https://nbviewer.org/gist/jonghank/ff86d292914677759b1924ae363a3726 HW\#4] (due 11\/2)
+#. [./ase6029/files/hw5_2023.pdf HW\#5] (due 11\/28)
 
 
-== Exams
-. To be assigned.
+#== Exams
+#. To be assigned.
