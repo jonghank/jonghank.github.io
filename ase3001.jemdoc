@@ -44,10 +44,10 @@
 
 == Lecture notes
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
-. [https://nbviewer.jupyter.org/gist/jonghank/76c5d123970802ea0b721c0140d09784 A very short Python introduction]
-. [https://nbviewer.jupyter.org/gist/jonghank/f13536f7ec151ba4f247e526e904804a Numpy module]
-. [https://nbviewer.jupyter.org/gist/jonghank/db8c39288f1691b8301900b6e2dc6c22 Matplotlib module]
-. [https://nbviewer.jupyter.org/gist/jonghank/80d8f76d2dded924f356fa850f7f7e53 Pandas module] (Files: [./ee370/files/kfxsim.csv kfxsim.csv])
+. [https://nbviewer.org/gist/jonghank/5150b77e902c277c1fc436dfa0e5a4bf A very short Python review]
+. [https://nbviewer.org/gist/jonghank/ddee2cb6ba9df9de49e3194a436eb44e Numpy module]
+. [https://nbviewer.org/gist/jonghank/a18dd927372b50fab3e988dd196f8a32 Matplotlib module]
+. [https://nbviewer.org/gist/jonghank/07154efa2ebabc425628f7f71e122f11 Pandas module] (Files: [./ase3001/files/kfxsim.csv kfxsim.csv])
 . [https://nbviewer.jupyter.org/gist/jonghank/4f62dc389f80d0a862c1566716d5cdd2 Differential equations and dynamical systems]
 . [https://nbviewer.jupyter.org/gist/jonghank/4530c2867d58412e62f5ebf3b6338d14 Fourier transform and sound signals]
 . [https://nbviewer.jupyter.org/gist/jonghank/b91d5bfe04ba795e94c827733eec140f Bayesian inference]
@@ -62,25 +62,24 @@
 
 /Assignments will be up with the lab session, during which the students start to work on them. Completed works should be turned in by next week's lecture to the course TAs./
 
-. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function]# (due 9\/16, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/728a79dbfbafa97ca9d9d1e8b9885be5 Gauss-Legendre algorithm]# (due 9\/1, [https://nbviewer.jupyter.org/gist/jonghank/c31b6bd9dcd179ab7eca8002374d051d solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/2661a0d8272b0a0e41a6d2bab801f8ab Eigenvalues and eigenvectors of symmetric matrices]# (due 9\/23, [https://nbviewer.jupyter.org/gist/jonghank/b84a0a43d482ee959eefa1a8905aaf4a solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/c382220bd55f93f325964003a4f19849 Google PageRank]# (due 9\/23, [https://nbviewer.jupyter.org/gist/jonghank/06cbc33f2b3132e8019873028466a3b2 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/10ea223bf66d0a6dc0dfb9258bcb287f Approximations of $\pi$ function]# (due 9\/30, [https://nbviewer.jupyter.org/gist/jonghank/a9cd9ab992a663fbf0e952d58904f9b3 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/292d4e7a48dce2c2feaf2ea4be009bd2 Baseball statistics]# (due 10\/14, [https://nbviewer.jupyter.org/gist/jonghank/dbdbd2947cb0e2c71feb1cb431fe70a0 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/038a97a96fe2096c085ba4055e1e626e Moving average trend on S&P 500]# (due 10\/14, [https://nbviewer.jupyter.org/gist/jonghank/c9644a6adf1143080f55129adf0a0502 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/00c2e687d35a352f5235b301ea14a420 Firing table]# (due 10\/21, [https://nbviewer.jupyter.org/gist/jonghank/aaa8121d8713a5430575fe6182d8eded solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/e06ab4bc6a43b79deffa56f51b94bb7e Back in black] #(Files: [./ee370/files/back_in_black.wav back\_in\_black.wav]) (due 10\/28, [https://nbviewer.jupyter.org/gist/jonghank/ac7a814db45dd9494d780e15dc689c7c solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/e06ab4bc6a43b79deffa56f51b94bb7e Back in black]# (due 10\/28)
-#. [https://nbviewer.jupyter.org/gist/jonghank/95b08de54643aa44704d9244535776da Image noise rejection] (due 10\/28, [https://nbviewer.jupyter.org/gist/jonghank/c74c3adb6ae35d678edcc2a5e2ee3998 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/1ec8fa64a057b8f70872c22e2bb4943c Mobile phone localization]# (due 11\/4, [https://nbviewer.jupyter.org/gist/jonghank/9d8ee74918a133a494e74a886a908427 solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets] (due 11\/11, [https://nbviewer.jupyter.org/gist/jonghank/b3f4f77f2c2b7327ced05255e145d390 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets]# (due 11\/11)
-. [https://nbviewer.jupyter.org/gist/jonghank/46597214ce4d62067e752402114527c3 Estimation and filtering]# (due 11\/25, [https://nbviewer.jupyter.org/gist/jonghank/2550d608130f05e23080e8d576e4bf3e solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/8d2d794d1cb7fc60a58d1e29396190d7 CCTV video processing]# (Files: [./ee370/files/vtest.avi vtest.avi]) (due 12\/2, [https://nbviewer.jupyter.org/gist/jonghank/718dafb9493e9074c9dd87491f9a65a8 solution])
-#. [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction] (due 12\/9, [https://nbviewer.jupyter.org/gist/jonghank/fdd74281cc621344e8d3f6b1ce9a62b0 solution])
-. [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction]# (due 12\/9)
-. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players]# (due 12\/16, [https://nbviewer.jupyter.org/gist/jonghank/fb487bf82a0a558e67c4fc47e084dd0b solution])
+. [https://nbviewer.org/gist/jonghank/c1d48bd8d11fe8daf87ab07a9f51feea An eigenvalue algorithm] (due 9\/16)
+. [https://nbviewer.org/gist/jonghank/cdfedc59dff0a076bf1fe02887c48fb2 Google PageRank] (due 9\/23)
+
+#. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function]# (due 9\/16, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/728a79dbfbafa97ca9d9d1e8b9885be5 Gauss-Legendre algorithm]# (due 9\/1, [https://nbviewer.jupyter.org/gist/jonghank/c31b6bd9dcd179ab7eca8002374d051d solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/2661a0d8272b0a0e41a6d2bab801f8ab Eigenvalues and eigenvectors of symmetric matrices]# (due 9\/23, [https://nbviewer.jupyter.org/gist/jonghank/b84a0a43d482ee959eefa1a8905aaf4a solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/10ea223bf66d0a6dc0dfb9258bcb287f Approximations of $\pi$ function]# (due 9\/30, [https://nbviewer.jupyter.org/gist/jonghank/a9cd9ab992a663fbf0e952d58904f9b3 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/038a97a96fe2096c085ba4055e1e626e Moving average trend on S&P 500]# (due 10\/14, [https://nbviewer.jupyter.org/gist/jonghank/c9644a6adf1143080f55129adf0a0502 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/00c2e687d35a352f5235b301ea14a420 Firing table]# (due 10\/21, [https://nbviewer.jupyter.org/gist/jonghank/aaa8121d8713a5430575fe6182d8eded solution])
+
+
+#. [https://nbviewer.jupyter.org/gist/jonghank/e06ab4bc6a43b79deffa56f51b94bb7e Back in black]# (due 10\/28)
+#. [https://nbviewer.jupyter.org/gist/jonghank/1ec8fa64a057b8f70872c22e2bb4943c Mobile phone localization]# (due 11\/4, [https://nbviewer.jupyter.org/gist/jonghank/9d8ee74918a133a494e74a886a908427 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/7ad766eafb92daeabcf2e2e7538b647b Random walk in financial markets]# (due 11\/11)
+#. [https://nbviewer.jupyter.org/gist/jonghank/46597214ce4d62067e752402114527c3 Estimation and filtering]# (due 11\/25, [https://nbviewer.jupyter.org/gist/jonghank/2550d608130f05e23080e8d576e4bf3e solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/8d2d794d1cb7fc60a58d1e29396190d7 CCTV video processing]# (Files: [./ee370/files/vtest.avi vtest.avi]) (due 12\/2, [https://nbviewer.jupyter.org/gist/jonghank/718dafb9493e9074c9dd87491f9a65a8 solution])
+#. [https://nbviewer.jupyter.org/gist/jonghank/7760131c44b7dee9c239a276da7c8ac8 Power demand prediction]# (due 12\/9)
+#. [https://nbviewer.jupyter.org/gist/jonghank/4750f0eae811c914747d1674cdd991b7 Categorizing FIFA19 soccer players]# (due 12\/16, [https://nbviewer.jupyter.org/gist/jonghank/fb487bf82a0a558e67c4fc47e084dd0b solution])
 
 
 #. [https://nbviewer.jupyter.org/gist/jonghank/2661a0d8272b0a0e41a6d2bab801f8ab Eigenvalues and eigenvectors of symmetric matrices] (due 4\/8, [https://nbviewer.jupyter.org/gist/jonghank/b84a0a43d482ee959eefa1a8905aaf4a solution])
