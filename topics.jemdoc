@@ -3,8 +3,27 @@
 
 == Current
 
-=== Mission effectiveness analysis and optimization for VTOL aircrafts
+=== Optimal control and actuator allocation for satellites with on-off thrusters
+/funded by [https://www.satreci.com SATREC Initiative] (2024-2025)/
+- Exploring a variety of formulations for optimal thruster allocation problems
+- Developing attitude controllers and mission planners
 
+=== Flight dynamics module development for satellite ground control systems
+/funded by [https://www.lumir-inc.com Lumir] (2024-2025)/
+- Developing 6DOF flight dynamics model for small satellites
+- Developing high fidelity simulation models for sensors and actuators of small satellites
+
+=== Anomaly prediction from the trajectory track data of civil aircrafts
+/funded by [http://www.sktelecom.com SK Telecom] (2024-2024)/
+- Designing a transformer-based model to predict future behaviors of aircrafts
+- Developing an autoencoder-based model to provide preventive alarms on potential anomaly
+
+=== Launch point estimation from radar measurements of ballistic targets
+/funded by [http://www.lignex1.com LIG Nex1] (2024-2024)/
+- Formulating the inverse problem to estimate the launch parameters that best explains the observed data
+- Using automatic differentiation to numerically solve the inverse problems
+
+=== Mission effectiveness analysis and optimization for VTOL aircrafts
 /funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2023-2029)/
 - Mathematical modeling of detections signals for various detection sensors against VTOL aircrafts
 - Mission trajectory generation for optimal mission effectiveness and survivability of VTOL aircrafts
@@ -14,122 +33,103 @@
 - Aerial target dynamic simulation and radar signal modeling
 - Deep learning based classifier design for aerial targets
 
-=== Failure mode analysis for space launchers
-/funded by [http://www.hanwhaaerospace.co.kr Hanwha Aerospace] (2023-2024)/
-- Probabilistic analysis of trajectories of space launchers and scheduled debris
-- Failure modes and effects analysis for space launchers
-
 === Real-time optimal guidance and control techniques for reusable launchers
-
 /funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2023-2027)/
 - Embedded optimization solvers for real-time powered descent guidance problems
 - Performance verification techniques for on-board powered descent guidance algorithms
 
 === Optimal orbit transfer and guidance for LEO satellites
-
 /funded by [https://www.satreci.com SATREC Initiative] (2023-2025)/
 - Optimal low thrust orbit transfer for LEO satellites
 - Optimal guidance for LEO satellites
 
 === Reentry guidance and control techniques for reusable unmanned space vehicles
-
 /funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2022-2028)/
 - Optimal reentry guidance and trajectory planning for reusable unmanned space planes
 - Precision flight control and control allocation for reusable unmanned space planes
 
-=== Engagement simulation for close-in weapon systems
-
-/funded by [http://www.lignex1.com LIG Nex1] (2022-2024)/
-- High fidelity simulation for close-in weapon systems and target anti-ship missiles
-- Filtering and aiming algorithms for close-in weapon systems
-
 === Optimal mission assignment for multiple mobile robots
-
 /funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2022-2026)/
 - Optimal mission assignment for mobile robots via mixed integer programming and convex programming on cloud computing environments
 - Cloud computing based learning and inference techniques
 
-=== Guidance, navigation, and control techniques for large divert soft landing of reusable launchers
-
-/funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2022-2025)/
-- Embedded convex optimization based large divert soft landing techniques for reusable launchers
-- Flight demonstration on a TVC controlled methane rocket
-
 === Future space exploration and in-situ resource utilization technology research center
-
 /funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2022-2026)/
 - Precision space navigation and guidance techniques for space exploration
 - In-situ water resource utilization for sustainable space exploration
 
-=== Model based design for fault tolerant control of turbofan engines
-
-/funded by [http://add.re.kr Agency for Defense Development] (2022-2024)/
-- Model predictive control techniques for turbofan engines
-- Model identification and fault detection techniques for turbofan engines
-
 === AI-based collision detection and avoidance algorithms for smart drones
-
 /funded by [https://moasoftware.co.kr/ Moasoft] (2021-2024)/
 - Detect and avoid algorithm based on deep learning and reinforcement learning
 - Online trajectory design techniques based on artificial intelligence and optimization techniques
 
 === Optimal collision-free path planning for multiple vehicles
-
 /funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2021-2024)/
 - Optimal cooperative path planning with collision avoidance
 - Meta learning-based path planning via disciplined parametrized programming
 
 === Cooperative guidance for theatre missile defense systems
-
 /funded by [http://add.re.kr Agency for Defense Development] (2020-2026)/
 - Optimal cooperative guidance for team of interceptors
 - Cooperative battle damage assessment and mission planning for team of interceptors
 
 === Artificial intelligence for guidance and control of missile systems
-
 /funded by [http://add.re.kr Agency for Defense Development] (2020-2025)/
 - Data-driven techniques for control systems analysis and synthesis
 - Data-driven techniques for flight performance analysis and prediction
 
 == Past
 
-=== Advanced pilot assistance systems based on deep reinforcement learning
+=== Failure mode analysis for space launchers
+/funded by [http://www.hanwhaaerospace.co.kr Hanwha Aerospace] (2023-2024)/
+- Probabilistic analysis of trajectories of space launchers and scheduled debris
+- Failure modes and effects analysis for space launchers
 
+=== Engagement simulation for close-in weapon systems
+/funded by [http://www.lignex1.com LIG Nex1] (2022-2024)/
+- High fidelity simulation for close-in weapon systems and target anti-ship missiles
+- Filtering and aiming algorithms for close-in weapon systems
+
+=== Model based design for fault tolerant control of turbofan engines
+/funded by [http://add.re.kr Agency for Defense Development] (2022-2024)/
+- Model predictive control techniques for turbofan engines
+- Model identification and fault detection techniques for turbofan engines
+
+=== Guidance, navigation, and control techniques for large divert soft landing of reusable launchers
+/funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2022-2023)/
+- Embedded convex optimization based large divert soft landing techniques for reusable launchers
+- Flight demonstration on a TVC controlled methane rocket
+
+=== Advanced pilot assistance systems based on deep reinforcement learning
 /funded by [http://itech.keit.re.kr/ Korea Evaluation Institute of Industrial Technology] (2018-2023)/
 - Collision avoidance techniques based on end-to-end deep reinforcement learning
 - Validations on embedded GPUs and flight tests on fixed wing aircrafts
 
 === Optimal mission assignment for multiple UAVs
-
 /funded by [http://add.re.kr Agency for Defense Development] (2021-2022)/
 - Optimal UAV path planning via convex programming techniques
 - Optimal multiple UAVs mission assignment via mixed integer programming
 
 === Parallel convex optimization for large-scale machine learning acceleration  
-
 /funded by [http://www.nrf.re.kr National Research Foundation of Korea] (2019-2022)/
 - Developing efficient large-scale convex optimization solvers running on GPUs
 - A variety of large-scale convex programming applications, including integrated guidance systems, compressed sensing, inverse problems, and so on.
 
 === Re-entry and landing for reusable launch vehicles
-
 /funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2019-2021)/
 - Convex programming for optimal soft landing of reusable launch vehicles
 - Actuator allocation via convex programming
 
 === Fault detection and reconfigurable flight control systems for passenger aerial vehicles
-
 /funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2019-2021)/
 - Control allocation via online convex programming
 - Fault detection and identification via deep neural networks
 
 === 3D computer generated holography via convex programming
-
 /funded by [http://www.etri.re.kr Electronics and Telecommunications Research Institute] (2019-2020)/
 - Computer generated holography by using convex programming with sharpness-enhancing objective functions
 
 === Synthetic aperture radar processing based on compressed sensing
-
 /funded by [http://add.re.kr Agency for Defense Development] (2018-2020)/
 - Radar imaging quality improvement via compressed sensing
 - Large-scale convex programming research
