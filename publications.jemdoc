@@ -3,11 +3,15 @@
 
 == Articles 
 
-- Y.-J. Kim, J. Choi, J. Choi, and J.-H. Kim, "A First-order approach for optimal control of nonlinear dynamical systems," in Proc. 2024 10th International Conference on Control, Decision and Information Technologies (CoDIT), to appear, July 2024.
+- J. Choi and J.-H. Kim. "A Distributed method for first-order optimization with expansive projection for powered descent guidance." In AIAA SciTech 2025 forum, to appear. Jan. 2025.
 
-- G. Park, J. Choi, D.H. Jeong, and J.-H. Kim, "[http://doi.org/10.23919/ACC60939.2024.10644186 Optimal impact angle guidance via first-order optimization under nonconvex constraints]," in Proc. 2024 American Control Conference (ACC), pp.778-784, July 2024.
+- H. D. Choi, H.-M. Jeon, C.-K. Ryoo, and J.-H. Kim. "Launch point and impact point estimation using automatic differentiation on inverse problems." In AIAA SciTech 2025 forum, to appear. Jan. 2025.
 
-- J. Choi and J.-H. Kim, "[https://doi.org/10.1109/ACCESS.2024.3381620 Powered descent guidance via first-order optimization with expansive projection]," IEEE Access, vol. 12, pp. 46232-46240, 2024.
+- Y.-J. Kim, J. Choi, J. Choi, and J.-H. Kim. "A First-order approach for optimal control of nonlinear dynamical systems." In 2024 10th International Conference on Control, Decision and Information Technologies (CoDIT), to appear. July 2024.
+
+- G. Park, J. Choi, D.H. Jeong, and J.-H. Kim. "[http://doi.org/10.23919/ACC60939.2024.10644186 Optimal impact angle guidance via first-order optimization under nonconvex constraints]." In 2024 American Control Conference (ACC), pp.778-784. July 2024.
+
+- J. Choi and J.-H. Kim. "[https://doi.org/10.1109/ACCESS.2024.3381620 Powered descent guidance via first-order optimization with expansive projection]." IEEE Access, vol. 12, pp. 46232-46240. 2024.
 
 - Y.-J. Hwang, H.-M. Jeon, Y.-D. Jung, and J.-H. Kim, "[./papers/2022_apisat_yjh_final.pdf Emergency soft landing trajectory design for multirotor vehicles under rotor failures]," in Proc. the 2022 Asia-Pacific International Symposium on Aerospace Technology (APISAT), Oct. 2022.
 
