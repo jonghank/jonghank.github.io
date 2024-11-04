@@ -53,6 +53,7 @@
 . [https://nbviewer.org/gist/jonghank/5b6d32663edf4a6d99edea4e4bccd5d3 Discrete Fourier transform]
 . [https://nbviewer.org/gist/jonghank/d16fb300a80f4b413bff4b921508a81a Bayesian inference]
 . [https://nbviewer.org/gist/jonghank/deb1fb3c819a3e564a974ed9ae132382 Signal processing]
+. [https://nbviewer.org/gist/jonghank/3d77eb8c11808c54e39057e569534f16 Optimization]
 . [https://nbviewer.jupyter.org/gist/jonghank/772677135eca2eb9d954bfc1b1a91a0e Image processing]
 . [https://nbviewer.jupyter.org/gist/jonghank/0ca42dcffc2eab625e1497fd99fb310a Supervised learning]
 . [https://nbviewer.jupyter.org/gist/jonghank/1e6e2aaaa301f88609ae9485ac9d5e02 Unsupervised learning]
@@ -69,6 +70,7 @@
 . [https://nbviewer.org/gist/jonghank/1d4490541d1f49378ff9e96a95c3e46a No surprises] (due 10\/14)
 . [https://nbviewer.org/gist/jonghank/33b03831bdb17b3004579f2b17863931 Mobile phone localization] (due 10\/21)
 . [https://nbviewer.org/gist/jonghank/7d732ec933f38d324f5c34a0f948c1ba State estimation and filtering] (due 10\/28)
+. [https://nbviewer.org/gist/jonghank/9682d7355a7ac917d81bca3d027adeb4 Optimal planetary landing] (due 11\/11)
 
 #. [https://nbviewer.jupyter.org/gist/jonghank/68ebebe7693fe4e5638deddfd1b0083a Prime counting function]# (due 9\/16, [https://nbviewer.jupyter.org/gist/jonghank/2abf3b085719f2a12f4e24286987e31b solution])
 #. [https://nbviewer.jupyter.org/gist/jonghank/728a79dbfbafa97ca9d9d1e8b9885be5 Gauss-Legendre algorithm]# (due 9\/1, [https://nbviewer.jupyter.org/gist/jonghank/c31b6bd9dcd179ab7eca8002374d051d solution])
