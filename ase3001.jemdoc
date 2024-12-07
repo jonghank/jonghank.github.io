@@ -58,7 +58,7 @@
 . [https://nbviewer.org/gist/jonghank/748ae5b98bce948d4f65f168bcf20dfd Rocket guidance]
 . [https://nbviewer.org/gist/jonghank/b3c65dfb09db4401893dda568018ebc1 Image processing]
 . [https://nbviewer.org/gist/jonghank/595e383799257c34202eb7c7d293d415 Machine learning]
-#. [https://nbviewer.jupyter.org/gist/jonghank/1e6e2aaaa301f88609ae9485ac9d5e02 Unsupervised learning]
+. [https://nbviewer.org/gist/jonghank/17562f24548301b5b3aff17f0600f599 Deep learning]
 #. Other high level languages (Polynomial fit [https://nbviewer.jupyter.org/gist/jonghank/8626d14bc5cdba949d7d7b2fdc019d87 in python], in julia([./ee370/files/Ex_Polynomial_fit_julia.html .html]/[./ee370/files/Ex_Polynomial_fit_julia.ipynb .ipynb]), [./ee370/files/Ex_Polynomial_fit_matlab.m in matlab], and the data file [./ee370/files/fit_data.csv fit_data.csv])
 
 == Assignments
