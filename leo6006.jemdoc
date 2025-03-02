@@ -1,0 +1,76 @@
+# jemdoc: menu{MENU}{leo6006.html}, notime
+= LEO6006: Data Science and Machine Learning for Aerospace Systems
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Spring 2025 
+
+~~~
+== Announcements
+- Welcome to LEO6006: Data Science and Machine Learning for Aerospace Systems.
+~~~
+
+== Course Info.
+
+*Course descriptions* 
+- This course provides a theoretical foundation for data science and machine learning. It covers key concepts, including regression, classification, probabilistic supervised learning, unsupervised learning, and optimization. Emphasis is placed on understanding the mathematical principles and theoretical frameworks underlying these techniques, with applications to aerospace domains.
+
+*Lectures* 
+- Tue\/Thr 16:00-17:15 (Rm.217 @aerospace campus)
+
+*Office hours*
+- JHK: Tue\/Thr 17:30-19:00 (Rm.507), or by appointments.
+
+*Prerequisites* 
+- Previous exposure to linear algebra, probability, and programming.
+- Working knowledge on optimization will be a plus.
+
+*Reference textbooks* \n
+- There are no required textbooks.
+- [http://vmls-book.org Introduction to applied linear algebra - vectors, matrices, and least squares]
+by Boyd and Vandenberghe will be a useful reference.
+
+*Grading policy*
+- No exams.
+- Students will be evaluated by their homework assignments.
+
+== Lecture notes
+/The course material is reproduced from the [http://ee104.stanford.edu EE104: Introduction to machine learning] by [http://lall.stanford.edu Sanjay Lall] and [http://web.stanford.edu/~boyd/ Stephen Boyd] at Stanford university, under their kind permission./
+
+. Course overview
+. Predictors and regression
+. Least squares linear regression
+. Validation
+. Features
+. Empirical risk minimization
+. Regularization
+. Non-quadratic losses
+. Non-quadratic regularizers
+. Neural networks
+. Classification
+. ERM for classification
+. Boolean classification
+. Multi-class classification
+. Probabilistic classification
+. ERM for probabilistic classification
+. Unsupervised learning
+. Principal components analysis
+. Optimization
+. Prox-gradient method
+
+== Assignments
+
+/Several sets of occasional homeworks will be assigned. 
+You are encouraged to work in groups, however everyone should turn in his\/her own work./
+
+#. [./ee787/2019a/homeworks/hw1.pdf Homework \#1] (due 10/22)
+#. [./ee787/2019a/homeworks/hw2.pdf Homework \#2] (due 11/7)
+
+#. [./ee787/ee787_hw1.pdf Homework 1] (due 10/4): [./ee787/files/nearest_neighbor_data.json nearest_neighbor_data.json], [./ee787/files/fitting_outliers.json fitting_outliers.json], [./ee787/files/all_pairs_data.json all_pairs_data.json]
+#. [./ee787/ee787_hw2.pdf Homework 2] (due 10/18): [./ee787/files/inductor_data.json inductor_data.json], [./ee787/files/rational_fit_data.json rational_fit_data.json], [./ee787/files/prostate_cancer_data.json prostate_cancer_data.json], [./ee787/files/to_one_hot.jl to_one_hot.jl]
+#. [./ee787/ee787_hw3.pdf Homework 3] (due 11/15): [./ee787/files/power_demand_data.json power_demand_data.json]
+#. [./ee787/ee787_hw4.pdf Homework 4] (due 11/27): [./ee787/files/tomodata_fullysampled.json tomodata_fullysampled.json], [./ee787/files/tomodata_undersampled.json tomodata_undersampled.json], [./ee787/files/line_pixel_length.jl line_pixel_length.jl], [./ee787/files/TV_inpainting.ipynb TV_inpainting.ipynb]
+#. [./ee787/ee787_hw5.pdf Homework 5] (optional): [./ee787/files/homework_scores.csv homework_scores.csv]
+
+== Files
+
+/These are some data and the Python codes in .ipynb notebook files that we are using for lectures or homework assignments./
+
+
