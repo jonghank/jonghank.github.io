@@ -34,7 +34,7 @@ by Boyd and Vandenberghe will be a useful reference.
 - Homework assignments (50\%)
 - Class participation (50\%)
 
-== Course contents
+== Course Contents
 
 . Course overview
 . [https://nbviewer.jupyter.org/gist/jonghank/240ac3cd07a47b9b1bf7c86adca58da3 Convexity]
@@ -62,7 +62,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./ase7030/files/optimal_control_nonconvex.pdf Nonconvex problems and the first order methods]
 . Summary
 
-== Computational exercises
+== Computational Exercises
 
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked. These contents are not final: some will be revised\/removed and new contents will be added. /
 

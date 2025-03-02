@@ -42,7 +42,7 @@
 - Midterm exam (30%)
 - Homework assignments and class participation (30%)
 
-== Lecture notes
+== Lecture Notes
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 . [https://nbviewer.org/gist/jonghank/5150b77e902c277c1fc436dfa0e5a4bf A very short Python review]
 . [https://nbviewer.org/gist/jonghank/ddee2cb6ba9df9de49e3194a436eb44e Numpy module]
@@ -116,7 +116,7 @@
 . [https://nbviewer.jupyter.org/gist/jonghank/81bf833a9735201b334b0ad35dbee155 Final exam (2020 Autumn)] 
 #. [https://nbviewer.jupyter.org/gist/jonghank/d85397a290cde4bab1ee7c38637693dd Final exam (2020 spring)] and [./ee370/files/how_to_submit.pdf how to submit]
 
-#== Sample exams
+#== Sample Exams
 
 #. [https://nbviewer.jupyter.org/gist/jonghank/9490e395c975b41c1ef31e0c054ba5bd Sample midterm exam (2019 spring)] ([https://nbviewer.jupyter.org/gist/jonghank/93813f0f625ebedff6de6cd569ad5e04 solution])
 #. [https://nbviewer.jupyter.org/gist/jonghank/d8aad7dca5fa1c3f61266ba8f9e3dfd9 Sample midterm exam (2019 autumn)] ([https://nbviewer.jupyter.org/gist/jonghank/e9315a329aa6e901f1fbcc17ce14c206 solution])

@@ -37,7 +37,7 @@
 - Homework assignments (80%)
 - Class participation (20%)
 
-== Course contents
+== Course Contents
 . Linear dynamical systems
 . Controllability and state transfer
 . Observability and state estimation
@@ -50,7 +50,7 @@
 . Partially observed linear quadratic stochastic control
 
 
-== Computational exercises
+== Computational Exercises
 . [https://nbviewer.org/gist/jonghank/7595f7852df9403b6d8aa00954c99161 Phase portrait]
 . [https://nbviewer.org/gist/jonghank/0dbba1edacbf5a95851eceb4a4b5dddd Eigenvectors and modes]
 . [https://nbviewer.org/gist/jonghank/3053a4b91be3cfe6ea4fd598157f2154 Impulse response]

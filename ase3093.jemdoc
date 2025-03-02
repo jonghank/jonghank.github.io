@@ -36,7 +36,7 @@ state space descriptions, classical control design techniques, stability margins
 - Midterm exam (30\%) 
 - Homework assignments (30\%)
 
-== Course contents and reference notes
+== Course Contents and Reference Notes
 . Feedback and closed-loop systems
 . Dynamic modeling of mechanical systems 
 . Dynamic modeling and linearization
@@ -58,7 +58,7 @@ state space descriptions, classical control design techniques, stability margins
 . Nyquist stability criteria
 . Summary
 
-== Computational exercises
+== Computational Exercises
 /The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
 
 . [https://nbviewer.org/gist/jonghank/ad5479824cb64bb6d8c1921ec8453b29 Feedback systems]
@@ -84,7 +84,7 @@ state space descriptions, classical control design techniques, stability margins
 #== Exams
 #. [./ee363/2020s/midterm.pdf 2020 Midterm]
 
-== Sample exams
+== Sample Exams
 . [./ase3093/2022s/midterm_2018s.pdf 2018 Midterm] and [./ase3093/2022s/midterm_2018s_sol.pdf solutions] 
 . [./ase3093/2022s/final_2018s.pdf 2018 Final] and [./ase3093/2022s/final_2018s_sol.pdf solutions] 
 . [./ase3093/2022s/midterm_2020s.pdf 2020 Midterm]
