@@ -37,10 +37,9 @@ by Boyd and Vandenberghe will be a useful reference.
 == Lecture Notes
 /The course material is reproduced from the [http://ee104.stanford.edu EE104: Introduction to machine learning] by [http://lall.stanford.edu Sanjay Lall] and [http://web.stanford.edu/~boyd/ Stephen Boyd] at Stanford university, under their kind permission./
 
-. Course overview
-. Predictors and regression
-. Least squares linear regression
-. Validation
+. [./leo6006/overview.pdf Course overview]
+. [./leo6006/predictors.pdf Predictors]
+. [./leo6006/validation.pdf Validation]
 . Features
 . Empirical risk minimization
 . Regularization
