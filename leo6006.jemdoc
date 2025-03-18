@@ -40,8 +40,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./leo6006/overview.pdf Course overview]
 . [./leo6006/predictors.pdf Predictors]
 . [./leo6006/validation.pdf Validation]
-. Features
-. Empirical risk minimization
+. [./leo6006/features.pdf Features]
+. [./leo6006/erm.pdf Empirical risk minimization]
 . Regularization
 . Non-quadratic losses
 . Non-quadratic regularizers
