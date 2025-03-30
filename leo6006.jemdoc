@@ -43,8 +43,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./leo6006/features.pdf Features]
 . [./leo6006/erm.pdf Empirical risk minimization]
 . [./leo6006/constant_predictors.pdf Constant predictors]
-. Regularization
-. Non-quadratic losses
+. [./leo6006/losses.pdf Non-quadratic losses]
 . Non-quadratic regularizers
 . Neural networks
 . Classification
