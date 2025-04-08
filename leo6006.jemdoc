@@ -44,7 +44,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./leo6006/erm.pdf Empirical risk minimization]
 . [./leo6006/constant_predictors.pdf Constant predictors]
 . [./leo6006/losses.pdf Non-quadratic losses]
-. Non-quadratic regularizers
+. [./leo6006/regularizers.pdf Non-quadratic regularizers
 . Neural networks
 . Classification
 . ERM for classification
