@@ -46,8 +46,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./leo6006/losses.pdf Non-quadratic losses]
 . [./leo6006/regularizers.pdf Non-quadratic regularizers]
 . [./leo6006/neural.pdf Neural networks]
-. Classification
-. ERM for classification
+. [./leo6006/classifiers.pdf Classifiers]
+. [./leo6006/erm_classifier.pdf ERM for classifiers]
 . Boolean classification
 . Multi-class classification
 . Probabilistic classification
