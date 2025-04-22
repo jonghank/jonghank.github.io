@@ -44,9 +44,9 @@ state space descriptions, classical control design techniques, stability margins
 . Describing linear dynamical systems
 . Impulse response
 . Time domain responses and stability
+. Poles and zeros
 . Block diagrams and feedback interconnection
 . Block diagram algebra
-. Poles and eigenvalues
 . Steady state error and system types
 . Steady state error rejection
 . Effects of pole locations on time domain responses
