@@ -48,7 +48,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./leo6006/neural.pdf Neural networks]
 . [./leo6006/classifiers.pdf Classifiers]
 . [./leo6006/erm_classifier.pdf ERM for classifiers]
-. Boolean classification
+. [./leo6006/boolean_classification.pdf Boolean classification]
 . Multi-class classification
 . Probabilistic classification
 . ERM for probabilistic classification
