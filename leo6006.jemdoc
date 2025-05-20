@@ -51,7 +51,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./leo6006/boolean_classification.pdf Boolean classification]
 . [./leo6006/multiclass.pdf Multi-class classification]
 . [./leo6006/prob_classification.pdf Probabilistic classification]
-. ERM for probabilistic classification
+. [./leo6006/erm_prob_class.pdf ERM for probabilistic classification]
 . Unsupervised learning
 . Principal components analysis
 . Optimization
