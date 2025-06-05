@@ -53,7 +53,7 @@ by Boyd and Vandenberghe will be a useful reference.
 . [./leo6006/prob_classification.pdf Probabilistic classification]
 . [./leo6006/erm_prob_class.pdf ERM for probabilistic classification]
 . [./leo6006/unsupervised.pdf Unsupervised learning]
-. Principal components analysis
+. [./leo6006/pca.pdf Principal components analysis]
 . Optimization
 . Prox-gradient method
 
