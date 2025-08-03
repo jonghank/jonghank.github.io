@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>ASE2910: Applied Linear Algebra</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Jong-Han Kim</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="biography.html">Biography</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="topics.html">Topics</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="students.html">Students</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="ase7030.html">ASE7030&nbsp;Optimization</a></div>
+<div class="menu-item"><a href="ase6029.html">ASE6029&nbsp;Optimal&nbsp;control</a></div>
+<div class="menu-item"><a href="leo6006.html">LEO6006&nbsp;Machine&nbsp;learning</a></div>
+<div class="menu-item"><a href="ase3093.html">ASE3093&nbsp;Control&nbsp;design</a></div>
+<div class="menu-item"><a href="ase3001.html">ASE3001&nbsp;Computation&nbsp;lab</a></div>
+<div class="menu-item"><a href="ase2910.html" class="current">ASE2910&nbsp;Linear&nbsp;algebra</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>ASE2910: Applied Linear Algebra</h1>
+<div id="subtitle"><a href="http://jonghank.github.io" target=&ldquo;blank&rdquo;>Prof. Jong-Han Kim</a>, <a href="http://www.inha.ac.kr" target=&ldquo;blank&rdquo;>Inha University</a>, Autumn 2025 </div>
+</div>
+<div class="infoblock">
+<div class="blockcontent">
+<h2>Announcements</h2>
+<ul>
+<li><p>Welcome to ASE2910: Applied Linear Algebra (formerly ASE2010).</p>
+</li>
+</ul>
+</div></div>
+<h2>Course Info.</h2>
+<p><b>Course descriptions</b> </p>
+<ul>
+<li><p>This course is about the central mathematical technique for all engineering disciplines: linear algebra. The course covers basics of vectors and matrices, linear independence, orthogonality, linear equations, least-squares methods, and many applications. We talk about the mathematics, but the focus will be on conceptual understanding and using those in applications such as dynamics, control, estimation, and machine learning. Students will also work on computational homework assignments where they use Python to do computations with vectors, matrices, and least squares methods for solving practical engineering problems.</p>
+</li>
+</ul>
+<p><b>Instructors</b> </p>
+<ul>
+<li><p>Instructor: <a href="mailto:jonghank@inha.ac.kr" target=&ldquo;blank&rdquo;>Jong-Han Kim</a> (Rm.507)</p>
+</li>
+<li><p>Head TA: <a href="mailto:jhshin@inha.edu" target=&ldquo;blank&rdquo;>Jaehyeong Shin</a> (Rm.502)</p>
+</li>
+<li><p>TA: <a href="mailto:jaejin2@inha.edu" target=&ldquo;blank&rdquo;>Jaejin Lee</a> (Rm.502)</p>
+</li>
+<li><p>TA: <a href="mailto:hyunjung@inha.edu" target=&ldquo;blank&rdquo;>Hyeonjun Gu</a> (Rm.502)</p>
+</li>
+</ul>
+<p><b>Lectures</b> </p>
+<ul>
+<li><p>Tue/Thr 10:30-11:45 (Rm.216)</p>
+</li>
+</ul>
+<p><b>Office hours</b></p>
+<ul>
+<li><p>JHK: Tue/Thr 16:00-17:00 (Rm.507), or by appointments.</p>
+</li>
+</ul>
+<p><b>Prerequisites</b> </p>
+<ul>
+<li><p>Previous exposure to calculus, engineering mathematics, and programming language (Python or others).</p>
+</li>
+<li><p>You do not need to have any background knowledges on a variety of engineering application, however interest in them will definitely be a plus.</p>
+</li>
+</ul>
+<p><b>Reference textbooks</b> <br /></p>
+<ul>
+<li><p><a href="http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&amp;mallGb=ENG&amp;barcode=9781316518960&amp;orderClick=LAG&amp;Kc=" target=&ldquo;blank&rdquo;>Introduction to applied linear algebra - vectors, matrices, and least squares</a>, by Boyd and Vandenberghe. <a href="http://vmls-book.stanford.edu" target=&ldquo;blank&rdquo;>Available online</a>.</p>
+</li>
+<li><p><a href="http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&amp;mallGb=ENG&amp;barcode=9780692196380&amp;orderClick=LAG&amp;Kc=" target=&ldquo;blank&rdquo;>Linear algebra and learning from data</a>, by Strang.</p>
+</li>
+</ul>
+<p><b>Grading policy</b></p>
+<ul>
+<li><p>Final exam (40%)</p>
+</li>
+<li><p>Midterm exam (30%)</p>
+</li>
+<li><p>Homework assignments and class participation (30%)</p>
+</li>
+</ul>
+<h2>Lecture Notes</h2>
+<p><i>Some of the course material is reproduced from the <a href="https://stanford.edu/class/engr108/index.html" target=&ldquo;blank&rdquo;>Engr108: Introduction to matrix methods</a> by <a href="http://web.stanford.edu/~boyd/" target=&ldquo;blank&rdquo;>Stephen Boyd</a> at Stanford university, under his kind permission.</i></p>
+<ol>
+<li><p><a href="./ase2910/vmls-slides-1-vectors.pdf" target=&ldquo;blank&rdquo;>Vectors</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-2-linear-functions.pdf" target=&ldquo;blank&rdquo;>Linear functions</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-3-norm-and-distance.pdf" target=&ldquo;blank&rdquo;>Norm and distance</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-4-clustering.pdf" target=&ldquo;blank&rdquo;>Clustering</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-5-linear-independence.pdf" target=&ldquo;blank&rdquo;>Linear independence</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-6-matrices.pdf" target=&ldquo;blank&rdquo;>Matrices</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-7-matrix-examples.pdf" target=&ldquo;blank&rdquo;>Matrix examples</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-8-linear-equations.pdf" target=&ldquo;blank&rdquo;>Linear equations</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-9-linear-dynamical-systems.pdf" target=&ldquo;blank&rdquo;>Linear dynamical systems</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-10-matrix-multiplication.pdf" target=&ldquo;blank&rdquo;>Matrix multiplication</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-11-matrix-inverses.pdf" target=&ldquo;blank&rdquo;>Matrix inverses</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-12-least-squares.pdf" target=&ldquo;blank&rdquo;>Least squares</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-13-least-squares-data-fitting.pdf" target=&ldquo;blank&rdquo;>Least squares data fitting</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-14-least-squares-classification.pdf" target=&ldquo;blank&rdquo;>Least squares classification</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-15-multi-objective-least-squares.pdf" target=&ldquo;blank&rdquo;>Multi-objective least squares</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-16-constrained-least-squares.pdf" target=&ldquo;blank&rdquo;>Constrained least squares</a></p>
+</li>
+<li><p><a href="./ase2910/vmls-slides-17-constrained-least-squares-applications.pdf" target=&ldquo;blank&rdquo;>Constrained least squares applications</a></p>
+</li>
+</ol>
+<h2>Assignments</h2>
+<ol>
+<li><p><a href="./ase2910/files/hw1_2024.pdf" target=&ldquo;blank&rdquo;>HW#1</a> (due 9/27)</p>
+</li>
+<li><p><a href="./ase2910/files/hw2_2024.pdf" target=&ldquo;blank&rdquo;>HW#2</a> (due 10/8)</p>
+</li>
+<li><p><a href="./ase2910/files/hw3_2024.pdf" target=&ldquo;blank&rdquo;>HW#3</a> (due 10/22)</p>
+</li>
+<li><p><a href="./ase2910/files/hw4_2024.pdf" target=&ldquo;blank&rdquo;>HW#4</a> (due 10/29)</p>
+</li>
+<li><p><a href="./ase2910/files/hw5_2024.pdf" target=&ldquo;blank&rdquo;>HW#5</a> (due 11/17)</p>
+</li>
+<li><p><a href="./ase2910/files/hw6_2024.pdf" target=&ldquo;blank&rdquo;>HW#6</a> (due 12/3)
+
+
+
+</p>
+</li>
+</ol>
+<h2>Computational Examples</h2>
+<p><i>The link directs to the associated Jupyter notebook file, which opens on Google Colaboratory when the “Open in Colab” button is clicked.</i></p>
+<ol>
+<li><p><a href="http://nbviewer.org/gist/jonghank/7bce849aed34798d50f1f907d8848d18" target=&ldquo;blank&rdquo;>\(k\)-means clustering (and elements of unsupervised learning)</a></p>
+</li>
+<li><p><a href="http://nbviewer.org/gist/jonghank/bdadde61ebcdd6bc80e94ed10b74ff50" target=&ldquo;blank&rdquo;>Document recommenation system (clustering over word count vectors)</a></p>
+</li>
+<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/44fa57d89965d4a54ff375fcdd4dcd71" target=&ldquo;blank&rdquo;>Stage illumination</a></p>
+</li>
+<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/731dd258aeb7272f46524fe6796cefc7" target=&ldquo;blank&rdquo;>Model fitting</a></p>
+</li>
+<li><p><a href="https://nbviewer.jupyter.org/gist/jonghank/e6a7672500afe860b78400fde428deb2" target=&ldquo;blank&rdquo;>Handwritten image classifier</a></p>
+</li>
+<li><p><a href="https://nbviewer.org/gist/jonghank/1755fdff6aacd93a9118a118e6c7ae33" target=&ldquo;blank&rdquo;>Ridge regression</a></p>
+</li>
+<li><p><a href="https://nbviewer.org/gist/jonghank/89e4e69bc4207f60ad56044b316c2066" target=&ldquo;blank&rdquo;>Minimum energy control</a></p>
+</li>
+</ol>
+<h2>Exam</h2>
+<h2>Sample Exams</h2>
+<ol>
+<li><p><a href="./ase2030/midterm_spring_2021.pdf" target=&ldquo;blank&rdquo;>Midterm exam (2021)</a> and  
+<a href="./ase2030/midterm_spring_2021_sol.pdf" target=&ldquo;blank&rdquo;>solutions</a>
+</p>
+</li>
+</ol>
+<div id="footer">
+<div id="footer-text">
+Page generated 2025-08-03, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

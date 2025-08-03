@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{ase3001.html}, notime
 = ASE3001: Computation Lab. 
-[http://jonghank.inha.ac.kr Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2024 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2025 
 
 ~~~
 == Announcements
@@ -16,14 +16,14 @@
 - This course covers elementary computational techniques for solving mathematical problems in aerospace engineering and other engineering disciplines. Students will use high level programming languages to formulate, interpret and analyze practical real-world problems encountered at a wide variety of engineering disciplines. Covered topics include but not limited to differential equations, linear algebra, probability, Fourier transform, introductory machine learning and artificial intelligence.
 
 *Instructors* 
-- Instructor: [jonghank@khu.ac.kr Prof. Jong-Han Kim] (Rm.507)
+- Instructor: [jonghank@inha.ac.kr Prof. Jong-Han Kim] (Rm.507)
 - Head TA: [jiwoochoi@inha.edu Jiwoo Choi] (Rm.502)
 - TA: [seungyeoplee@inha.edu Seungyeop Lee] (Rm.502)
 - TA: [hyoungdochoi@inha.edu Hyoung Do Choi] (Rm.502)
 - TA: [eunbyeeol@inha.edu Eunbyeol Cho] (Rm.502)
 
 *Lectures* 
-- Mon 14:30-17:30 (Rm.217)
+- Wed 14:30-17:30 (Rm.216)
 ##- [https://khu-ac.zoom.us/j/94153472528 Wed 13:30-17:20] (Rm.211-1)
 #- [https://khu-ac.zoom.us/j/94290169355 Thr 10:30-14:20] (Rm.211-1)
 
@@ -73,7 +73,7 @@
 . [https://nbviewer.org/gist/jonghank/33b03831bdb17b3004579f2b17863931 Mobile phone localization] (due 10\/21)
 . [https://nbviewer.org/gist/jonghank/7d732ec933f38d324f5c34a0f948c1ba State estimation and filtering] (due 10\/28)
 . [https://nbviewer.org/gist/jonghank/9682d7355a7ac917d81bca3d027adeb4 Optimal planetary landing] (due 11\/11)
-. [https://nbviewer.org/gist/jonghank/dd7a04f28a135a807bd647522324ecab Segway control (rev)] (due 11\/18)
+. [https://nbviewer.org/gist/jonghank/dd7a04f28a135a807bd647522324ecab Segway control] (due 11\/18)
 . [https://nbviewer.org/gist/jonghank/38c26ee23fd82cd1c1d1d4c6346bfae4 Proportional navigation in 3D space] (due 11\/25)
 . [https://nbviewer.org/gist/jonghank/d76c348175c919025b200a4b9fef19a7 Image filtering] (due 12\/2)
 . [https://nbviewer.org/gist/jonghank/61425e8e379c62cf8a529ebb02ab5edb Soft landing success predictor] (due 12\/9)
