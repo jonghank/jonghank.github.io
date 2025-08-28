@@ -18,9 +18,10 @@
 
 *Instructors* 
 - Instructor: [jonghank@inha.ac.kr Jong-Han Kim] (Rm.507)
-- Head TA: [jhshin@inha.edu Jaehyeong Shin] (Rm.502)
-- TA: [jaejin2@inha.edu Jaejin Lee] (Rm.502)
-- TA: [hyunjung@inha.edu Hyeonjun Gu] (Rm.502)
+- Head TA: [eunbyeeol@inha.edu Eunbyeol Cho] (Rm.502)
+- TA: [chungyeahun@inha.edu Yeahun Chung] (Rm.502)
+- TA: [kimmjae@inha.edu Minjae Kim] (Rm.502)
+- TA: [kimsoojin@inha.edu Soojin Kim] (Rm.502)
 
 *Lectures* 
 - Tue/Thr 10:30-11:45 (Rm.216)
@@ -63,12 +64,12 @@
 . [./ase2910/vmls-slides-17-constrained-least-squares-applications.pdf Constrained least squares applications]
 
 == Assignments
-. [./ase2910/files/hw1_2024.pdf HW\#1] (due 9\/27)
-. [./ase2910/files/hw2_2024.pdf HW\#2] (due 10\/8)
-. [./ase2910/files/hw3_2024.pdf HW\#3] (due 10\/22)
-. [./ase2910/files/hw4_2024.pdf HW\#4] (due 10\/29)
-. [./ase2910/files/hw5_2024.pdf HW\#5] (due 11\/17)
-. [./ase2910/files/hw6_2024.pdf HW\#6] (due 12\/3)
+#. [./ase2910/files/hw1_2024.pdf HW\#1] (due 9\/27)
+#. [./ase2910/files/hw2_2024.pdf HW\#2] (due 10\/8)
+#. [./ase2910/files/hw3_2024.pdf HW\#3] (due 10\/22)
+#. [./ase2910/files/hw4_2024.pdf HW\#4] (due 10\/29)
+#. [./ase2910/files/hw5_2024.pdf HW\#5] (due 11\/17)
+#. [./ase2910/files/hw6_2024.pdf HW\#6] (due 12\/3)
 #. [https://nbviewer.org/gist/jonghank/73c5b53b5739cdad2ae842a65e9399a8 HW\#4] (due 10\/19)
 #. [./ase2910/files/hw5_2023.pdf HW\#5] (due 10\/26)
 #. [./ase2910/files/hw6_2023.pdf HW\#6] (due 11\/21)
@@ -100,8 +101,9 @@
 #. [https://nbviewer.org/gist/jonghank/48d76082167dc233eba31e104f219935 Final exam (Autumn 2023)]
 
 == Sample Exams
-. [./ase2030/midterm_spring_2021.pdf Midterm exam (2021)] and  
- [./ase2030/midterm_spring_2021_sol.pdf solutions]
-#. [./ase2030/final_spring_2021.pdf Final exam (2021)] and [./ase2030/final_spring_2021_sol.pdf solutions]
-
+. [./ase2910/midterm_spring_2021.pdf Midterm exam (2021)] and  
+ [./ase2910/midterm_spring_2021_sol.pdf solutions]
+. [./ase2910/final_spring_2021.pdf Final exam (2021)] and [./ase2030/final_spring_2021_sol.pdf solutions]
+. [./ase2910/midterm_2023a.pdf Midterm exam (2023)]
+. [https://nbviewer.org/gist/jonghank/48d76082167dc233eba31e104f219935 Final exam (2023)]
 
