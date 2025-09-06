@@ -3,11 +3,11 @@
 
 == Articles 
 
-- J. Choi, D. Lee, and J.-H. Kim, "Neural Projection Operators for Real-Time 6-DoF Powered Descent Guidance," AIAA SciTech 2026 Forum, Jan. 2026 (submitted).
-
 - Y.-J. Kim, J. Choi, J. Choi, and J.-H. Kim, "A First-Order Approach for Nonlinear Optimal Control Under Nonconvex Constraints," Optimization and Engineering (under review).
 
-- J.-S. Park, G.-H. Kim, H.-H. Kwon, and J.-H. Kim, "Huber-Based Asynchronous Fusion Filter for Robust Multi-Rate Sensor Processing," International Journal of Control, Automation, and Systems (under review).
+- J. Choi, D. Lee, and J.-H. Kim, "Neural Projection Operators for Real-Time 6-DoF Powered Descent Guidance," AIAA SciTech 2026 Forum, Jan. 2026 (accepted for presentation).
+
+- J.-S. Park, G.-H. Kim, H.-H. Kwon, and J.-H. Kim, "Huber-Based Asynchronous Fusion Filter for Robust Multi-Rate Sensor Processing," International Journal of Control, Automation, and Systems (accepted for publication).
 
 - J. Choi and J.-H. Kim, "[http://doi.org/10.1109/LCSYS.2025.3578571 LiftProj: Physics-Informed Koopman Lifting and Projection for Nonlinear Optimal Control via First-Order Optimization]," IEEE Control Systems Letters, vol. 9, pp. 817-822, 2025. Also presented at the IEEE Conference on Decision and Control (CDC), Dec. 2025.
 
@@ -141,16 +141,13 @@ M.S. Dissertation, KAIST, 2001.
 
 - J.-H. Kim, J.-H. Cho, D.-H. Kim, and B. Yoon, [https://patents.google.com/patent/KR102173012B1 Apparatus, method, computer-readable storage medium and computer program for generating image of synthetic aperture radar based on compressed sensing], KR Patent KR102173012B1, issued Nov. 2nd, 2020.
 
-- T.-H. Kim and J.-H. Kim, [https://patents.google.com/patent/KR101989525B1/ko 
-Two-axes gimbaled RF seeker and method for estimating guidance filter model], 
-KR Patent KR101989525B1, issued June 14th, 2019.
+- T.-H. Kim and J.-H. Kim, [https://patents.google.com/patent/KR101989525B1/ko Two-axes gimbaled RF seeker and method for estimating guidance filter model], KR Patent KR101989525B1, issued June 14th, 2019.
 
-- J.-H. Kim, I.H. Whang, B.M. Kim, and H.R. Park, 
-[https://patents.google.com/patent/KR101602311B1/ko 
-Terminal homing method for flight vehicle and apparatus thereof], 
-KR Patent KR101602311B1, issued March 10, 2016.
+- J.-H. Kim, I.H. Whang, B.M. Kim, and H.R. Park, [https://patents.google.com/patent/KR101602311B1/ko Terminal homing method for flight vehicle and apparatus thereof], KR Patent KR101602311B1, issued March 10, 2016.
 
 == Articles in Korean
+
+- D.-U. Kim, C. Choi, J. Shin, and J.-H. Kim, "[https://doi.org/10.5302/J.ICROS.2025.25.0069 Multi-agent Path Optimization Using MMD*L and SCP With Terrain Information]," Journal of Institute of Control, Robotics and Systems, vol.31, no.9, pp.1073-1081, 2025.
 
 - H.J. Gu, Y.-J. Kim. and J.-H. Kim, "[https://doi.org/10.5139/JKSAS.2025.53.5.513 Entry Interface Envelope Evaluation for Reusable Spaceplanes Using Sequential Convex Programming]," Journal of Korean Society for Aeronautical and Space Sciences, vol.53, no.5, pp.513-526, 2025.
 
