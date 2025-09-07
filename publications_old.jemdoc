@@ -1,0 +1,351 @@
+# jemdoc: menu{MENU}{publications.html}, notime
+=Jong-Han Kim - Publications
+
+== Articles 
+
+- Y.-J. Kim, J. Choi, J. Choi, and J.-H. Kim, "A First-Order Approach for Nonlinear Optimal Control Under Nonconvex Constraints," Optimization and Engineering (under review).
+
+- J. Choi, D. Lee, and J.-H. Kim, "Neural Projection Operators for Real-Time 6-DoF Powered Descent Guidance," AIAA SciTech 2026 Forum, Jan. 2026 (accepted for presentation).
+
+- J.-S. Park, G.-H. Kim, H.-H. Kwon, and J.-H. Kim, "Huber-Based Asynchronous Fusion Filter for Robust Multi-Rate Sensor Processing," International Journal of Control, Automation, and Systems (accepted for publication).
+
+- J. Choi and J.-H. Kim, "[http://doi.org/10.1109/LCSYS.2025.3578571 LiftProj: Physics-Informed Koopman Lifting and Projection for Nonlinear Optimal Control via First-Order Optimization]," IEEE Control Systems Letters, vol. 9, pp. 817-822, 2025. Also presented at the IEEE Conference on Decision and Control (CDC), Dec. 2025.
+
+- S. Lee, G. Park, J.-J. Lee, H. Ryu, and J.-H. Kim, "[https://doi.org/10.1007/s42405-025-00911-z Velocity Profile Optimization for Multiple UAVs Collision-Free Mission Planning]," International Journal of Aeronautical and Space Sciences, 2025.
+
+- J. Kim, and J.-H. Kim, "[https://doi.org/10.1007/s42405-025-00904-y Spacecraft Attitude Control with On-Off Thrusters via Convex Optimization Based Control Allocation]," International Journal of Aeronautical and Space Sciences, 2025.
+
+- J. Choi and J.-H. Kim, "[https://arc.aiaa.org/doi/10.2514/6.2025-1507 A Distributed Method for First-Order Optimization with Expansive Projection for Powered Descent Guidance]," AIAA SciTech 2025 Forum, AIAA 2025-1507, Jan. 2025.
+
+- H.D. Choi, H.-M. Jeon, C.-K. Ryoo and J.-H. Kim, "[https://arc.aiaa.org/doi/10.2514/6.2025-2435 Launch Point and Impact Point Estimation Using Automatic Differentiation on Inverse Problems]," AIAA SciTech 2025 Forum, AIAA 2025-2435, Jan. 2025.
+
+- Y.-J. Kim, J. Choi, J. Choi, and J.-H. Kim, "[http://doi.org/10.1109/CoDIT62066.2024.10708294 A First-Order Approach for Optimal Control of Nonlinear Dynamical Systems]," In 2024 10th International Conference on Control, Decision and Information Technologies (CoDIT), pp.2290-2295, July 2024.
+
+- G. Park, J. Choi, D.H. Jeong, and J.-H. Kim, "[http://doi.org/10.23919/ACC60939.2024.10644186 Optimal Impact Angle Guidance via First-Order Optimization Under Nonconvex Constraints]," In Proc. 2024 American Control Conference (ACC), pp.778-784. July 2024.
+
+- J. Choi and J.-H. Kim. "[https://doi.org/10.1109/ACCESS.2024.3381620 Powered Descent Guidance via First-Order Optimization With Expansive Projection]," IEEE Access, vol. 12, pp. 46232-46240. 2024.
+
+- Y.-J. Hwang, H.-M. Jeon, Y.-D. Jung, and J.-H. Kim, "[./papers/2022_apisat_yjh_final.pdf Emergency soft landing trajectory design for multirotor vehicles under rotor failures]," in Proc. the 2022 Asia-Pacific International Symposium on Aerospace Technology (APISAT), Oct. 2022.
+
+- J.-H. Cho, H. Ryu, and J.-H. Kim, "[./papers/2022_apisat_jhc_final.pdf An ADMM-based approach for traveling salesman problems]," in Proc. the 2022 Asia-Pacific International Symposium on Aerospace Technology (APISAT), Oct. 2022.
+
+- G. Park, J.-H. Cho, and J.-H. Kim, "[./papers/2022_ascc_gbp_final.pdf Large divert computational guidance for exoatmospheric vehicles]," in Proc. the 13th Asian Control Conference (ASCC), May 2022.
+
+- J. Park, Y. Jung, and J.-H. Kim, "[http://dx.doi.org/10.1007/s12555-021-0729-1 Multiclass classification fault diagnosis of multirotor UAVs utilizing a deep neural network]," International Journal of Control, Automation, and Systems, vol.20, issue 4, pp. 1316-1326, 2022.
+
+- J. Lee, H. Kim, K.-W. Park, J.-H. Kim, and S. Kim, "[https://ieeexplore.ieee.org/document/9525032 Expressions for resonant frequency of wirelessly accessible planar mirrored-coil sensor in biomedicine], " IEEE Transactions on Microwave Theory and Techniques, vol.70, issue 1, pp.556-564, 2022.
+
+- J. Park, J.-H. Kim, and Y. Jung, "[https://doi.org/10.1109/MED51440.2021.9480214 Binary classification fault diagnosis for octocopter using deep neural network]," in Proc. 29th Mediterranean Conference on Control and Automation (MED), pp. 121-125, June 2021.
+
+- D. Lee, H.-L. Choi, and J.-H. Kim, "[https://doi.org/10.3390/s20174790 Optimal cooperative guidance laws for two UAVs under sensor information deficiency constraints]," Sensors, 20(17), 4790, 2020.
+
+- T.-H. Kim, J. Park, and J.-H. Kim, "[https://doi.org/10.1007/s42405-020-00299-y Computational issues in sparse and dense formulations of integrated guidance and control with constraints]," 
+International Journal of Aeronautical and Space Sciences, vol.21, issue 3, pp.826-835, 2020.
+
+- J. Park, Y. Kim, and J.-H. Kim, "[https://doi.org/10.3390/s20113143 Integrated guidance and control using model predictive control with flight path angle prediction against pull-up maneuvering target]," Sensors, 20(11), 3143, 2020.
+
+- V.-T. Do, S.-G. Lee, and J.-H. Kim, "[https://doi.org/10.1016/j.ymssp.2020.106866 Robust integral backstepping hierarchical sliding mode controller for a ballbot system]," Mechanical Systems and Signal Processing, vol.144, 2020.
+
+- J.-H. Kim, Y. Han, and I.H. Whang, 
+"[https://doi.org/10.1007/s42405-018-0048-9 
+Online $\ell_1$-regularized optimization for optical misalignment cancellation of strapdown seekers]," 
+International Journal of Aeronautical and Space Sciences, vol.19, issue 3, pp.711-717, 2018.
+
+- J.-H. Kim and I.H. Whang, 
+"[https://arc.aiaa.org/doi/10.2514/1.G003119 
+Augmented three-loop autopilot structure based on mixed sensitivity $H_\infty$ optimization]," 
+AIAA Journal of Guidance, Control, and Dynamics, vol.41, no.3, pp.748-753,  2018.
+
+- T.-H. Kim, J.-H. Kim, and P. Kim, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07291479 
+New guidance filter structure for homing missiles with strapdown IIR seeker]," 
+International Journal of Aeronautical and Space Sciences, vol.18, no.4, pp.757-766, 2017.
+
+- D. Lee, J.-H. Kim, and H.-L. Choi, 
+"[http://www.icas.org/ICAS_ARCHIVE/ICAS2016/data/papers/2016_0387_paper.pdf 
+Closed-form cooperative guidance law for two missiles with coupled terminal velocity constraints]," 
+in Proc. 30th Congress of the International Council of the Aeronautical Sciences, Sep. 2016.
+
+- J.-H. Kim, I.H. Whang, and B.M. Kim, 
+"[https://arc.aiaa.org/doi/abs/10.2514/1.G001699 
+Finite horizon integrated guidance and control for terminal homing in vertical plane]," 
+AIAA Journal of Guidance, Control, and Dynamics, vol.39, no.5, pp.1104-1112, 2016.
+
+- J.-H. Kim and S. Lall, 
+"[http://ieeexplore.ieee.org/abstract/document/6980067/ 
+Explicit solutions to separable problems in optimal cooperative control],"
+IEEE Transactions on Automatic Control, vol.60, no.5, pp.1304-1319, 2015.
+
+- J.-H. Kim, S. Lall, and C.-K. Ryoo, 
+"[http://ieeexplore.ieee.org/abstract/document/6426588/ 
+Optimal cooperative control of dynamically decoupled systems],"
+in Proc. 51st IEEE Conference on Decision and Control, pp.4852-4857, Dec. 2012.
+
+- J.-H. Kim and S. Lall, 
+"[http://ieeexplore.ieee.org/abstract/document/6314980/
+Separable optimal cooperative control problems]," 
+in Proc. 2012 American Control Conference, pp.5868-5873, June 2012.
+
+- J.-H. Kim and S. Lall, 
+"[http://ieeexplore.ieee.org/abstract/document/6160503/ 
+A unifying condition for separable two player optimal control problems]," 
+in Proc. 50th IEEE Conference on Decision and Control, pp.3818-3823, Dec. 2011.
+
+- J.-H. Kim, S. Lall, W. Merrill, and A. Behbahani, 
+"[https://ieeexplore.ieee.org/abstract/document/5991006/
+Decentralized robust control via quadratically invariant model projection]," 
+in Proc. 2011 American Control Conference, pp.527-532, June 2011.
+
+- J.-H. Kim, S. Lall, W. Merrill, and A. Behbahani, 
+"[http://ieeexplore.ieee.org/abstract/document/5717161/ 
+A computational approach for decentralized control of turbine engines]," 
+in Proc. 49th IEEE Conference on Decision and Control, pp.346-351, Dec. 2010.
+
+- W. Merrill, J.-H. Kim, S. Lall, S. Majerus, D. Howe, and A. Behbahani, 
+"[https://arc.aiaa.org/doi/abs/10.2514/6.2010-6749 
+Distributed engine control design considerations]," 
+in Proc. 46th AIAA\/ASME\/SAE\/ASEE Joint Propulsion Conference & Exhibit, July 2010.
+
+- J.-H. Kim, M. West, S. Lall, E. Scholte, and A. Banaszuk, 
+"[http://ieeexplore.ieee.org/abstract/document/4739252/ 
+Stochastic multiscale approaches to consensus problems]," 
+in Proc. 47th IEEE Conference on Decision and Control, pp.5551-5557, Dec. 2008.
+
+- J.-H. Kim, M. West, E. Scholte, and S. Narayanan, 
+"[http://ieeexplore.ieee.org/abstract/document/4586605/ 
+Multiscale consensus for decentralized estimation and its application to building systems]," 
+in Proc. 2008 American Control Conference, pp.888-893,
+June 2008.
+
+- J.-H. Kim and M.-J. Tahk, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01102113 
+Accelerated co-evolutionary algorithms]," 
+International Journal of Aeronautical and Space Sciences, vol.3, no.1, pp.50-60, May 2002.
+
+- J.-H. Kim, C.-S. Park, and M.-J. Tahk, "An accelerated co-evolutionary algorithm using neural
+networks," in Proc. 37th JSASS Aircraft Symposium, Tokyo, Japan, Oct. 1999.
+
+== Dissertations 
+
+- J.-H. Kim, 
+"[https://searchworks.stanford.edu/view/9623094 
+Separable problems in optimal cooperative control of networked systems]", 
+Ph.D. Dissertation, Stanford University, 2012.
+
+- J.-H. Kim, 
+"[http://koasas.kaist.ac.kr/handle/10203/26873 
+An accelerated co-evolutionary algorithm and its application to attitude control design of flexible satellites]", 
+M.S. Dissertation, KAIST, 2001.
+
+== Patents
+
+- J.-H. Kim, J.-H. Cho, D.-H. Kim, and B. Yoon, [https://patents.google.com/patent/KR102173012B1 Apparatus, method, computer-readable storage medium and computer program for generating image of synthetic aperture radar based on compressed sensing], KR Patent KR102173012B1, issued Nov. 2nd, 2020.
+
+- T.-H. Kim and J.-H. Kim, [https://patents.google.com/patent/KR101989525B1/ko Two-axes gimbaled RF seeker and method for estimating guidance filter model], KR Patent KR101989525B1, issued June 14th, 2019.
+
+- J.-H. Kim, I.H. Whang, B.M. Kim, and H.R. Park, [https://patents.google.com/patent/KR101602311B1/ko Terminal homing method for flight vehicle and apparatus thereof], KR Patent KR101602311B1, issued March 10, 2016.
+
+== Articles in Korean
+
+- D.-U. Kim, C. Choi, J. Shin, and J.-H. Kim, "[https://doi.org/10.5302/J.ICROS.2025.25.0069 Multi-agent Path Optimization Using MMD*L and SCP With Terrain Information]," Journal of Institute of Control, Robotics and Systems, vol.31, no.9, pp.1073-1081, 2025.
+
+- N.-Y. Kim, H.-J. Kim, J.-H. Kim, H. Cho, and C.-K. Ryoo, "[https://doi.org/10.5139/JKSAS.2025.53.7.695 Assessment of Probable Loss and Casualty for Space Launch Vehicle Failure]," Journal of Korean Society for Aeronautical and Space Sciences, vol.53, no.7, pp.695-707, 2025.
+
+- H.J. Gu, Y.-J. Kim. and J.-H. Kim, "[https://doi.org/10.5139/JKSAS.2025.53.5.513 Entry Interface Envelope Evaluation for Reusable Spaceplanes Using Sequential Convex Programming]," Journal of Korean Society for Aeronautical and Space Sciences, vol.53, no.5, pp.513-526, 2025.
+
+- G. Park, S. Lee, H. Ryu, and J.-H. Kim, "[https://doi.org/10.5302/J.ICROS.2024.24.0183 A First-order Optimization Method for Cooperative Collision-free Trajectory Design for Multiple Unmanned Aerial Vehicles]," Journal of Institute of Control, Robotics and Systems, vol.30, no.12, pp.1365-1372, 2024.
+
+- Y.-J. Hwang, H.-M. Jeon, Y.-D. Jung, and J.-H. Kim, "[http://doi.org/10.5139/JKSAS.2024.52.11.927 Emergency Soft Landing Trajectory Design for Multi-Rotor Vehicles Under Rotor Failures]," Journal of Korean Society for Aeronautical and Space Sciences, vol.52, no.11, pp.927-935, 2024.
+
+- J. Kim, G. Park, J. Choi, and J.-H. Kim, "[http://doi.org/10.5139/JKSAS.2024.52.10.809 Triangulation-based LOS Rate Estimation for Two-player Missile Team]," Journal of Korean Society for Aeronautical and Space Sciences, vol.52, no.10, pp.809-816, 2024.
+
+- J. Choi, J. Kim, and J.-H. Kim, "[http://doi.org/10.5139/JKSAS.2024.52.8.645 Lightweight Transformer Design for Real-time Flight Control Data Prediction]," Journal of Korean Society for Aeronautical and Space Sciences, vol.52, no.8, pp.645-653, 2024.
+
+- M. Rahimy, S.-J. Kim, D. Kim, J.-H. Kim, and K. Choi, "[https://doi.org/10.5139/JKSAS.2024.52.4.333 Development of an Advanced Pilot Assistant System Based on Multiple Surveillance Sensor and Deep Learning for GA Class Aircraft PartⅡ System Configuration and Flight Test]," Journal of Korean Society for Aeronautical and Space Sciences, vol.52, no.4, pp.333-343, 2024.
+
+- M. Rahimy, S.-J. Kim, J.-H. Kim, and K. Choi, "[https://doi.org/10.5139/JKSAS.2024.52.4.323 Development of an Advanced Pilot Assistant System Based on Multiple Surveillance Sensor and Deep Learning for GA Class Aircraft Part I Algorithm Development and Validation]," Journal of Korean Society for Aeronautical and Space Sciences, vol.52, no.4, pp.323-331, 2024.
+
+- D. Kim, G. Park, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813607 A Distributed Optimization Technique for Optimal Formation Flight]," in Proc. 2024 KSAS Spring Conference, pp.227-228, Apr. 2024.
+
+- J. Lee, G. Park, J.-H. Kim, and H. Ryu, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813610 Optimal Collision Avoidance Trajectory Design via Convex-Concave Procedure]," in Proc. 2024 KSAS Spring Conference, pp.233-234, Apr. 2024.
+
+- J. Choi and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813750 Lightweight Transformer Design for Time-series Data Prediction]," in Proc. 2024 KSAS Spring Conference, pp.520-521, Apr. 2024.
+
+- H.D. Choi, H.-M. Jeon, C.-K. Ryoo, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813874 Launch Point Estimation Using Automatic Differentiation on Inverse Problems]," in Proc. 2024 KSAS Spring Conference, pp.787-788, Apr. 2024.
+
+- H.J. Gu, G. Park. and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813880 Capture Region Determination for PPN Guided Missile with Limited Maneuverability]," in Proc. 2024 KSAS Spring Conference, pp.800-801, Apr. 2024.
+
+- J. Choi and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813885 Consensus-type Alternating Direction Method of Multipliers for Optimal Powered Descent Guidance]," in Proc. 2024 KSAS Spring Conference, pp.810-811, Apr. 2024.
+
+- J. Kim, H.-J. Kim, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813887 Convex Optimization-Based Control Allocation for Attitude Control with On-off Thrusters]," in Proc. 2024 KSAS Spring Conference, pp.814-815, Apr. 2024.
+
+- J.-H. Shin, J. Choi, Y.-J. Kim, J. Choi, S.-H. Mok, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813892 Optimal Spacecraft Attitude Control via Sequential Convex Programming]," in Proc. 2024 KSAS Spring Conference, pp.825-826, Apr. 2024.
+
+- J. Choi, Y.-J. Kim, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813895 Transfer Orbit Optimization via First-Order Methods]," in Proc. 2024 KSAS Spring Conference, pp.831-833, Apr. 2024.
+
+- J.H. Park, D.H. Lee, D. Jeong, M.S. Jeong, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11814236 Guidance algorithm verification in an indoor flight arena]," in Proc. 2024 KSAS Spring Conference, pp.1359-1360, Apr. 2024.
+
+- G. Park, D. H. Jeong, and J.-H. Kim, "[https://doi.org/10.5302/J.ICROS.2023.23.0075 Optimal impact angle guidance via numerical optimization under non-convex constraints]," Journal of Institute of Control, Robotics and Systems, vol.29, no.8, pp.679-685, 2023.
+
+- Y.-J. Kim, J.-H. Cho, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11622732 Transfer orbit optimization for re-entry flight of reusable spacecraft]," in Proc. 2023 KSAS Space Conference, pp.95-96, June 2023.
+
+- H.S. Hwang, S. Song, H.J. Kim, H.M. Jean, J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11622993 Learning-based filter optimization for reusable launch vehicles]," in Proc. 2023 KSAS Space Conference, pp.335-335, June 2023.
+
+- J. Choi, J.-H. Cho, and J.-H. Kim, "[./papers/2023_ksiam_jwc_final.pdf A first order method with nonconvex projection for optimal powered-descent guidance]," in Proc. 2023 KSIAM Spring Conference, pp.80-81, May 2023.
+
+- Y.-J. Kim, J.-H. Cho, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11439101 Optimal re-entry trajectory and entry interface region for spacecraft]," in Proc. 2023 KSAS Spring Conference, pp.260-261, Apr. 2023.
+
+- J. Choi, D.-H. Lee, S. Lee, Y.-J. Kim, N. Kim, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11439082 An ADMM-based optimal guidance for reusable launch vehicle and its flight validation]," in Proc. 2023 KSAS Spring Conference, pp.222-223, Apr. 2023.
+
+- H.-Y. Jeon, J. Choi, J.-H. Cho, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11439588 Time-series flight data prediction using transformer]," in Proc. 2023 KSAS Spring Conference, pp.1112-1113, Apr. 2023.
+
+- J. Lee, D. Kim, H. Jeon, J.-H. Kim, K. Choi, and I. Lee, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11439364 Design of avionics system and HILS for reusable launch vehicle Integrated Test]," in Proc. 2023 KSAS Spring Conference, pp.823-824, Apr. 2023.
+
+- S. Lee, G. Park, N. Kim, J.-H. Kim, and H. Ryu, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11439074 A speed profile optimization solver for cooperative missions of multiple UAVs]," in Proc. 2023 KSAS Spring Conference, pp.205-206, Apr. 2023.
+
+- T.-H. Kim, T.Y. Kang, J.-G. Lee, J.-H. Kim, and C.-K. Ryoo, "[https://doi.org/10.5139/JKSAS.2022.50.11.763 Multiple drones collision avoidance in path segment using speed profile optimization]," Journal of Korean Society for Aeronautical and Space Sciences, vol.50, no.11, pp.763-770, 2022.
+
+- J.-H. Cho and J.-H. Kim, "[https://doi.org/10.5302/J.ICROS.2022.22.0132 A proximal mapping method for TSP]," Journal of Institute of Control, Robotics and Systems, vol.28, no.12, pp.1103-1108, 2022.
+
+- J.-H. Cho, J.A. Song, S. Kim, J.-H. Kim, K. Choi, and C.J. Chung, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11181217 Multiple UAV mission assignment under various mission elements]," in Proc. 2022 KSAS Fall Conference, pp.1429-1430, Nov. 2022.
+
+- Y.-J. Hwang, M. Rahimy, J.-H. Kim, and K. Choi, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11181215 Experimental verification of aircraft collision avoidance algorithm on embedded computing platform]," in Proc. 2022 KSAS Fall Conference, pp.1425-1426, Nov. 2022.
+
+- J.-W. Choi, Y.-J. Kim, N.-Y. Kim, H.-K. Oh, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11181211 Optimal soft-landing guidance for lunar lander using proximal gradient method]," in Proc. 2022 KSAS Fall Conference, pp.1417-1418, Nov. 2022.
+
+- J.-W. Choi, H.-Y. Jeon, J.-H. Cho, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11181210 Time-series flight data prediction using autoregressive model]," in Proc. 2022 KSAS Fall Conference, pp.1415-1416, Nov. 2022.
+
+- Y.-J. Kim, N.-Y. Kim, J.-W. Choi, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11181196 Robust homography estimation via nonconvex sparse regression]," in Proc. 2022 KSAS Fall Conference, pp.1382-1383, Nov. 2022.
+
+- S. Lee, G. Park, J.-H. Kim, and H. Ryu, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11181194 Speed profile optimization for multiple UAV cooperative missions]," in Proc. 2022 KSAS Fall Conference, pp.1378-1379, Nov. 2022.
+
+- J.A. Song, J.-H. Cho, S. Kim, J.-H. Kim, and K. Choi, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11076884 Mission assignment for multiple heterogeneous UAVs considering survivability]," in Proc. 2022 KSAS Spring Conference, pp.444-445, Apr. 2022.
+
+- H.Y. Jeon, J.-H. Cho, and J.-H. Kim, "[https://doi.org/10.5139/JKSAS.2022.50.4.251 Optimal soft landing guidance and attitude control for reusable launch vehicles]," Journal of Korean Society for Aeronautical and Space Sciences, vol.50, no.4, pp.251-257, 2022.
+
+- J.-H. Cho, Y. Kim, C.-H. Lee, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11031810 Flight anomaly detection using support vector machines]," in Proc. 2021 KSAS Fall Conference, pp.1181-1182, Nov. 2021.
+
+- H.Y. Jeon and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11031809 Landing gudiance and control allocation for reusable launch vehicles]," in Proc. 2021 KSAS Fall Conference, pp.1179-1188, Nov. 2021.
+
+- Y.-J. Hwang, J.-H. Cho, J.-H. Kim, and Y.-D. Jung, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11031808 Integrated guidance and control for emergency landing of multi-rotor vehicles]," in Proc. 2021 KSAS Fall Conference, pp.1177-1178, Nov. 2021.
+
+- G. Park and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11031812 Optimal collision avoidance trajectory design for unmanned aerial vehicles]," in Proc. 2021 KSAS Fall Conference, pp.1185-1186, Nov. 2021.
+
+- K.-W. Park and J.-H. Kim, "[https://doi.org/10.5302/J.ICROS.2021.21.0034 Aircraft collision avoidance modeling and optimization using deep reinforcement learning]," Journal of Institute of Control, Robotics and Systems, vol.27, no.9, pp.652-659, 2021.
+
+- G. Park, S.-Y. Lee, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547658 ADMM-based control allocation for kill vehicle guidance]," in Proc. Symposium of the Korean Institute of Communications and Information Sciences, pp.571-572, Feb. 2021.
+
+- K.-M. Kang, Y.-J Hwang, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547659 Dynamic model inference through real-time flight data]," in Proc. Symposium of the Korean Institute of Communications and Information Sciences, pp.573-574, Feb. 2021.
+
+- K.-W. Park and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547611 Policy network for aircraft collision avoidance modeling via immitation learning]," in Proc. Symposium of the Korean Institute of Communications and Information Sciences, pp.468-470, Feb. 2021.
+
+- C.-H. Lee, J.-M. Ahn, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10546486 A Study on guidance algorithm for reusable launch vehicles]," in Proc. 2020 KSPE Fall Conference, pp.251-252, Nov. 2020.
+
+- J.-H. Cho, K.-M. Kang, J.-H. Kim, and B. Yoon, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10442111 Decentralized method for compressed sensing on radar imaging],"
+in Proc. 2020 KSAS Spring Conference, pp.243-244, July 2020.
+
+- H.Y. Jeon, J.-H. Cho, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10442211 Impact of different objective functions on pinpoint landing trajectories],"
+in Proc. 2020 KSAS Spring Conference, pp.452-453, July 2020.
+
+- Y.-J. Hwang, S.-Y. Lee, J.-H. Kim, and Y.-D. Jung, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10442101 Convex optimization based control allocation for multi-rotor UAVs]," 
+in Proc. 2020 KSAS Spring Conference, pp.220-221, July 2020.
+
+- J.H. Kang, J.-H. Kim, Y.H. Kim, and J.Y. Kim, "[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09410455 Large-scale optimization techniques for sharp computer-generated holography]," in Proc. 2020 ICROS conference, pp.314-315, July 2020.
+
+- D.H. Jeong, J.-H. Cho, and J.-H. Kim, "[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09410559 Real-time image in-painting via TV function minimization]," in Proc. 2020 ICROS conference, pp.533-534, July 2020.
+
+- C.-H. Lee, J.-M. Ahn, and J.-H. Kim, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09332390 A Study on reentry and landing for reusable launch vehicles]," in Proc. 2019 KSPE Fall Conference, pp.329-330, Nov. 2019.
+
+- J.-H. Ryu, K. Park, and J.-H. Kim, "[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09317849 Aircraft collision avoidance via domain-knowledge aided reinforcement learning],"
+in Proc. 2019 KSAS Fall Conference, pp.236-237, Nov. 2019.
+
+- J.-H. Cho, J.-H. Kang, J.-H. Kim, and B. Yoon, "[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09317845 TV-function regularized compressed sensing on radar imaging],"
+in Proc. 2019 KSAS Fall Conference, pp.228-229, Nov. 2019.
+
+- J.-H. Cho, J.-H. Kim, J. Park, and T.-H. Kim, "[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08753026  A Numerical solution to integrated guidance and control under state constraints],"
+in Proc. 2019 KSAS Spring Conference, pp.141-142, April 2019.
+
+- J.-H. Kim, T.-H. Kim, and B.-E. Jun, "[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07482948  Target shape identification based on unsupervised learning]," 
+Journal of Institute of Control, Robotics and Systems, vol.24, no.7, pp.655-660, 2018.
+
+- J.-H. Kim, Y. Han, and I.H. Whang, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07208075 
+Optical misalignment cancellation via online $\ell_1$ optimization],"
+Transactions of the Korean Institute of Electrical Engineers, vol.66, no. 7, pp.1078-1082, 2017.
+
+- I.H. Whang, B.M. Kim, J.-H. Kim, H.-S. Kim, and D.G. Sang,
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07261445
+Relative range estimation using homing trajectory],"
+in Proc. 2017 Conference on Information and Control Systems, pp.314-315, Oct. 2017.
+
+- B.M. Kim, H.-S. Kim, J.-H. Kim, and I.H. Whang, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07232759 
+Adaptive controller for the uniformization of time response]," 
+in Proc. 2017 KIEE Summer Conference, pp.1422-1423, July 2017.
+
+- I.H. Whang, H.R. Park, B.M. Kim, J.-H. Kim, and H.-S. Kim 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07232758 
+Optimal initialization for roll controller]," 
+in Proc. 2017 KIEE Summer Conference, pp.1420-1421, July 2017.
+
+- I.H. Whang, H.R. Park, B.M. Kim, and J.-H. Kim, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07186105 
+Optimal initiation for 3-loop roll regulator]," 
+in Proc. 32nd ICROS Annual Conference, pp.95-96, May 2017.
+
+- I.S. Kim, J.-H. Kim, and H.-L. Choi 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07188667 
+Nonclassical Optimal guidance laws based on nonclassical penalty functions]," 
+in Proc. 2017 KSAS Spring Conference, pp.242-243, April 2017.
+
+- I.H. Whang, J.-H. Kim, B.M. Kim, and H.R. Park, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07011914 
+Statistical decision making for random fault correction]," 
+in Proc. 2016 KIEE Summer Conference, pp.1450-1451, July 2016.
+
+- B.M. Kim, J.-H. Kim, D.K. Sang, and I.H. Whang, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06294820 
+Performance comparison of the PI roll attitude controller and the 3-loop roll attitude controller]," 
+in Proc. 2014 KSAS Autumn Conference, pp.1414-1417, Nov. 2014.
+
+- I.H. Whang, J.-H. Kim, and B.M. Kim, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06555732 
+A study on performance degradation due to measurement mismatches]," 
+in Proc. 2014 KIEE Summer Conference, pp.1482-1483, July 2014.
+
+- J.-H. Kim, I.H. Whang, and B.M. Kim, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06092858 
+Finite horizon integrated guidance and control for terminal homing]," 
+in Proc. 2013 Conference on Information and Control Systems, pp.135-136, Oct. 2013.
+
+- I.H. Whang, S.J. Kim, J.-H. Kim, and B.M. Kim, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06092856 
+Speed-height target curve following controller design]," 
+in Proc. 2013 Conference on Information and Control Systems, pp.131-132, Oct. 2013.
+
+- B.M. Kim, I.H. Whang, and J.-H. Kim, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02277673 
+Mixed aerodynamic and thrust vector control design using the dual PCH logic]," 
+in Proc. 2013 Conference on Information and Control Systems, pp.129-130, Oct. 2013.
+
+- I.H. Whang, B.M. Kim, and J.-H. Kim, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02310788 
+Terminal guidance design using adaptive biased proportional navigation law]," 
+in Proc. 2013 KIEE Summer Conference, pp.1639-1640, July 2013.
+
+- J.-H. Kim, S. Lall, and C.-K. Ryoo, "Optimal salvo guidance under fixed communication topology,"
+in Proc. 16th Missile Systems Conference, Oct. 2012.
+
+- C.-K. Ryoo, M.-J. Tahk, and J.-H. Kim, 
+"[http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=HGJHBY_2004_v32n6_72 
+Trajectory optimization and guidance of terminal velocity constrained missiles]," 
+Journal of the Korean Society for Aeronautical & Space Sciences, vol.32, no.6, pp.72-80, 2004.
+
+- K.-R. Choi, J.-H. Kim, J.-Y. Ahn, and M.-J. Tahk, "Controller design by using CEALM optimization
+techniques," in Proc. 11th Missile Systems Conference, Oct. 2001.
+
+- H.-W. Lee, J.-H. Kim, M.-J. Tahk, and D.-J. Park, 
+"[http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01946394 
+Verification and validation of attitude control subsystems of KITSAT series satellites]," 
+ICASE Magazine, vol.6, no.5, pp.31-37, 2000.
+
