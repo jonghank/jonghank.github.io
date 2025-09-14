@@ -42,10 +42,7 @@
 
 == Lecture Notes
 /The link directs to the associated Jupyter notebook, which opens on Google Colaboratory when the “Open in Colab” button is clicked./
-. [https://nbviewer.org/gist/jonghank/5150b77e902c277c1fc436dfa0e5a4bf A very short Python review]
-. [https://nbviewer.org/gist/jonghank/ddee2cb6ba9df9de49e3194a436eb44e Numpy module]
-. [https://nbviewer.org/gist/jonghank/a18dd927372b50fab3e988dd196f8a32 Matplotlib module]
-. [https://nbviewer.org/gist/jonghank/07154efa2ebabc425628f7f71e122f11 Pandas module] (Files: [./ase3001/files/kfxsim.csv kfxsim.csv])
+. [https://nbviewer.org/gist/jonghank/5150b77e902c277c1fc436dfa0e5a4bf A very short Python review] with [https://nbviewer.org/gist/jonghank/ddee2cb6ba9df9de49e3194a436eb44e Numpy], [https://nbviewer.org/gist/jonghank/a18dd927372b50fab3e988dd196f8a32 Matplotlib], and [https://nbviewer.org/gist/jonghank/07154efa2ebabc425628f7f71e122f11 Pandas] modules (Files: [./ase3001/files/kfxsim.csv kfxsim.csv])
 . [https://nbviewer.org/gist/jonghank/54bcb837296a6fb5e64a475cd440261d Differential equations and dynamical systems]
 . [https://nbviewer.org/gist/jonghank/b3c65dfb09db4401893dda568018ebc1 Image processing]
 . [https://nbviewer.org/gist/jonghank/125b820cde8593a515b8cce46bf0f11a Monte-Carlo methods]
