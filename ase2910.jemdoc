@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{ase2910.html}, notime
-= ASE2910: Applied Linear Algebra
+= ASE2910: Applied Linear Algebra / AUS2910: Fundamental Math for AI
 [http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2025 
 
 ~~~
@@ -64,7 +64,7 @@
 . [./ase2910/vmls-slides-17-constrained-least-squares-applications.pdf Constrained least squares applications]
 
 == Assignments
-#. [./ase2910/files/hw1_2024.pdf HW\#1] (due 9\/27)
+. [./ase2910/files/ase2910_hw1_2025a.pdf HW\#1] (due 9\/23)
 #. [./ase2910/files/hw2_2024.pdf HW\#2] (due 10\/8)
 #. [./ase2910/files/hw3_2024.pdf HW\#3] (due 10\/22)
 #. [./ase2910/files/hw4_2024.pdf HW\#4] (due 10\/29)
