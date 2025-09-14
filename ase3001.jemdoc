@@ -47,6 +47,7 @@
 . [https://nbviewer.org/gist/jonghank/a18dd927372b50fab3e988dd196f8a32 Matplotlib module]
 . [https://nbviewer.org/gist/jonghank/07154efa2ebabc425628f7f71e122f11 Pandas module] (Files: [./ase3001/files/kfxsim.csv kfxsim.csv])
 . [https://nbviewer.org/gist/jonghank/54bcb837296a6fb5e64a475cd440261d Differential equations and dynamical systems]
+. [https://nbviewer.org/gist/jonghank/b3c65dfb09db4401893dda568018ebc1 Image processing]
 . [https://nbviewer.org/gist/jonghank/125b820cde8593a515b8cce46bf0f11a Monte-Carlo methods]
 . [https://nbviewer.org/gist/jonghank/5b6d32663edf4a6d99edea4e4bccd5d3 Discrete Fourier transform]
 . [https://nbviewer.org/gist/jonghank/d16fb300a80f4b413bff4b921508a81a Bayesian inference]
@@ -54,7 +55,6 @@
 . [https://nbviewer.org/gist/jonghank/3d77eb8c11808c54e39057e569534f16 Optimization]
 . [https://nbviewer.org/gist/jonghank/eb9b8d4ea942d6e1dd61cab6df208cbd Control design]
 . [https://nbviewer.org/gist/jonghank/748ae5b98bce948d4f65f168bcf20dfd Rocket guidance]
-. [https://nbviewer.org/gist/jonghank/b3c65dfb09db4401893dda568018ebc1 Image processing]
 . [https://nbviewer.org/gist/jonghank/595e383799257c34202eb7c7d293d415 Machine learning]
 . [https://nbviewer.org/gist/jonghank/17562f24548301b5b3aff17f0600f599 Deep learning]
 #. Other high level languages (Polynomial fit [https://nbviewer.jupyter.org/gist/jonghank/8626d14bc5cdba949d7d7b2fdc019d87 in python], in julia([./ee370/files/Ex_Polynomial_fit_julia.html .html]/[./ee370/files/Ex_Polynomial_fit_julia.ipynb .ipynb]), [./ee370/files/Ex_Polynomial_fit_matlab.m in matlab], and the data file [./ee370/files/fit_data.csv fit_data.csv])
@@ -65,7 +65,7 @@
 
 . [https://nbviewer.org/gist/jonghank/fbfc351eb240471aa58435c3c25b78f2 Warm-up data exploration and visualization] (due 9\/10)
 . [https://nbviewer.org/gist/jonghank/b7afa53266cfeedb0e9f4e15ea3d3b7a Numerical simulation] (due 9\/17)
-
+. [https://nbviewer.org/gist/jonghank/d76c348175c919025b200a4b9fef19a7 Image filtering] (due 9\/24)
 #. [https://nbviewer.org/gist/jonghank/c1d48bd8d11fe8daf87ab07a9f51feea An eigenvalue algorithm] (due 9\/16)
 #. [https://nbviewer.org/gist/jonghank/cdfedc59dff0a076bf1fe02887c48fb2 Google PageRank] (due 9\/23)
 #. [https://nbviewer.org/gist/jonghank/3671968dd9566f061abb4b675744fc45 Rocket trajectories] (due  9\/30)
@@ -76,7 +76,6 @@
 #. [https://nbviewer.org/gist/jonghank/9682d7355a7ac917d81bca3d027adeb4 Optimal planetary landing] (due 11\/11)
 #. [https://nbviewer.org/gist/jonghank/dd7a04f28a135a807bd647522324ecab Segway control] (due 11\/18)
 #. [https://nbviewer.org/gist/jonghank/38c26ee23fd82cd1c1d1d4c6346bfae4 Proportional navigation in 3D space] (due 11\/25)
-#. [https://nbviewer.org/gist/jonghank/d76c348175c919025b200a4b9fef19a7 Image filtering] (due 12\/2)
 #. [https://nbviewer.org/gist/jonghank/61425e8e379c62cf8a529ebb02ab5edb Soft landing success predictor] (due 12\/9)
 #. [https://nbviewer.org/gist/jonghank/5191016affb1322f445a2ff9f07ec64d Unsupervised classifiers] (due 12\/16)
 
