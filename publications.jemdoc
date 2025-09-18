@@ -9,11 +9,11 @@
 
 - J.-S. Park, G.-H. Kim, H.-H. Kwon, and J.-H. Kim, "Huber-Based Asynchronous Fusion Filter for Robust Multi-Rate Sensor Processing," International Journal of Control, Automation, and Systems (accepted for publication).
 
-- J. Choi and J.-H. Kim, "[http://doi.org/10.1109/LCSYS.2025.3578571 LiftProj: Physics-Informed Koopman Lifting and Projection for Nonlinear Optimal Control via First-Order Optimization]," IEEE Control Systems Letters, vol. 9, pp. 817-822, 2025. Also presented at the IEEE Conference on Decision and Control (CDC), Dec. 2025.
+- J. Choi and J.-H. Kim, "[http://doi.org/10.1109/LCSYS.2025.3578571 LiftProj: Physics-Informed Koopman Lifting and Projection for Nonlinear Optimal Control via First-Order Optimization]," IEEE Control Systems Letters, vol.9, pp.817-822, 2025. Also presented at the IEEE Conference on Decision and Control (CDC), Dec. 2025.
 
-- S. Lee, G. Park, J.-J. Lee, H. Ryu, and J.-H. Kim, "[https://doi.org/10.1007/s42405-025-00911-z Velocity Profile Optimization for Multiple UAVs Collision-Free Mission Planning]," International Journal of Aeronautical and Space Sciences, 2025.
+- S. Lee, G. Park, J.-J. Lee, H. Ryu, and J.-H. Kim, "[https://doi.org/10.1007/s42405-025-00911-z Velocity Profile Optimization for Multiple UAVs Collision-Free Mission Planning]," International Journal of Aeronautical and Space Sciences, vol.26, pp.2535–2546, 2025.
 
-- J. Kim, and J.-H. Kim, "[https://doi.org/10.1007/s42405-025-00904-y Spacecraft Attitude Control with On-Off Thrusters via Convex Optimization Based Control Allocation]," International Journal of Aeronautical and Space Sciences, 2025.
+- J. Kim, and J.-H. Kim, "[https://doi.org/10.1007/s42405-025-00904-y Spacecraft Attitude Control with On-Off Thrusters via Convex Optimization Based Control Allocation]," International Journal of Aeronautical and Space Sciences, vol.26, pp.2695-2711, 2025.
 
 - J. Choi and J.-H. Kim, "[https://arc.aiaa.org/doi/10.2514/6.2025-1507 A Distributed Method for First-Order Optimization with Expansive Projection for Powered Descent Guidance]," AIAA SciTech 2025 Forum, AIAA 2025-1507, Jan. 2025.
 
@@ -23,7 +23,7 @@
 
 - G. Park, J. Choi, D.H. Jeong, and J.-H. Kim, "[http://doi.org/10.23919/ACC60939.2024.10644186 Optimal Impact Angle Guidance via First-Order Optimization Under Nonconvex Constraints]," In Proc. 2024 American Control Conference (ACC), pp.778-784. July 2024.
 
-- J. Choi and J.-H. Kim. "[https://doi.org/10.1109/ACCESS.2024.3381620 Powered Descent Guidance via First-Order Optimization with Expansive Projection]," IEEE Access, vol. 12, pp. 46232-46240. 2024.
+- J. Choi and J.-H. Kim. "[https://doi.org/10.1109/ACCESS.2024.3381620 Powered Descent Guidance via First-Order Optimization with Expansive Projection]," IEEE Access, vol.12, pp.46232-46240. 2024.
 
 - Y.-J. Hwang, H.-M. Jeon, Y.-D. Jung, and J.-H. Kim, "[./papers/2022_apisat_yjh_final.pdf Emergency Soft Landing Trajectory Design for Multirotor Vehicles Under Rotor Failures]," in Proc. the 2022 Asia-Pacific International Symposium on Aerospace Technology (APISAT), Oct. 2022.
 
@@ -31,11 +31,11 @@
 
 - G. Park, J.-H. Cho, and J.-H. Kim, "[./papers/2022_ascc_gbp_final.pdf Large Divert Computational Guidance for Exoatmospheric Vehicles]," in Proc. the 13th Asian Control Conference (ASCC), May 2022.
 
-- J. Park, Y. Jung, and J.-H. Kim, "[http://dx.doi.org/10.1007/s12555-021-0729-1 Multiclass Classification Fault Diagnosis of Multirotor UAVs Utilizing a Deep Neural Network]," International Journal of Control, Automation, and Systems, vol.20, issue 4, pp. 1316-1326, 2022.
+- J. Park, Y. Jung, and J.-H. Kim, "[http://dx.doi.org/10.1007/s12555-021-0729-1 Multiclass Classification Fault Diagnosis of Multirotor UAVs Utilizing a Deep Neural Network]," International Journal of Control, Automation, and Systems, vol.20, issue 4, pp.1316-1326, 2022.
 
 - J. Lee, H. Kim, K.-W. Park, J.-H. Kim, and S. Kim, "[https://ieeexplore.ieee.org/document/9525032 Expressions for Resonant Frequency of Wirelessly Accessible Planar Mirrored-coil Sensor in Biomedicine]," IEEE Transactions on Microwave Theory and Techniques, vol.70, issue 1, pp.556-564, 2022.
 
-- J. Park, J.-H. Kim, and Y. Jung, "[https://doi.org/10.1109/MED51440.2021.9480214 Binary Classification Fault Diagnosis for Octocopter Using Deep Neural Network]," in Proc. 29th Mediterranean Conference on Control and Automation (MED), pp. 121-125, June 2021.
+- J. Park, J.-H. Kim, and Y. Jung, "[https://doi.org/10.1109/MED51440.2021.9480214 Binary Classification Fault Diagnosis for Octocopter Using Deep Neural Network]," in Proc. 29th Mediterranean Conference on Control and Automation (MED), pp.121-125, June 2021.
 
 - D. Lee, H.-L. Choi, and J.-H. Kim, "[https://doi.org/10.3390/s20174790 Optimal Cooperative Guidance Laws for Two UAVs Under Sensor Information Deficiency Constraints]," Sensors, 20(17), 4790, 2020.
 
