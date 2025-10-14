@@ -3,11 +3,15 @@
 
 == Articles 
 
+- J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," IEEE Transactions on Aerospace and Electronic Systems (under review).
+
+- Y.-J. Kim and J.-H. Kim, "Scalable Satellite‑Swarm Orbit Transfer via Distributed ADMM with Direct Projections for Nonconvex Constraints," Advances in Space Research (under review).
+
 - Y.-J. Kim, J. Choi, J. Choi, and J.-H. Kim, "A First-Order Approach for Nonlinear Optimal Control Under Nonconvex Constraints," Optimization and Engineering (under review).
 
 - J. Choi, D. Lee, and J.-H. Kim, "Neural Projection Operators for Real-Time 6-DoF Powered Descent Guidance," AIAA SciTech 2026 Forum, Jan. 2026 (accepted for presentation).
 
-- J.-S. Park, G.-H. Kim, H.-H. Kwon, and J.-H. Kim, "Huber-Based Asynchronous Fusion Filter for Robust Multi-Rate Sensor Processing," International Journal of Control, Automation, and Systems (accepted for publication).
+- J.-S. Park, G.-H. Kim, H.-H. Kwon, and J.-H. Kim, "[http://dx.doi.org/10.1007/s12555-025-0069-7 Huber-Based Asynchronous Fusion Filter for Robust Multi-Rate Sensor Processing]," International Journal of Control, Automation, and Systems, vol.23, issue 10, pp.2851-2867, 2025.
 
 - J. Choi and J.-H. Kim, "[http://doi.org/10.1109/LCSYS.2025.3578571 LiftProj: Physics-Informed Koopman Lifting and Projection for Nonlinear Optimal Control via First-Order Optimization]," IEEE Control Systems Letters, vol.9, pp.817-822, 2025. Also presented at the IEEE Conference on Decision and Control (CDC), Dec. 2025.
 
