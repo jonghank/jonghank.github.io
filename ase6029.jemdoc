@@ -55,7 +55,8 @@
 . [https://nbviewer.org/gist/jonghank/0dbba1edacbf5a95851eceb4a4b5dddd Eigenvectors and modes]
 . [https://nbviewer.org/gist/jonghank/3053a4b91be3cfe6ea4fd598157f2154 Impulse response]
 . [https://nbviewer.org/gist/jonghank/5a90f491606967ca81afe493dce7a7ad Least norm control]
-. [https://nbviewer.org/gist/jonghank/72755c4011ca00d6034a9a85a6b6cb09 Discrete LQR]
+#. [https://nbviewer.org/gist/jonghank/72755c4011ca00d6034a9a85a6b6cb09 Discrete LQR]
+. Discrete LQR
 . [https://nbviewer.org/gist/jonghank/0c73d97f01428c3e66e89d6dfc26729a Receding horizon control]
 . [https://nbviewer.org/gist/jonghank/407177fe2b79f1faf7d19d8a45a272f2 Infinite horizon LQR]
 . [https://nbviewer.org/gist/jonghank/b7353468663af353217dae27d01c400e Optimal guidance solutions]
