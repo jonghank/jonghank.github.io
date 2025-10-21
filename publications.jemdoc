@@ -3,6 +3,9 @@
 
 == Articles 
 
+- E. Cho and J.-H. Kim, "Warm-Started Physics-Informed Interior Point Methods for Inequality
+Constrained Optimal Control," 2026 European Control Conference (ECC) (under review).
+
 - J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," IEEE Transactions on Aerospace and Electronic Systems (under review).
 
 - Y.-J. Kim and J.-H. Kim, "Scalable Satellite‑Swarm Orbit Transfer via Distributed ADMM with Direct Projections for Nonconvex Constraints," Advances in Space Research (under review).
@@ -167,7 +170,7 @@ M.S. Dissertation, KAIST, 2001.
 
 - J. Kim, H.-J. Kim, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813887 Convex Optimization-Based Control Allocation for Attitude Control with On-off Thrusters]," in Proc. 2024 KSAS Spring Conference, pp.814-815, Apr. 2024.
 
-- J.-H. Shin, J. Choi, Y.-J. Kim, J. Choi, S.-H. Mok, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813892 Optimal Spacecraft Attitude Control via Sequential Convex Programming]," in Proc. 2024 KSAS Spring Conference, pp.825-826, Apr. 2024.
+- J. Shin, J. Choi, Y.-J. Kim, J. Choi, S.-H. Mok, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813892 Optimal Spacecraft Attitude Control via Sequential Convex Programming]," in Proc. 2024 KSAS Spring Conference, pp.825-826, Apr. 2024.
 
 - J. Choi, Y.-J. Kim, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813895 Transfer Orbit Optimization via First-Order Methods]," in Proc. 2024 KSAS Spring Conference, pp.831-833, Apr. 2024.
 
