@@ -49,7 +49,7 @@
 . [https://nbviewer.org/gist/jonghank/5b6d32663edf4a6d99edea4e4bccd5d3 Discrete Fourier transform]
 . [https://nbviewer.org/url/gist.githubusercontent.com/jonghank/6b926c1e226cf89f58fbd090f67e3e07/raw/326b35c52a565b5252cbe6983907905644aab874/08_bayesian_inference.ipynb Bayesian inference]
 . [https://nbviewer.org/url/gist.githubusercontent.com/jonghank/a6a3d3518ef00f4e404fee7dc33b986b/raw/9b58ac6503a8b83c861ca200b17630604d042e84/09_signal_processing_2025a.ipynb Signal processing]
-. [https://nbviewer.org/gist/jonghank/3d77eb8c11808c54e39057e569534f16 Optimization]
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/7dc4176a19ea33bdf31813d02a474790/raw/9095cabe8f12d207741eabf2b63910348ada01f2/10_optimization_2025a.ipynb Optimization]
 . [https://nbviewer.org/gist/jonghank/eb9b8d4ea942d6e1dd61cab6df208cbd Control design]
 . [https://nbviewer.org/gist/jonghank/748ae5b98bce948d4f65f168bcf20dfd Rocket guidance]
 . [https://nbviewer.org/gist/jonghank/595e383799257c34202eb7c7d293d415 Machine learning]
@@ -67,6 +67,7 @@
 . [https://nbviewer.org/gist/jonghank/db6fa2af44937ea9ca1f48e5e38300a8 No surprises] (due 10\/8)
 . [https://nbviewer.org/url/gist.githubusercontent.com/jonghank/11feebcb722fda4de72e46541fe2d414/raw/aa81a8a99692f124251fcc64cbe06c0e9a2165d8/ase3001_exercises_mobile_phone_localization_2025a.ipynb Mobile phone localization] (due 10\/22)
 . [https://nbviewer.org/url/gist.githubusercontent.com/jonghank/1188dbc126a671d366fed789e36ba2c1/raw/5db30e74f3044de93b982bc53a9b0cbd62ca97c5/ase3001_exercises_state-estimation_and_filtering_2025a.ipynb State estimation and filtering] (due 10\/29)
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/d41ef5fb515a336f79f19e804ab38c0c/raw/bd1b8b72e85d9a8c44ce3b6c753971f37f0db3bb/ase3001_exercises_optimal_planetary_landing_2025a.ipynb Optimal planetary landing] (due 11\/26)
 
 #. [https://nbviewer.org/gist/jonghank/c1d48bd8d11fe8daf87ab07a9f51feea An eigenvalue algorithm] (due 9\/16)
 #. [https://nbviewer.org/gist/jonghank/cdfedc59dff0a076bf1fe02887c48fb2 Google PageRank] (due 9\/23)
