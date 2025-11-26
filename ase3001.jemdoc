@@ -50,10 +50,10 @@
 . [https://nbviewer.org/url/gist.githubusercontent.com/jonghank/6b926c1e226cf89f58fbd090f67e3e07/raw/326b35c52a565b5252cbe6983907905644aab874/08_bayesian_inference.ipynb Bayesian inference]
 . [https://nbviewer.org/url/gist.githubusercontent.com/jonghank/a6a3d3518ef00f4e404fee7dc33b986b/raw/9b58ac6503a8b83c861ca200b17630604d042e84/09_signal_processing_2025a.ipynb Signal processing]
 . [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/7dc4176a19ea33bdf31813d02a474790/raw/9095cabe8f12d207741eabf2b63910348ada01f2/10_optimization_2025a.ipynb Optimization]
-. [https://nbviewer.org/gist/jonghank/eb9b8d4ea942d6e1dd61cab6df208cbd Control design]
-. [https://nbviewer.org/gist/jonghank/748ae5b98bce948d4f65f168bcf20dfd Rocket guidance]
-. [https://nbviewer.org/gist/jonghank/595e383799257c34202eb7c7d293d415 Machine learning]
-. [https://nbviewer.org/gist/jonghank/17562f24548301b5b3aff17f0600f599 Deep learning]
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/595e383799257c34202eb7c7d293d415/raw/09dc0bf9fc3dad14f0dae1e6478e3eadaabd6356/14_machine_learning.ipynb Machine learning]
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/17562f24548301b5b3aff17f0600f599/raw/255af10a0f1870f777c9e7923ff28bd80e4f3711/15_deep_learning.ipynb Deep learning]
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/eb9b8d4ea942d6e1dd61cab6df208cbd/raw/588ae7ccb4c168c8f7c244cf820b50f53d8d2adb/11_control_design.ipynb Control design]
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/748ae5b98bce948d4f65f168bcf20dfd/raw/d1dc07e66e5ea888e92d3e50fcd8a438c5562978/12_rocket_guidance.ipynb Rocket guidance]
 #. Other high level languages (Polynomial fit [https://nbviewer.jupyter.org/gist/jonghank/8626d14bc5cdba949d7d7b2fdc019d87 in python], in julia([./ee370/files/Ex_Polynomial_fit_julia.html .html]/[./ee370/files/Ex_Polynomial_fit_julia.ipynb .ipynb]), [./ee370/files/Ex_Polynomial_fit_matlab.m in matlab], and the data file [./ee370/files/fit_data.csv fit_data.csv])
 
 == Assignments
@@ -68,6 +68,10 @@
 . [https://nbviewer.org/url/gist.githubusercontent.com/jonghank/11feebcb722fda4de72e46541fe2d414/raw/aa81a8a99692f124251fcc64cbe06c0e9a2165d8/ase3001_exercises_mobile_phone_localization_2025a.ipynb Mobile phone localization] (due 10\/22)
 . [https://nbviewer.org/url/gist.githubusercontent.com/jonghank/1188dbc126a671d366fed789e36ba2c1/raw/5db30e74f3044de93b982bc53a9b0cbd62ca97c5/ase3001_exercises_state-estimation_and_filtering_2025a.ipynb State estimation and filtering] (due 10\/29)
 . [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/d41ef5fb515a336f79f19e804ab38c0c/raw/bd1b8b72e85d9a8c44ce3b6c753971f37f0db3bb/ase3001_exercises_optimal_planetary_landing_2025a.ipynb Optimal planetary landing] (due 11\/26)
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/b071fff5af4c1c4646e15e6c2dff1fb6/raw/53365995d7332f259dfd186aace26e87b1510d65/ase3001_exercises_predicting-remaining-life-of-nasa-turbofan-engines.ipynb Predicting remaining life of NASA turbofan engines] (due 12\/3)
+#. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/5191016affb1322f445a2ff9f07ec64d/raw/1ac0f2889b4f2bbcd0892dcdae2736b0fd8d889f/ase3001_exercises_unsupervised_classifiers.ipynb Unsupervised classifiers] (due 12\/10)
+#. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/dd7a04f28a135a807bd647522324ecab/raw/ae9eef9b650aa31f4a72931c88f77903fd652fb3/ase3001_exercises_segway_control_rev.ipynb Segway control] (due 12\/17)
+#. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/38c26ee23fd82cd1c1d1d4c6346bfae4/raw/1e7b4c31510b00331a093189225d42039ee1faf1/ase3001_exercises_proportional_navigation_3d.ipynb Proportional navigation in 3D space] (due 12\/24)
 
 #. [https://nbviewer.org/gist/jonghank/c1d48bd8d11fe8daf87ab07a9f51feea An eigenvalue algorithm] (due 9\/16)
 #. [https://nbviewer.org/gist/jonghank/cdfedc59dff0a076bf1fe02887c48fb2 Google PageRank] (due 9\/23)
@@ -77,8 +81,6 @@
 #. [https://nbviewer.org/gist/jonghank/33b03831bdb17b3004579f2b17863931 Mobile phone localization] (due 10\/21)
 #. [https://nbviewer.org/gist/jonghank/7d732ec933f38d324f5c34a0f948c1ba State estimation and filtering] (due 10\/28)
 #. [https://nbviewer.org/gist/jonghank/9682d7355a7ac917d81bca3d027adeb4 Optimal planetary landing] (due 11\/11)
-#. [https://nbviewer.org/gist/jonghank/dd7a04f28a135a807bd647522324ecab Segway control] (due 11\/18)
-#. [https://nbviewer.org/gist/jonghank/38c26ee23fd82cd1c1d1d4c6346bfae4 Proportional navigation in 3D space] (due 11\/25)
 #. [https://nbviewer.org/gist/jonghank/61425e8e379c62cf8a529ebb02ab5edb Soft landing success predictor] (due 12\/9)
 #. [https://nbviewer.org/gist/jonghank/5191016affb1322f445a2ff9f07ec64d Unsupervised classifiers] (due 12\/16)
 
