@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{ase3093.html}, notime
-= ASE3093: Automatic Control / AUS3204: Applied Control Engineering
-[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Spring 2026 
+= ASE3093: Automatic Control 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Spring 2025 
 
 ~~~
 == Announcements
-- Welcome to ASE3093: Automatic Control \& AUS3204: Applied Control Engineering.
+- Welcome to ASE3093: Automatic Control.
 - Lecture videos from several years back are [https://youtube.com/playlist?list=PL8mtGZRMha50yxaLmpAuuOgYc5UJnW1C2 here].
 ~~~
 
@@ -17,16 +17,16 @@ state space descriptions, classical control design techniques, stability margins
 
 *Instructors* 
 - Instructor: [jonghank@inha.ac.kr Jong-Han Kim] (Rm.507)
-- Head TA: [myeongsikJeong@inha.edu Myeongsik Jeong] (Rm.502)
-- TA: [juyeonlee@inha.edu Juyeon Lee] (Rm.502)
-- TA: [mjunshikpark@inha.edu Junshik Park] (Rm.502)
-- TA: [dongukl@inha.edu Donguk Lee] (Rm.502)
+- Head TA: [dongukkim@inha.edu Dong-Uk Kim] (Rm.502)
+- TA: [eunbyeeol@inha.edu Eunbyeol Cho] (Rm.502)
+- TA: [myeongsikJeong@inha.edu Myeongsik Jeong] (Rm.502)
+- TA: [dohoonlee@inha.edu Dohoon Lee] (Rm.502)
 
 *Lectures* 
-- Tue\/Thr 10:30-12:00 (Rm.217 @aerospace campus)
+- Tue\/Thr 10:30-11:45 (Rm.217 @aerospace campus)
 
 *Office hours*
-- JHK: Tue\/Thr 16:00-17:30 (Rm.507), or by appointments.
+- JHK: Tue\/Thr 17:30-19:00 (Rm.507), or by appointments.
 
 *Reference textbooks* \n
 - Feedback Control of Dynamic Systems, by Franklin, Powell, and Emami-Naeini, 8th ed.
@@ -71,14 +71,14 @@ state space descriptions, classical control design techniques, stability margins
 
 
 == Assignments
-/Homework assignments will be posted here occasionally./
+#/Homework assignments will be posted here occasionally./
 
-#. [./ase3093/2025s/hw1_2025.pdf Homework \#1] (due 4\/1)
-#. [./ase3093/2025s/hw2_2025.pdf Homework \#2] (due 4\/8)
-#. [./ase3093/2025s/hw3_2025.pdf Homework \#3] (due 4\/24)
-#. [./ase3093/2025s/hw4_2025.pdf Homework \#4] (due 6\/3)
-#. [./ase3093/2025s/hw5_2025.pdf Homework \#5] (due 6\/8)
-#. [./ase3093/2025s/hw6_2025.pdf Homework \#6] (due 6\/16)
+. [./ase3093/2025s/hw1_2025.pdf Homework \#1] (due 4\/1)
+. [./ase3093/2025s/hw2_2025.pdf Homework \#2] (due 4\/8)
+. [./ase3093/2025s/hw3_2025.pdf Homework \#3] (due 4\/24)
+. [./ase3093/2025s/hw4_2025.pdf Homework \#4] (due 6\/3)
+. [./ase3093/2025s/hw5_2025.pdf Homework \#5] (due 6\/8)
+. [./ase3093/2025s/hw6_2025.pdf Homework \#6] (due 6\/16)
 #. [./ase3093/2024s/hw7_2024.pdf Homework \#7] (due 6\/18, optional)
 
 #== Exams

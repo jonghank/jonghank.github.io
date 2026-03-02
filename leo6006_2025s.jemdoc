@@ -16,10 +16,10 @@
 - [jonghank@inha.ac.kr Jong-Han Kim] (Rm.507)
 
 *Lectures* 
-- Tue\/Thr 14:30-16:00 (Rm.203 @aerospace campus)
+- Tue\/Thr 16:00-17:15 (Rm.217 @aerospace campus)
 
 *Office hours*
-- JHK: Tue\/Thr 16:00-17:30 (Rm.507), or by appointments.
+- JHK: Tue\/Thr 17:30-19:00 (Rm.507), or by appointments.
 
 *Prerequisites* 
 - Previous exposure to linear algebra, probability, and programming.
@@ -62,7 +62,7 @@ by Boyd and Vandenberghe will be a useful reference.
 /Several sets of occasional homeworks will be assigned. 
 You are encouraged to work in groups, however everyone should turn in his\/her own work./
 
-#. [https://nbviewer.org/gist/jonghank/83e30368ee7f3cb9a2c877195674aa6d Predicting remaining life of NASA turbofan engines] (due 5\/13)
+. [https://nbviewer.org/gist/jonghank/83e30368ee7f3cb9a2c877195674aa6d Predicting remaining life of NASA turbofan engines] (due 5\/13)
 
 #. [./ee787/2019a/homeworks/hw2.pdf Homework \#2] (due 11/7)
 #. [./ee787/ee787_hw1.pdf Homework 1] (due 10/4): [./ee787/files/nearest_neighbor_data.json nearest_neighbor_data.json], [./ee787/files/fitting_outliers.json fitting_outliers.json], [./ee787/files/all_pairs_data.json all_pairs_data.json]
@@ -71,8 +71,8 @@ You are encouraged to work in groups, however everyone should turn in his\/her o
 #. [./ee787/ee787_hw4.pdf Homework 4] (due 11/27): [./ee787/files/tomodata_fullysampled.json tomodata_fullysampled.json], [./ee787/files/tomodata_undersampled.json tomodata_undersampled.json], [./ee787/files/line_pixel_length.jl line_pixel_length.jl], [./ee787/files/TV_inpainting.ipynb TV_inpainting.ipynb]
 #. [./ee787/ee787_hw5.pdf Homework 5] (optional): [./ee787/files/homework_scores.csv homework_scores.csv]
 
-#== Files
-#
-#/These are some data and the Python codes in .ipynb notebook files that we are using for lectures or homework assignments./
+== Files
+
+/These are some data and the Python codes in .ipynb notebook files that we are using for lectures or homework assignments./
 
 
