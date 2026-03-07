@@ -19,7 +19,7 @@
 - Integration of human correction models to improve the safety and data-efficiency of aerospace systems
 
 === Deep learning-based real-time landing guidance for deep space missions
-/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2025-2025)/
+/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2025-2026)/
 - Advanced predictor-corrector frameworks and deep learning frameworks for real-time optimal landing guidance
 - Specifically targets Mars atmospheric entry and asteroid landing missions, aiming to significantly enhance real-time computational efficiency
 
@@ -27,11 +27,6 @@
 /funded by [https://www.hyundai.com/ Hyundai Motor Company] (2025-2026)/
 - PINN-based deep learning model for estimating vehicle speed under wheel slip conditions
 - State estimation of off-road vehicles via classical Kalman filering
-
-=== AI-based moving target tracking and situational awareness using sensor networks
-/funded by [https://www.hanwhaaerospace.com/ Hanwha Aerospace] (2025-2025)/
-- AI-based techniques for moving target identification from microphone arrays
-- Distributed estimation for multiple target localization via sensor networks
 
 === Mission effectiveness analysis and optimization for VTOL aircrafts
 /funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2023-2029)/
@@ -42,6 +37,11 @@
 /funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2023-2027)/
 - Embedded optimization solvers for real-time powered descent guidance problems
 - Performance verification techniques for on-board powered descent guidance algorithms
+
+=== Aerial target classification using radar measurements
+/funded by [http://www.lignex1.com LIG Nex1] (2023-2026)/
+- Aerial target dynamic simulation and radar signal modeling
+- Deep learning based classifier design for aerial targets
 
 === Reentry guidance and control techniques for reusable unmanned space vehicles
 /funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2022-2028)/
@@ -58,22 +58,27 @@
 - Precision space navigation and guidance techniques for space exploration
 - In-situ water resource utilization for sustainable space exploration
 
-=== Optimal collision-free path planning for multiple vehicles
-/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2021-2025)/
-- Optimal cooperative path planning with collision avoidance
-- Meta learning-based path planning via disciplined parametrized programming
-
 === Cooperative guidance for theatre missile defense systems
 /funded by [http://add.re.kr Agency for Defense Development] (2020-2026)/
 - Optimal cooperative guidance for team of interceptors
 - Cooperative battle damage assessment and mission planning for team of interceptors
 
+== Past
+
 === Artificial intelligence for guidance and control of missile systems
-/funded by [http://add.re.kr Agency for Defense Development] (2020-2025)/
+/funded by [http://add.re.kr Agency for Defense Development] (2020-2026)/
 - Data-driven techniques for control systems analysis and synthesis
 - Data-driven techniques for flight performance analysis and prediction
 
-== Past
+=== Optimal collision-free path planning for multiple vehicles
+/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2021-2025)/
+- Optimal cooperative path planning with collision avoidance
+- Meta learning-based path planning via disciplined parametrized programming
+
+=== AI-based moving target tracking and situational awareness using sensor networks
+/funded by [https://www.hanwhaaerospace.com/ Hanwha Aerospace] (2025-2025)/
+- AI-based techniques for moving target identification from microphone arrays
+- Distributed estimation for multiple target localization via sensor networks
 
 === Optimal control and actuator allocation for satellites with on-off thrusters
 /funded by [https://www.satreci.com SATREC Initiative] (2024-2025)/
@@ -99,11 +104,6 @@
 /funded by [http://www.lignex1.com LIG Nex1] (2024-2024)/
 - Formulating the inverse problem to estimate the launch parameters that best explains the observed data
 - Using automatic differentiation to numerically solve the inverse problems
-
-=== Aerial target classification using radar measurements
-/funded by [http://www.lignex1.com LIG Nex1] (2023-2024)/
-- Aerial target dynamic simulation and radar signal modeling
-- Deep learning based classifier design for aerial targets
 
 === AI-based collision detection and avoidance algorithms for smart drones
 /funded by [https://moasoftware.co.kr/ Moasoft] (2021-2024)/
