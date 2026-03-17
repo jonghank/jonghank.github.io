@@ -3,6 +3,8 @@
 
 == Articles 
 
+- E. Cho, D. Lee, and J.-H. Kim, "Physics-Informed ADMM for Path-Constrained Continuous-Time Optimal Control," (preprint).
+
 - G. Park, D. Lee, and J.-H. Kim, "Sequential Distributed Optimization for Cooperative Collision Avoidance via Agent-Wise CCP-PSM," (preprint).
 
 - J.-H. Kim, J. Choi, and J. Kim, "Spectrally Normalized Koopman Lifting for Provably Stable First-Order Nonlinear Optimal Control," (preprint).
@@ -15,7 +17,7 @@
 
 - J. Kim, C.-K. Ryoo, and J.-H. Kim, "Robust Optimization-Based Weapon-Target Assignment with Ellipsoidal Modeling of Control Effort under Target Uncertainty," (preprint).
 
-- J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," IEEE Transactions on Aerospace and Electronic Systems (under review).
+- J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," (preprint).
 
 - E. Cho and J.-H. Kim, "Warm-Started Physics-Informed Interior Point Methods for Inequality
 Constrained Optimal Control," 2026 European Control Conference (ECC), July 2026.
