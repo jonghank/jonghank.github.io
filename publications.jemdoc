@@ -3,6 +3,8 @@
 
 == Articles 
 
+- J. Kim, C.-K. Ryoo, and J.-H. Kim, "Control-Effort-Based Robust Weapon-Target Assignment Under Predicted Intercept Point Uncertainty," (preprint).
+
 - S. Lee and J.-H. Kim, "Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM," (preprint).
 
 - J.-H. Kim, J. Choi, and J. Kim, "i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control," (preprint).
@@ -18,8 +20,6 @@
 - J. Park, S. Park, H.-H. Kwon, B. Jung, and J.-H. Kim, "Robust LOS Rate Estimation for Strapdown SAL Seeker under Specular Reflections: Empirical Modeling and Huber-Based Filtering," (preprint).
 
 - J.-J. Lee, G. Park, S. Lee, and J.-H. Kim, "Real-Time Optimal Collision Avoidance for Multiple UAVs: An Embedded CCP-ADMM Approach," (preprint).
-
-- J. Kim, C.-K. Ryoo, and J.-H. Kim, "Robust Optimization-Based Weapon-Target Assignment with Ellipsoidal Modeling of Control Effort under Target Uncertainty," (preprint).
 
 - J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," (preprint).
 
