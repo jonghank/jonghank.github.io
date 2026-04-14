@@ -3,6 +3,8 @@
 
 == Articles 
 
+- M. Kim, C.-K. Ryoo, and J.-H. Kim, "Coupled Path-Attitude Optimization for Low-Observable Flight in Complex Terrain via Differentiable Neural Surrogates," (preprint).
+
 - J. Kim, C.-K. Ryoo, and J.-H. Kim, "Control-Effort-Based Robust Weapon-Target Assignment Under Predicted Intercept Point Uncertainty," (preprint).
 
 - S. Lee and J.-H. Kim, "Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM," (preprint).
@@ -13,8 +15,6 @@
 
 - G. Park, D. Lee, and J.-H. Kim, "Sequential Distributed Optimization for Cooperative Collision Avoidance via Agent-Wise CCP-PSM," (preprint).
 
-- J.-H. Kim, J. Choi, and J. Kim, "Spectrally Normalized Koopman Lifting for Provably Stable First-Order Nonlinear Optimal Control," (preprint).
-
 - Y.-J. Kim and J.-H. Kim, "Scalable Swarm Constellation Acquisition via GPU-Accelerated Distributed ADMM on Nonconvex Manifolds," (preprint).
 
 - J. Park, S. Park, H.-H. Kwon, B. Jung, and J.-H. Kim, "Robust LOS Rate Estimation for Strapdown SAL Seeker under Specular Reflections: Empirical Modeling and Huber-Based Filtering," (preprint).
@@ -23,10 +23,12 @@
 
 - J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," (preprint).
 
+- J.-H. Kim, J. Choi, and J. Kim, "Spectrally Normalized Koopman Lifting for Provably Stable First-Order Nonlinear Optimal Control," 23rd IFAC World Congress, 2026.
+
 - E. Cho and J.-H. Kim, "Warm-Started Physics-Informed Interior Point Methods for Inequality
 Constrained Optimal Control," 2026 European Control Conference (ECC), July 2026.
 
-- J. Cha, G. Park, and J.-H. Kim, "Thrust Allocation in Single-Chamber Solid-Propellant DACS via Differentiable Programming-Based Constrained LM Optimization," 2026 European Control Conference (ECC), July 2026.
+- J. Cha, G. Park, and J.-H. Kim, "Control Allocation in Single-Chamber Solid-Propellant DACS via Differentiable Programming-Based Constrained LM Optimization," 2026 European Control Conference (ECC), July 2026.
 
 - Y.-J. Kim, J. Choi, J. Choi, and J.-H. Kim, "[https://doi.org/10.1007/s11081-025-10072-3 A First-Order Approach for Nonlinear Optimal Control Under Nonconvex Constraints]," Optimization and Engineering, 2026.
 
