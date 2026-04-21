@@ -44,8 +44,8 @@ by Boyd and Vandenberghe will be a useful reference.
 . [https://nbviewer.org/gist/jonghank/1bcfe8f7afb312986b7c6fedb0504b1e Computational exercises: Minimum energy control]
 . [https://nbviewer.org/gist/jonghank/04edf9426489582d5c4dd56657fcd9fa Computational exercises: Waypoint guidance]
 . [https://nbviewer.org/gist/jonghank/0500bf2fa45fde9611ed83c826d2ff05 Computational exercises: Kalman filter]
-. [https://nbviewer.org/gist/jonghank/241addad7af4aad2ed0ddca57fbfd573 Convex functions]
-. [https://nbviewer.org/gist/jonghank/8faba25b7e53b3da934fab3c972c8075 Convex optimization problems]
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/f2386caabd1737a307ee86556e79de48/raw/121375ba48e7660c58b45a41dbe87d491172ef2d/convex_functions.ipynb Convex functions]
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/4dd9f6db0ef8091a5a9fde6f96dbb950/raw/228baed383d69005ea49df6a886a26da6d2a3d51/convex_optimization_problems.ipynb Convex optimization problems]
 . [https://nbviewer.org/gist/jonghank/ce2a27c0a07d01099a6226591db3ee13 An extremely short +cvxpy+ tutorial]
 . [https://nbviewer.org/gist/jonghank/30bb109d88df29b73b337f1ef3c62d80 Computational exercises: More optimal control problems]
 . [https://nbviewer.org/gist/jonghank/d6ac94843316cc2b17075c30463401c3 Computational exercises: Matrix imputation]
@@ -76,8 +76,8 @@ by Boyd and Vandenberghe will be a useful reference.
 /Several sets of occasional homework assignments will be posted here. 
 You are encouraged to work in groups, however everyone should turn in his\/her own work./
 
-. [./ase7030/files/hw1_2025.pdf Homework \#1] (due 4\/1)
-. [https://nbviewer.org/gist/jonghank/e0c188f1be574e98fb257222f9ec6207 Homework \#2: Soft landing guidance] (due 4\/15)
+#. [./ase7030/files/hw1_2025.pdf Homework \#1] (due 4\/1)
+#. [https://nbviewer.org/gist/jonghank/e0c188f1be574e98fb257222f9ec6207 Homework \#2: Soft landing guidance] (due 4\/15)
 #. [./ase7030/files/hw2_2024.pdf Homework \#2] (due 4\/16)
 #. [https://nbviewer.org/gist/jonghank/132f2aa13e87582b2445f1ad793582f3 Homework \#3: Waypoint guidance with pass angle constraints] (due 4\/30)
 #. [https://nbviewer.org/gist/jonghank/43f3e55becdaf35cebf60636a2ab064d Homework \#4: Formation flight] (due 5\/7)
