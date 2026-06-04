@@ -11,8 +11,6 @@
 
 - G. Park, J.-J. Lee, J. Shin, and J.-H. Kim, "Exact Projection and Two-Block ADMM for Trajectory Optimization Under Nonconvex State-Dependent Cone Constraints," (preprint).
 
-- M. Kim, C.-K. Ryoo, and J.-H. Kim, "Coupled Path-Attitude Optimization for Low-Observable Flight in Complex Terrain via Differentiable Neural Surrogates," (preprint).
-
 - J. Kim, C.-K. Ryoo, and J.-H. Kim, "Control-Effort-Based Robust Weapon-Target Assignment Under Predicted Intercept Point Uncertainty," (preprint).
 
 - S. Lee and J.-H. Kim, "Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM," (preprint).
@@ -25,9 +23,11 @@
 
 - J. Park, S. Park, H.-H. Kwon, B. Jung, and J.-H. Kim, "Robust LOS Rate Estimation for Strapdown SAL Seeker under Specular Reflections: Empirical Modeling and Huber-Based Filtering," (preprint).
 
-- J.-J. Lee, G. Park, S. Lee, and J.-H. Kim, "Real-Time Optimal Collision Avoidance for Multiple UAVs: An Embedded CCP-ADMM Approach," (preprint).
-
 - J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," (preprint).
+
+- M. Kim, C.-K. Ryoo, and J.-H. Kim, "[./papers/2026_ast_mjk_final.pdf Coupled Path-Attitude Optimization for Low-Observable Flight in Complex Terrain via Differentiable Neural Surrogates]," Aerospace Science and Technology (accepted for publication).
+
+- J.-J. Lee, G. Park, S. Lee, and J.-H. Kim, "[./papers/2026_cep_jjl_final.pdf Real-Time Optimal Collision Avoidance for Multiple UAVs: An Embedded CCP-ADMM Approach]," Control Engineering Practice (accepted for publication).
 
 - J.-H. Kim, J. Choi, and J. Kim, "[./papers/2026_ifac_jhk_final.pdf Spectrally Normalized Koopman Lifting for Provably Stable First-Order Nonlinear Optimal Control]," 23rd IFAC World Congress, Aug. 2026.
 
