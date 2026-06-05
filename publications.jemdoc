@@ -17,23 +17,23 @@
 
 - J.-H. Kim, J. Choi, and J. Kim, "i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control," (preprint).
 
-- G. Park, D. Lee, and J.-H. Kim, "Sequential Distributed Optimization for Cooperative Collision Avoidance via Agent-Wise CCP-PSM," (preprint).
-
 - Y.-J. Kim and J.-H. Kim, "Scalable Swarm Constellation Acquisition via GPU-Accelerated Distributed ADMM on Nonconvex Manifolds," (preprint).
 
 - J. Park, S. Park, H.-H. Kwon, B. Jung, and J.-H. Kim, "Robust LOS Rate Estimation for Strapdown SAL Seeker under Specular Reflections: Empirical Modeling and Huber-Based Filtering," (preprint).
 
 - J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," (preprint).
 
+- G. Park, D. Lee, and J.-H. Kim, "[S./papers/2026_access_gbp_final.pdf Sequential Distributed Optimization for Cooperative Collision Avoidance via Agent-Wise CCP-PSM]," IEEE Access (accepted for publication).
+
 - M. Kim, C.-K. Ryoo, and J.-H. Kim, "[./papers/2026_ast_mjk_final.pdf Coupled Path-Attitude Optimization for Low-Observable Flight in Complex Terrain via Differentiable Neural Surrogates]," Aerospace Science and Technology (accepted for publication).
 
 - J.-J. Lee, G. Park, S. Lee, and J.-H. Kim, "[./papers/2026_cep_jjl_final.pdf Real-Time Optimal Collision Avoidance for Multiple UAVs: An Embedded CCP-ADMM Approach]," Control Engineering Practice (accepted for publication).
 
-- J.-H. Kim, J. Choi, and J. Kim, "[./papers/2026_ifac_jhk_final.pdf Spectrally Normalized Koopman Lifting for Provably Stable First-Order Nonlinear Optimal Control]," 23rd IFAC World Congress, Aug. 2026.
+- J.-H. Kim, J. Choi, and J. Kim, "[./papers/2026_ifac_jhk_final.pdf Spectrally Normalized Koopman Lifting for Provably Stable First-Order Nonlinear Optimal Control]," 23rd IFAC World Congress, Aug. 2026 (accepted for presentation).
 
-- E. Cho and J.-H. Kim, "[./papers/2026_ecc_ebc_final.pdf Warm-Started Physics-Informed Interior Point Methods for Inequality Constrained Optimal Control]," 2026 European Control Conference (ECC), July 2026.
+- E. Cho and J.-H. Kim, "[./papers/2026_ecc_ebc_final.pdf Warm-Started Physics-Informed Interior Point Methods for Inequality Constrained Optimal Control]," 2026 European Control Conference (ECC), July 2026 (accepted for presentation).
 
-- J. Cha, G. Park, and J.-H. Kim, "[./papers/2026_ecc_jhc_final.pdf Control Allocation in Single-Chamber Solid-Propellant DACS via Differentiable Programming-Based Constrained LM Optimization]," 2026 European Control Conference (ECC), July 2026.
+- J. Cha, G. Park, and J.-H. Kim, "[./papers/2026_ecc_jhc_final.pdf Control Allocation in Single-Chamber Solid-Propellant DACS via Differentiable Programming-Based Constrained LM Optimization]," 2026 European Control Conference (ECC), July 2026 (accepted for presentation).
 
 - Y.-J. Kim, J. Choi, J. Choi, and J.-H. Kim, "[https://doi.org/10.1007/s11081-025-10072-3 A First-Order Approach for Nonlinear Optimal Control Under Nonconvex Constraints]," Optimization and Engineering, 2026.
 
