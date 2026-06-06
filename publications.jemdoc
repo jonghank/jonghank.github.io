@@ -33,7 +33,7 @@
 
 - J. Cha, G. Park, and J.-H. Kim, "[./papers/2026_ecc_jhc_final.pdf Control Allocation in Single-Chamber Solid-Propellant DACS via Differentiable Programming-Based Constrained LM Optimization]," 2026 European Control Conference (ECC), July 2026 (accepted for presentation).
 
-- M. Kim, C.-K. Ryoo, and J.-H. Kim, "[https://doi.org/10.1016/j.ast.2026.112823 Coupled Path-Attitude Optimization for Low-Observable Flight in Complex Terrain via Differentiable Neural Surrogates]," Aerospace Science and Technology (accepted for publication).
+- M. Kim, C.-K. Ryoo, and J.-H. Kim, "[https://doi.org/10.1016/j.ast.2026.112823 Coupled Path-Attitude Optimization for Low-Observable Flight in Complex Terrain via Differentiable Neural Surrogates]," Aerospace Science and Technology, 112823, 2026.
 
 - Y.-J. Kim, J. Choi, J. Choi, and J.-H. Kim, "[https://doi.org/10.1007/s11081-025-10072-3 A First-Order Approach for Nonlinear Optimal Control Under Nonconvex Constraints]," Optimization and Engineering, 2026.
 
@@ -76,7 +76,7 @@ International Journal of Aeronautical and Space Sciences, vol.21, issue 3, pp.82
 
 - J. Park, Y. Kim, and J.-H. Kim, "[https://doi.org/10.3390/s20113143 Integrated Guidance and Control Using Model Predictive Control with Flight Path Angle Prediction Against Pull-up Maneuvering Target]," Sensors, 20(11), 3143, 2020.
 
-- V.-T. Do, S.-G. Lee, and J.-H. Kim, "[https://doi.org/10.1016/j.ymssp.2020.106866 Robust Integral Backstepping Hierarchical Sliding Mode Controller for a Ballbot System]," Mechanical Systems and Signal Processing, vol.144, 2020.
+- V.-T. Do, S.-G. Lee, and J.-H. Kim, "[https://doi.org/10.1016/j.ymssp.2020.106866 Robust Integral Backstepping Hierarchical Sliding Mode Controller for a Ballbot System]," Mechanical Systems and Signal Processing, vol.144, 106866, 2020.
 
 - J.-H. Kim, Y. Han, and I.H. Whang, 
 "[https://doi.org/10.1007/s42405-018-0048-9 Online $\ell_1$-regularized Optimization for Optical Misalignment Cancellation of Strapdown Seekers]," 
