@@ -27,7 +27,7 @@
 
 - G. Park, D. Lee, and J.-H. Kim, "[./papers/2026_access_gbp_final.pdf Sequential Distributed Optimization for Cooperative Collision Avoidance via Agent-Wise CCP-PSM]," IEEE Access (accepted for publication).
 
-- J.-J. Lee, G. Park, S. Lee, and J.-H. Kim, "[./papers/2026_cep_jjl_final.pdf Real-Time Optimal Collision Avoidance for Multiple UAVs: An Embedded CCP-ADMM Approach]," Control Engineering Practice (accepted for publication).
+- J.-J. Lee, G. Park, S. Lee, and J.-H. Kim, "[https://doi.org/10.1016/j.conengprac.2026.107104 Real-Time Optimal Collision Avoidance for Multiple UAVs: An Embedded CCP-ADMM Approach]," Control Engineering Practice, vol.175, 107104, 2026.
 
 - M. Kim, C.-K. Ryoo, and J.-H. Kim, "[https://doi.org/10.1016/j.ast.2026.112823 Coupled Path-Attitude Optimization for Low-Observable Flight in Complex Terrain via Differentiable Neural Surrogates]," Aerospace Science and Technology, 112823, 2026.
 
