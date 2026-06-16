@@ -21,7 +21,7 @@
 
 - J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," (preprint).
 
-- J.-H. Kim, J. Choi, and J. Kim, "[./papers/2026_cdc_jhk_final.pdf i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control]," IEEE Control Systems Letters (accepted for publication).
+- J.-H. Kim, J. Choi, and J. Kim, "[https://doi.org/10.1109/LCSYS.2026.3703782 i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control]," IEEE Control Systems Letters, vol.10, 2026.
 
 - G. Park, D. Lee, and J.-H. Kim, "[https://doi.org/10.1109/ACCESS.2026.3701444 Sequential Distributed Optimization for Cooperative Collision Avoidance via Agent-Wise CCP-PSM]," IEEE Access, vol.14, 2026.
 
