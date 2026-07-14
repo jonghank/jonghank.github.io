@@ -13,13 +13,13 @@
 
 - J. Kim, C.-K. Ryoo, and J.-H. Kim, "Control-Effort-Based Robust Weapon-Target Assignment Under Predicted Intercept Point Uncertainty," (preprint).
 
-- S. Lee and J.-H. Kim, "Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM," (preprint).
-
 - Y.-J. Kim and J.-H. Kim, "Scalable Swarm Constellation Acquisition via GPU-Accelerated Distributed ADMM on Nonconvex Manifolds," (preprint).
 
 - J. Park, S. Park, H.-H. Kwon, B. Jung, and J.-H. Kim, "Robust LOS Rate Estimation for Strapdown SAL Seeker under Specular Reflections: Empirical Modeling and Huber-Based Filtering," (preprint).
 
 - J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," (preprint).
+
+- S. Lee and J.-H. Kim, "Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM," IEEE Robotics and Automation Letters (RA-L), (accepted for publication).
 
 - J.-H. Kim, J. Choi, and J. Kim, "[https://doi.org/10.1109/LCSYS.2026.3703782 i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control]," IEEE Control Systems Letters (L-CSS), vol.10, pp.859-864, 2026.
 
