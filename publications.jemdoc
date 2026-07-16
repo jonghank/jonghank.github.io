@@ -19,9 +19,11 @@
 
 - J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," (preprint).
 
+- E. Cho, D. Lee, and J.-H. Kim, "Physics-Informed ADMM for Path-Constrained Continuous-Time Optimal Control," in Proc. 65th IEEE Conference on Decision and Control (CDC), Dec. 2026.
+
 - S. Lee and J.-H. Kim, "Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM," IEEE Robotics and Automation Letters (RA-L), (accepted for publication).
 
-- J.-H. Kim, J. Choi, and J. Kim, "[https://doi.org/10.1109/LCSYS.2026.3703782 i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control]," IEEE Control Systems Letters (L-CSS), vol.10, pp.859-864, 2026.
+- J.-H. Kim, J. Choi, and J. Kim, "[https://doi.org/10.1109/LCSYS.2026.3703782 i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control]," IEEE Control Systems Letters (L-CSS), vol.10, pp.859-864, 2026. Also to be presented at the 65th IEEE Conference on Decision and Control (CDC), Dec. 2026.
 
 - G. Park, D. Lee, and J.-H. Kim, "[https://doi.org/10.1109/ACCESS.2026.3701444 Sequential Distributed Optimization for Cooperative Collision Avoidance via Agent-Wise CCP-PSM]," IEEE Access, vol.14, pp.87173-87191, 2026.
 
@@ -41,7 +43,7 @@
 
 - J.-S. Park, G.-H. Kim, H.-H. Kwon, and J.-H. Kim, "[http://dx.doi.org/10.1007/s12555-025-0069-7 Huber-Based Asynchronous Fusion Filter for Robust Multi-Rate Sensor Processing]," International Journal of Control, Automation, and Systems, vol.23, issue 10, pp.2851-2867, 2025.
 
-- J. Choi and J.-H. Kim, "[http://doi.org/10.1109/LCSYS.2025.3578571 LiftProj: Physics-Informed Koopman Lifting and Projection for Nonlinear Optimal Control via First-Order Optimization]," IEEE Control Systems Letters (L-CSS), vol.9, pp.817-822, 2025. [./papers/2025_cdc_jwc_liftproj.pdf Also presented at the IEEE Conference on Decision and Control (CDC), Dec. 2025.]
+- J. Choi and J.-H. Kim, "[http://doi.org/10.1109/LCSYS.2025.3578571 LiftProj: Physics-Informed Koopman Lifting and Projection for Nonlinear Optimal Control via First-Order Optimization]," IEEE Control Systems Letters (L-CSS), vol.9, pp.817-822, 2025. [./papers/2025_cdc_jwc_liftproj.pdf Also presented at the 64th IEEE Conference on Decision and Control (CDC), Dec. 2025.]
 
 - S. Lee, G. Park, J.-J. Lee, H. Ryu, and J.-H. Kim, "[https://doi.org/10.1007/s42405-025-00911-z Velocity Profile Optimization for Multiple UAVs Collision-Free Mission Planning]," International Journal of Aeronautical and Space Sciences, vol.26, pp.2535–2546, 2025.
 
