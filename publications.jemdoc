@@ -25,7 +25,7 @@
 
 - S. Lee and J.-H. Kim, "[./papers/2026_ral_syl_draft.pdf Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM]," IEEE Robotics and Automation Letters (RA-L), (accepted for publication).
 
-- J.-H. Kim, J. Choi, and J. Kim, "[https://doi.org/10.1109/LCSYS.2026.3703782 i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control]," IEEE Control Systems Letters (L-CSS), vol.10, pp.859-864, 2026. Also to be presented at the 65th IEEE Conference on Decision and Control (CDC), Dec. 2026.
+- J.-H. Kim, J. Choi, and J. Kim, "[https://doi.org/10.1109/LCSYS.2026.3703782 i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control]," IEEE Control Systems Letters (L-CSS), vol.10, pp.859-864, 2026. [./papers/2026_cdc_jhk_iliftproj.pdf Also to be presented at the 65th IEEE Conference on Decision and Control (CDC), Dec. 2026.]
 
 - G. Park, D. Lee, and J.-H. Kim, "[https://doi.org/10.1109/ACCESS.2026.3701444 Sequential Distributed Optimization for Cooperative Collision Avoidance via Agent-Wise CCP-PSM]," IEEE Access, vol.14, pp.87173-87191, 2026.
 
