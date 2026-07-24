@@ -3,6 +3,31 @@
 
 == Current
 
+=== Integrated reentry and landing guidance for reusable launchers
+/funded by [https://www.kasa.go.kr/ Korea AeroSpace Administration] (2026-2028)/
+- Multi-phase optimization and learning-based initialization for integrated reentry, aerodynamic-descent, and powered-descent guidance with autonomous phase transitions
+- Fault-tolerant onboard guidance and safe fallback logic validated through 6-DoF Monte Carlo simulation and onboard benchmarks
+
+=== Local LLM-based AI agents for autonomous eVTOL operations
+/funded by [https://www.kari.re.kr/ Korea Aerospace Research Institute] (2026-2030)/
+- Local LLM-based Agent-Skill architecture with closed-network RAG for autonomous decision-making across eVTOL traffic management, flight operations, vertiport operations, and air traffic control
+- Intervention learning within the human-in-the-loop coordination and digital integrated-test validation for conflict resolution, mission replanning, resource allocation, and emergency response
+
+=== Real-time convex optimization-based guidance and control for precision lunar landing
+/funded by [https://www.kasa.go.kr/ Korea AeroSpace Administration] (2026-2027)/
+- 3-DoF/6-DoF convex powered-descent guidance, real-time trajectory replanning, and fail-safe mode switching under sensor and model uncertainties
+- Lightweight onboard optimization solvers and embedded flight software validated through high-fidelity simulation, processor-in-the-loop tests, and indoor flight tests
+
+=== Diffusion-based generative AI for data augmentation of ballistic target trajectories
+/funded by [https://www.ligdefenseaerospace.com/ LIG Defense&Aerospace] (2026-2028)/
+- Autoencoder-based latent representation and conditional diffusion models for generating diverse ballistic target trajectories from limited measured data
+- Physics-informed latent dynamics and clustering for reconstructing full trajectories from noisy and partial observations of unknown target types
+
+=== Cross-vehicle domain adaptation and generalization for AI-based road surface classification
+/funded by [https://www.hyundai.com/ Hyundai Motor Company] (2026-2027)/
+- Domain-invariant feature learning from wheel-speed and IMU signals using adversarial domain alignment, supervised contrastive learning, and weight averaging for robust classification across unseen vehicle domains
+- Few-shot adaptation and vehicle-metadata-based feature modulation for rapid transfer to new vehicle types, with knowledge distillation and in-vehicle validation for embedded deployment
+
 === Entry, descent, and landing (EDL) technologies for Mars exploration
 /funded by [https://www.kasa.go.kr/ Korea AeroSpace Administration] (2025-2029)/
 - Core EDL technologies for Mars exploration missions, focusing on advanced heatshield materials, supersonic retro-propulsion, parachute dynamics, and precision control systems 
@@ -20,13 +45,8 @@
 
 === Deep learning-based real-time landing guidance for deep space missions
 /funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2025-2026)/
-- Advanced predictor-corrector frameworks and deep learning frameworks for real-time optimal landing guidance
+- AI-Aided trajectory optimization techniques for real-time optimal planetary EDL guidance.
 - Specifically targets Mars atmospheric entry and asteroid landing missions, aiming to significantly enhance real-time computational efficiency
-
-=== Deep learning model for off-road vehicle state estimation
-/funded by [https://www.hyundai.com/ Hyundai Motor Company] (2025-2026)/
-- PINN-based deep learning model for estimating vehicle speed under wheel slip conditions
-- State estimation of off-road vehicles via classical Kalman filering
 
 === Mission effectiveness analysis and optimization for VTOL aircrafts
 /funded by [http://www.krit.re.kr Korea Research Institute for Defense Technology Planning and Advancement] (2023-2029)/
@@ -39,7 +59,7 @@
 - Performance verification techniques for on-board powered descent guidance algorithms
 
 === Aerial target classification using radar measurements
-/funded by [http://www.lignex1.com LIG Nex1] (2023-2026)/
+/funded by [http://www.lignex1.com LIG Nex1] (2023-2027)/
 - Aerial target dynamic simulation and radar signal modeling
 - Deep learning based classifier design for aerial targets
 
@@ -58,6 +78,11 @@
 - Precision space navigation and guidance techniques for space exploration
 - In-situ water resource utilization for sustainable space exploration
 
+=== Optimal collision-free path planning for multiple vehicles
+/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2021-2026)/
+- Optimal cooperative path planning with collision avoidance for team mission objectives
+- Efficient embedded solver implementation for full-scale flight tests
+
 === Cooperative guidance for theatre missile defense systems
 /funded by [http://add.re.kr Agency for Defense Development] (2020-2026)/
 - Optimal cooperative guidance for team of interceptors
@@ -65,15 +90,15 @@
 
 == Past
 
+=== Deep learning model for off-road vehicle state estimation
+/funded by [https://www.hyundai.com/ Hyundai Motor Company] (2025-2026)/
+- PINN-based deep learning model for estimating vehicle speed under wheel slip conditions
+- State estimation of off-road vehicles via classical Kalman filering
+
 === Artificial intelligence for guidance and control of missile systems
 /funded by [http://add.re.kr Agency for Defense Development] (2020-2026)/
 - Data-driven techniques for control systems analysis and synthesis
 - Data-driven techniques for flight performance analysis and prediction
-
-=== Optimal collision-free path planning for multiple vehicles
-/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2021-2025)/
-- Optimal cooperative path planning with collision avoidance
-- Meta learning-based path planning via disciplined parametrized programming
 
 === AI-based moving target tracking and situational awareness using sensor networks
 /funded by [https://www.hanwhaaerospace.com/ Hanwha Aerospace] (2025-2025)/
