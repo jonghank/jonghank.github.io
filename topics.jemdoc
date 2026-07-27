@@ -3,7 +3,7 @@
 
 == Current
 
-=== Integrated reentry and landing guidance for reusable launchers
+=== End-to-end reentry and landing guidance for reusable launchers
 /funded by [https://www.kasa.go.kr/ Korea AeroSpace Administration] (2026-2028)/
 - Multi-phase optimization and learning-based initialization for integrated reentry, aerodynamic-descent, and powered-descent guidance with autonomous phase transitions
 - Fault-tolerant onboard guidance and safe fallback logic validated through 6-DoF Monte Carlo simulation and onboard benchmarks
