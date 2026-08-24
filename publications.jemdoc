@@ -5,12 +5,6 @@
 
 - J. Kim, D.H. Jeong, D.-U. Kim, and J.-H. Kim, "Robust Embedded Off-Road Vehicle Speed Estimation via Lightweight Self-Attention and Autoregressive Residual Learning," (preprint)
 
-- J. Shin, J. Kim, J. Park, and J.-H. Kim, "Ducted Ramjet Rocket Guidance under Engine Operability Constraints via First-Order Optimization with Neural Surrogate Models," (preprint)
-
-- E. Cho, D. Lee, and J.-H. Kim, "Physics-Informed ADMM for Collocation-Scalable 6-DoF Powered Descent Guidance," (preprint)
-
-- S. Lee, J.-J. Lee, and J.-H. Kim, "Margin-Aware End-to-End Trajectory Optimization for Planetary Entry, Descent, and Landing," (preprint)
-
 - G. Park, J.-J. Lee, J. Shin, and J.-H. Kim, "Exact Projection and Two-Block ADMM for Trajectory Optimization Under Nonconvex State-Dependent Cone Constraints," (preprint).
 
 - Y.-J. Kim and J.-H. Kim, "Scalable Swarm Constellation Acquisition via GPU-Accelerated Distributed ADMM on Nonconvex Manifolds," (preprint).
@@ -19,11 +13,23 @@
 
 - J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," (preprint).
 
+- J. Shin, J. Kim, J. Park, and J.-H. Kim, "Ducted Ramjet Rocket Guidance under Engine Operability Constraints via First-Order Optimization with Neural Surrogate Models," AIAA SciTech 2027 Forum, Jan. 2027 (accepted for presentation).
+
+- S. Lee, J.-J. Lee, and J.-H. Kim, "Margin-Aware End-to-End Trajectory Optimization for Planetary Entry, Descent, and Landing," AIAA SciTech 2027 Forum, Jan. 2027 (accepted for presentation).
+
+- E. Cho, D. Lee, and J.-H. Kim, "Physics-Informed ADMM for Collocation-Scalable 6-DoF Powered Descent Guidance," AIAA SciTech 2027 Forum, Jan. 2027 (accepted for presentation).
+
 - J. Kim, C.-K. Ryoo, and J.-H. Kim, "Control-Effort-Based Robust Weapon-Target Assignment Under Predicted Intercept Point Uncertainty," Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, (accepted for publication).
 
 - S. Lee and J.-H. Kim, "[./papers/2026_ral_syl_draft.pdf Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM]," IEEE Robotics and Automation Letters (RA-L), (accepted for publication).
 
 - E. Cho, D. Lee, and J.-H. Kim, "[./papers/2026_cdc_ebc_draft.pdf Physics-Informed ADMM for Path-Constrained Continuous-Time Optimal Control]," in Proc. 65th IEEE Conference on Decision and Control (CDC), Dec. 2026.
+
+- J.-H. Kim, J. Choi, and J. Kim, "[./papers/2026_ifac_jhk_preprint.pdf Spectrally Normalized Koopman Lifting for Provably Stable First-Order Nonlinear Optimal Control]," 23rd IFAC World Congress, pp.14839-14842, Aug. 2026.
+
+- E. Cho and J.-H. Kim, "[https://ieeexplore.ieee.org/document/11625699 Warm-Started Physics-Informed Interior Point Methods for Inequality Constrained Optimal Control]," 2026 European Control Conference (ECC), pp.617-622, July 2026.
+
+- J. Cha, G. Park, and J.-H. Kim, "[https://ieeexplore.ieee.org/document/11625584 Control Allocation in Single-Chamber Solid-Propellant DACS via Differentiable Programming-Based Constrained LM Optimization]," 2026 European Control Conference (ECC), pp.423-428, July 2026.
 
 - J.-H. Kim, J. Choi, and J. Kim, "[https://doi.org/10.1109/LCSYS.2026.3703782 i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control]," IEEE Control Systems Letters (L-CSS), vol.10, pp.859-864, 2026. [./papers/2026_cdc_jhk_iliftproj.pdf Also to be presented at the 65th IEEE Conference on Decision and Control (CDC), Dec. 2026.]
 
@@ -32,12 +38,6 @@
 - J.-J. Lee, G. Park, S. Lee, and J.-H. Kim, "[https://doi.org/10.1016/j.conengprac.2026.107104 Real-Time Optimal Collision Avoidance for Multiple UAVs: An Embedded CCP-ADMM Approach]," Control Engineering Practice, vol.175, 107104, 2026.
 
 - M. Kim, C.-K. Ryoo, and J.-H. Kim, "[https://doi.org/10.1016/j.ast.2026.112823 Coupled Path-Attitude Optimization for Low-Observable Flight in Complex Terrain via Differentiable Neural Surrogates]," Aerospace Science and Technology, vol.177, part c, 112823, 2026.
-
-- J.-H. Kim, J. Choi, and J. Kim, "[./papers/2026_ifac_jhk_preprint.pdf Spectrally Normalized Koopman Lifting for Provably Stable First-Order Nonlinear Optimal Control]," 23rd IFAC World Congress, pp.14839-14842, Aug. 2026 (accepted for presentation).
-
-- E. Cho and J.-H. Kim, "[https://ieeexplore.ieee.org/document/11625699 Warm-Started Physics-Informed Interior Point Methods for Inequality Constrained Optimal Control]," 2026 European Control Conference (ECC), pp.617-622, July 2026.
-
-- J. Cha, G. Park, and J.-H. Kim, "[https://ieeexplore.ieee.org/document/11625584 Control Allocation in Single-Chamber Solid-Propellant DACS via Differentiable Programming-Based Constrained LM Optimization]," 2026 European Control Conference (ECC), pp.423-428, July 2026.
 
 - Y.-J. Kim, J. Choi, J. Choi, and J.-H. Kim, "[https://doi.org/10.1007/s11081-025-10072-3 A First-Order Approach for Nonlinear Optimal Control Under Nonconvex Constraints]," Optimization and Engineering, 2026.
 
