@@ -13,15 +13,15 @@
 
 - J. Shin and J.-H. Kim, "Projection-Based First-Order Optimization for Constrained Quaternion Attitude Maneuvers," (preprint).
 
-- J. Shin, J. Kim, J. Park, and J.-H. Kim, "Ducted Ramjet Rocket Guidance under Engine Operability Constraints via First-Order Optimization with Neural Surrogate Models," AIAA SciTech 2027 Forum, Jan. 2027 (accepted for presentation).
-
 - S. Lee, J.-J. Lee, and J.-H. Kim, "Margin-Aware End-to-End Trajectory Optimization for Planetary Entry, Descent, and Landing," AIAA SciTech 2027 Forum, Jan. 2027 (accepted for presentation).
 
 - E. Cho, D. Lee, and J.-H. Kim, "Physics-Informed ADMM for Collocation-Scalable 6-DoF Powered Descent Guidance," AIAA SciTech 2027 Forum, Jan. 2027 (accepted for presentation).
 
+- J. Shin, J. Kim, J. Park, and J.-H. Kim, "Ducted Ramjet Rocket Guidance under Engine Operability Constraints via First-Order Optimization with Neural Surrogate Models," AIAA SciTech 2027 Forum, Jan. 2027 (accepted for presentation).
+
 - J. Kim, C.-K. Ryoo, and J.-H. Kim, "Control-Effort-Based Robust Weapon-Target Assignment Under Predicted Intercept Point Uncertainty," Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, (accepted for publication).
 
-- S. Lee and J.-H. Kim, "[./papers/2026_ral_syl_draft.pdf Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM]," IEEE Robotics and Automation Letters (RA-L), (accepted for publication).
+- S. Lee and J.-H. Kim, "[https://doi.org/10.1109/LRA.2026.3728334 Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM]," IEEE Robotics and Automation Letters (RA-L), 2027.
 
 - E. Cho, D. Lee, and J.-H. Kim, "[./papers/2026_cdc_ebc_draft.pdf Physics-Informed ADMM for Path-Constrained Continuous-Time Optimal Control]," in Proc. 65th IEEE Conference on Decision and Control (CDC), Dec. 2026.
 
