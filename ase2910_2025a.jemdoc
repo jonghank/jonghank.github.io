@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{ase2910.html}, notime
 = ASE2910: Applied Linear Algebra / AUS2910: Fundamental Math for AI
-[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2026 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2025 
 
 ~~~
 == Announcements
@@ -18,16 +18,16 @@
 
 *Instructors* 
 - Instructor: [jonghank@inha.ac.kr Jong-Han Kim] (Rm.507)
-- Head TA: [jaehyeokc@inha.edu Jaehyeok Cha] (Rm.502)
+- Head TA: [eunbyeeol@inha.edu Eunbyeol Cho] (Rm.502)
+- TA: [chungyeahun@inha.edu Yeahun Chung] (Rm.502)
 - TA: [kimmjae@inha.edu Minjae Kim] (Rm.502)
-- TA: [junwoolee@inha.edu Junwoo Lee] (Rm.502)
-- TA: [hyeongjunlee@inha.edu Hyung-Jun Lee] (Rm.502)
+- TA: [kimsoojin@inha.edu Soojin Kim] (Rm.502)
 
 *Lectures* 
-- Tue/Thr 10:30-11:45 (Rm.217)
+- Tue/Thr 10:30-11:45 (Rm.216)
 
 *Office hours*
-- JHK: Mon/Tue 16:00-17:00 (Rm.507), or by appointments.
+- JHK: Tue/Thr 16:00-17:00 (Rm.507), or by appointments.
 
 *Prerequisites* 
 - Previous exposure to calculus, engineering mathematics, and programming language (Python or others).
@@ -64,14 +64,12 @@
 . [./ase2910/vmls-slides-17-constrained-least-squares-applications.pdf Constrained least squares applications]
 
 == Assignments
-/Occasional homework assignments will be posted here./
-
-#. [./ase2910/files/ase2910_hw1_2025a.pdf HW\#1] (due 9\/23)
-#. [./ase2910/files/ase2910_hw2_2025a.pdf HW\#2] (due 10\/4)
-#. [./ase2910/files/ase2910_hw3_2025a.pdf HW\#3] (due 10\/16)
-#. [./ase2910/files/ase2910_hw4_2025a.pdf HW\#4] (due 10\/25)
-#. [./ase2910/files/ase2910_hw5_2025a.pdf HW\#5] (due 11\/16)
-#. [./ase2910/files/ase2910_hw6_2025a.pdf HW\#6] (due 12\/2)
+. [./ase2910/files/ase2910_hw1_2025a.pdf HW\#1] (due 9\/23)
+. [./ase2910/files/ase2910_hw2_2025a.pdf HW\#2] (due 10\/4)
+. [./ase2910/files/ase2910_hw3_2025a.pdf HW\#3] (due 10\/16)
+. [./ase2910/files/ase2910_hw4_2025a.pdf HW\#4] (due 10\/25)
+. [./ase2910/files/ase2910_hw5_2025a.pdf HW\#5] (due 11\/16)
+. [./ase2910/files/ase2910_hw6_2025a.pdf HW\#6] (due 12\/2)
 #. [./ase2910/files/hw3_2024.pdf HW\#3] (due 10\/22)
 #. [./ase2910/files/hw4_2024.pdf HW\#4] (due 10\/29)
 #. [./ase2910/files/hw5_2024.pdf HW\#5] (due 11\/17)
@@ -103,10 +101,10 @@
 . [https://nbviewer.org/gist/jonghank/1755fdff6aacd93a9118a118e6c7ae33 Ridge regression]
 . [https://nbviewer.org/gist/jonghank/89e4e69bc4207f60ad56044b316c2066 Minimum energy control]
  
-#== Exam
+== Exam
 #. [https://nbviewer.org/gist/jonghank/48d76082167dc233eba31e104f219935 Final exam (Autumn 2023)]
 
-== Exams
+== Sample Exams
 . [./ase2910/files/midterm_spring_2021.pdf Midterm exam (2021)] and [./ase2910/files/midterm_spring_2021_sol.pdf solutions]
 . [./ase2910/files/final_spring_2021.pdf Final exam (2021)] and [./ase2910/files/final_spring_2021_sol.pdf solutions]
 . [./ase2910/files/midterm_2023a.pdf Midterm exam (2023)]
