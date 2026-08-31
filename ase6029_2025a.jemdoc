@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{ase6029.html}, notime
 = ASE6029: Linear Optimal Control
-[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2026 
+[http://jonghank.github.io Prof. Jong-Han Kim], [http://www.inha.ac.kr Inha University], Autumn 2025 
 
 ~~~
 == Announcements
@@ -17,10 +17,10 @@
 - [jonghank@inha.ac.kr Jong-Han Kim] (Rm.507)
 
 *Lectures* 
-- Tue/Thr 14:30-15:45 (Rm.216)
+- Tue/Thr 14:30-15:45 (Rm.217)
 
 *Office hours*
-- JHK: Mon/Tue 16:00-17:00 (Rm.507), or by appointments.
+- JHK: Tue/Thr 16:00-17:00 (Rm.507), or by appointments.
 
 *Prerequisites* 
 - Linear algebra and statistics
@@ -64,12 +64,10 @@
 . [https://nbviewer.org/gist/jonghank/953dd6b00abb5ba01a10ae896c580a1d Kalman filter]
 
 == Assignments
-/Occasional homework assignments will be posted here./
-
-#. [./ase6029/files/ase6029_hw1_2025a.pdf HW\#1] (due 10\/10)
-#. [./ase6029/files/ase6029_hw2_2025a.pdf HW\#2] (due 10\/20)
-#. [./ase6029/files/ase6029_hw3_2025a.pdf HW\#3] (due 10\/30)
-#. [./ase6029/files/ase6029_hw4_2025a.pdf HW\#4] (due 12\/4)
+. [./ase6029/files/ase6029_hw1_2025a.pdf HW\#1] (due 10\/10)
+. [./ase6029/files/ase6029_hw2_2025a.pdf HW\#2] (due 10\/20)
+. [./ase6029/files/ase6029_hw3_2025a.pdf HW\#3] (due 10\/30)
+. [./ase6029/files/ase6029_hw4_2025a.pdf HW\#4] (due 12\/4)
 #. [./ase6029/files/hw2_2024.pdf HW\#2] (due 10\/10)
 #. [./ase6029/files/hw3_2024.pdf HW\#3] (due 10\/29)
 #. [./ase6029/files/hw4_2024.pdf HW\#4] (due 11\/17)
