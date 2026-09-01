@@ -51,8 +51,8 @@
 
 
 == Computational Exercises
-. [https://nbviewer.org/gist/jonghank/7595f7852df9403b6d8aa00954c99161 Phase portrait]
-. [https://nbviewer.org/gist/jonghank/0dbba1edacbf5a95851eceb4a4b5dddd Eigenvectors and modes]
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/4b30cb8d6565197cae7d2f81508186c5/raw/5496427beec73cd6bd0b4ce0d690291390b6966a/ase6009-note1.ipynb Phase portrait]
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/86642be0c30e5ee18873dd1b1e2b713b/raw/ad9b01c78acab03bd7be13c1e6eadb6686c139a5/ase6009-note2.ipynb Eigenvectors and modes]
 . [https://nbviewer.org/gist/jonghank/3053a4b91be3cfe6ea4fd598157f2154 Impulse response]
 . [https://nbviewer.org/gist/jonghank/5a90f491606967ca81afe493dce7a7ad Least norm control]
 . [https://nbviewer.org/gist/jonghank/72755c4011ca00d6034a9a85a6b6cb09 Discrete LQR]
