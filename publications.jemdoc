@@ -3,7 +3,11 @@
 
 == Articles 
 
-- J. Kim, D.H. Jeong, D.-U. Kim, and J.-H. Kim, "Robust Embedded Off-Road Vehicle Speed Estimation via Lightweight Self-Attention and Autoregressive Residual Learning," (preprint)
+- H. Park, J, Shin, and J.-H. Kim, "GPU-Parallel Time-Splitting ADMM with Inexact Projections for Dual-Quaternion-Based Spacecraft Proximity Operations," (preprint).
+
+- Y. Chung, J. Kim, and J.-H. Kim, "Sparsity-Promoting Deferred-Decision Trajectory Optimization: Eliminating External Branch-Time Search," (preprint).
+
+- J. Kim, D.H. Jeong, D.-U. Kim, and J.-H. Kim, "Robust Embedded Off-Road Vehicle Speed Estimation via Lightweight Self-Attention and Autoregressive Residual Learning," (preprint).
 
 - G. Park, J.-J. Lee, J. Shin, and J.-H. Kim, "Exact Projection and Two-Block ADMM for Trajectory Optimization Under Nonconvex State-Dependent Cone Constraints," (preprint).
 
