@@ -4,7 +4,7 @@
 == Current
 
 === End-to-end reentry and landing guidance for reusable launchers
-/funded by [https://www.kasa.go.kr/ Korea AeroSpace Administration] (2026-2028)/
+/funded by [https://www.kari.re.kr/ Korea Aerospace Research Institute] and [https://www.kasa.go.kr/ Korea AeroSpace Administration] (2026-2028)/
 - Multi-phase optimization and learning-based initialization for integrated reentry, aerodynamic-descent, and powered-descent guidance with autonomous phase transitions
 - Fault-tolerant onboard guidance and safe fallback logic validated through 6-DoF Monte Carlo simulation and onboard benchmarks
 
@@ -14,12 +14,12 @@
 - Intervention learning within the human-in-the-loop coordination and digital integrated-test validation for conflict resolution, mission replanning, resource allocation, and emergency response
 
 === Real-time convex optimization-based guidance and control for precision lunar landing
-/funded by [https://www.kasa.go.kr/ Korea AeroSpace Administration] (2026-2027)/
+/funded by [https://www.kari.re.kr/ Korea Aerospace Research Institute] and [https://www.kasa.go.kr/ Korea AeroSpace Administration] (2026-2027)/
 - 3-DoF/6-DoF convex powered-descent guidance, real-time trajectory replanning, and fail-safe mode switching under sensor and model uncertainties
 - Lightweight onboard optimization solvers and embedded flight software validated through high-fidelity simulation, processor-in-the-loop tests, and indoor flight tests
 
 === Diffusion-based generative AI for data augmentation of ballistic target trajectories
-/funded by [https://www.ligdefenseaerospace.com/ LIG Defense&Aerospace] (2026-2028)/
+/funded by [https://www.ligdefenseaerospace.com/ LIG Defense&Aerospace] and [https://www.kcei.com KCEI] (2026-2028)/
 - Autoencoder-based latent representation and conditional diffusion models for generating diverse ballistic target trajectories from limited measured data
 - Physics-informed latent dynamics and clustering for reconstructing full trajectories from noisy and partial observations of unknown target types
 
@@ -34,12 +34,12 @@
 - Comprehensive verification of EDL technologies, crucial for reliable Mars landing capability
 
 === Ducted ramjet rocket simulation technology development
-/funded by [http://add.re.kr Agency for Defense Development] (2025-2027)/
+/funded by [http://add.re.kr Agency for Defense Development] and [https://www.realtimevisual.com/ REALTIMEVISUAL] (2025-2027)/
 - Advanced flight dynamic simulation software for ducted ramjet rocket systems
 - Trajectory design, precision guidance, and performance evaluation for ducted ramjet rocket systems
 
 === Data-efficient safe reinforcement learning from human corrections
-/funded by [https://viterbischool.usc.edu/aier/ Airbus Institute for Engineering Research] (2025-2027)/
+/funded by [https://viterbischool.usc.edu/aier/ Airbus Institute for Engineering Research], [https://www.usc.edu USC] (2025-2027)/
 - Reinforcement learning enhanced with computational modeling of human interventions
 - Integration of human correction models to improve the safety and data-efficiency of aerospace systems
 
@@ -54,12 +54,12 @@
 - Mission trajectory generation for optimal mission effectiveness and survivability of VTOL aircrafts
 
 === Real-time optimal guidance and control techniques for reusable launchers
-/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] (2023-2027)/
+/funded by [http://www.kari.re.kr Korea Aerospace Research Institute] and [https://www.kasa.go.kr/ Korea AeroSpace Administration] (2023-2027)/
 - Embedded optimization solvers for real-time powered descent guidance problems
 - Performance verification techniques for on-board powered descent guidance algorithms
 
 === Aerial target classification using radar measurements
-/funded by [http://www.lignex1.com LIG Nex1] (2023-2027)/
+/funded by [http://www.lignex1.com LIG Defense&Aerospace] (2023-2027)/
 - Aerial target dynamic simulation and radar signal modeling
 - Deep learning based classifier design for aerial targets
 
