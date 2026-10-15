@@ -47,7 +47,7 @@
 . [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/97fed82a01fa1f6a8bce40687dd64674/raw/020f37d56bde43578325f2deb40f3f235a347892/06_monte-carlo-methods.ipynb Monte-Carlo methods]
 . [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/a6a3d3518ef00f4e404fee7dc33b986b/raw/9b58ac6503a8b83c861ca200b17630604d042e84/09_signal_processing_2025a.ipynb Signal processing]
 . [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/590c81ac586794680474089f73e7835e/raw/ab4da7ae4feac3f938ce22b7bdabc5f3042821a9/13_image_processing_2026a_rev.ipynb Image processing]
-. [https://nbviewer.org/gist/jonghank/5b6d32663edf4a6d99edea4e4bccd5d3 Discrete Fourier transform]
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/5b6d32663edf4a6d99edea4e4bccd5d3/raw/56c473c49b05cbac47cc2df07045470e187acc14/07_discrete_fourier_transform.ipynb Discrete Fourier transform]
 . [https://nbviewer.org/url/gist.githubusercontent.com/jonghank/6b926c1e226cf89f58fbd090f67e3e07/raw/326b35c52a565b5252cbe6983907905644aab874/08_bayesian_inference.ipynb Bayesian inference]
 . [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/7dc4176a19ea33bdf31813d02a474790/raw/9095cabe8f12d207741eabf2b63910348ada01f2/10_optimization_2025a.ipynb Optimization]
 . [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/595e383799257c34202eb7c7d293d415/raw/09dc0bf9fc3dad14f0dae1e6478e3eadaabd6356/14_machine_learning.ipynb Machine learning]
@@ -65,9 +65,9 @@
 . [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/fc42a8e74cd68d6379f84a77cf69fef0/raw/b69cb409453a720f2dbfcef53723965ca73ac378/ase3001_exercises_impact_distribution.ipynb Impact distribution] (due 9\/24)
 . [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/1188dbc126a671d366fed789e36ba2c1/raw/5db30e74f3044de93b982bc53a9b0cbd62ca97c5/ase3001_exercises_state-estimation_and_filtering_2025a.ipynb State estimation and filtering] (due 10\/8)
 . [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/1462892b63f07b02bc72484ad8388592/raw/d40ea694f2604a64b89cc59cc4aa4c012e1daf58/ase3001_exercises_image_filtering_2026a.ipynb Image filtering] (due 10\/15)
+. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/04c25b8d099203673461c7c19e5f3d30/raw/f48f17586178d44074f1333fd444d650c80d83c5/ase3001_exercises_no_surprises_2026a.ipynb No surprises] (due 10\/22)
 #. [https://nbviewer.org/gist/jonghank/b7afa53266cfeedb0e9f4e15ea3d3b7a Numerical simulation] (due 9\/17)
 #. [https://nbviewer.org/gist/jonghank/d76c348175c919025b200a4b9fef19a7 Image filtering] (due 9\/24)
-#. [https://nbviewer.org/gist/jonghank/db6fa2af44937ea9ca1f48e5e38300a8 No surprises] (due 10\/8)
 #. [https://nbviewer.org/url/gist.githubusercontent.com/jonghank/11feebcb722fda4de72e46541fe2d414/raw/aa81a8a99692f124251fcc64cbe06c0e9a2165d8/ase3001_exercises_mobile_phone_localization_2025a.ipynb Mobile phone localization] (due 10\/22)
 #. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/d41ef5fb515a336f79f19e804ab38c0c/raw/bd1b8b72e85d9a8c44ce3b6c753971f37f0db3bb/ase3001_exercises_optimal_planetary_landing_2025a.ipynb Optimal planetary landing] (due 11\/26)
 #. [https://nbviewer.org/urls/gist.githubusercontent.com/jonghank/b071fff5af4c1c4646e15e6c2dff1fb6/raw/53365995d7332f259dfd186aace26e87b1510d65/ase3001_exercises_predicting-remaining-life-of-nasa-turbofan-engines.ipynb Predicting remaining life of NASA turbofan engines] (due 12\/3)
